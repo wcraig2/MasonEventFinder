@@ -21,6 +21,8 @@
 		to your new<br />SvelteKit app
 	</h1>
 
+    <a href="about/">About</a>
+
 	<h2>
 		try editing <strong>src/routes/+page.svelte</strong>
 	</h2>
