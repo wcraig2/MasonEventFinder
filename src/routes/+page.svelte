@@ -1,5 +1,3 @@
-
-
 <!--Site Name-->
 <title>GMU Entertainment Finder</title>
 
