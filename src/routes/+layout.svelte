@@ -18,16 +18,9 @@
 	}
 </script>
 <title>GMU Entertainment Finder</title>
-<!--Top Bar-->
-<div>
-	<!--GMU Logo MAKE CLASS FOR THESE LATER-->
-	<img alt="mason logo" style="width:100px; display:inline-block; margin-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/George_Mason_University_logo.svg/1024px-George_Mason_University_logo.svg.png"/>
-	<!--Site Header-->
-	<h1>Entertainment Finder</h1>
-</div>
-<div id="content" class="container-fluid">
+<div class="container-fluid">
 	<div class="row">
-		<div class="col-xs-2">
+		<div class="col-2">
 			<!--Sidebar-->
 			<div class="sidebar">
 				<a class="main-menu-item menu-item menu-item-div">Nearby Events</a>
@@ -52,12 +45,23 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-xs-1"></div>
-		<div class="col-xs-6">
+		<div class="col-1"></div>
+		<!--MAIN CONTENT-->
+		<div id="content" class="col-6">
+			<!--Top Bar-->
+			<div>
+				<div class="row">
+					<div class="col-3">
+						<img alt="mason logo" style="width:100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/George_Mason_University_logo.svg/1024px-George_Mason_University_logo.svg.png"/>
+					</div>
+					<div class="col-9">
+						<h1>Entertainment Finder</h1>
+					</div>
+			</div>
 			<main>
 				<slot />
 			</main>
 		</div>
-		<div class="col-xs-1"></div>
+		<div class="col-1"></div>
 	</div>
 </div>
