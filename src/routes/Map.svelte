@@ -1,5 +1,5 @@
 <script lang="ts">
-	import './styles.css';
+	import './map.css';
 
 	/** Hides a DOM element and optionally focuses on focusEl. */
 	function hideElement(el: HTMLElement, focusEl: HTMLElement) {
