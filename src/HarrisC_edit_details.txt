@@ -1,0 +1,19 @@
+Tasks:  
+    create a toggler to switch from light to night mode
+
+Reccomendations: 
+    Remove "black-blue.css" file
+	Comment out/remove line 6 from +layout.svelte "import './black-blue.css';"
+
+Changes:
+    maps.css
+        Commented lines: 354 - 362      //default Google Background settings overiding background
+    +layout.svelte:
+        Added lines 21-24               //Constant setTheme
+        Added lines 26 - 35             //Image toggler
+        Added lines 55 - 61             //Images div "toggler"
+    hooks.server.js 
+        on progress/testing to remove flashes when changing themes from user default theme
+    
+On-progress tasks:
+    retrieve user default theme, and upload to 

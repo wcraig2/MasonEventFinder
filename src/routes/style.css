@@ -3,131 +3,201 @@
 MAIN CSS
 
 ========================================================================================*/
+:root {
+	--bg-color: rgb(205, 223, 243);
+	--color: #333;
+}
+
+[data-theme="dark"] {
+	--bg-color: #333;
+	--color: #ddd;
+	
+}
+
+
 body {
-    line-height: 25px;
+	line-height: 25px;
+	background-color: var(--bg-color);
+	color: var(--color);
 }
-h1, h2, h3, h4, h5, h6 {
-    font-weight: bolder;
-    line-height: normal;
-    margin: 0 0 15px 0;
-    -ms-word-wrap: break-word;
-    word-wrap: break-word;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: bolder;
+	line-height: normal;
+	margin: 0 0 15px 0;
+	-ms-word-wrap: break-word;
+	word-wrap: break-word;
 }
-h1 {font-size: 30px;}
-h2 {font-size: 28px;}
-h3 {font-size: 26px;}
-h4 {font-size: 24px;}
-h5 {font-size: 22px;}
-h6 {font-size: 20px;}
+
+h1 {
+	font-size: 30px;
+}
+
+h2 {
+	font-size: 28px;
+}
+
+h3 {
+	font-size: 26px;
+}
+
+h4 {
+	font-size: 24px;
+}
+
+h5 {
+	font-size: 22px;
+}
+
+h6 {
+	font-size: 20px;
+}
 
 img {
-    display: inline-block;
-    vertical-align: middle;
-    max-width: 100%;
-    height: auto;
+	display: inline-block;
+	vertical-align: middle;
+	max-width: 100%;
+	height: auto;
 }
+
 a {
-    text-decoration: none;
+	text-decoration: none;
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 	outline: none;
 }
+
 a:hover,
 a:focus {
-    outline: none;
-    text-decoration: none;
+	outline: none;
+	text-decoration: none;
 }
+
 a:active {
-    outline: none;
+	outline: none;
 }
+
 iframe,
 select {
-    max-width: 100%;
+	max-width: 100%;
 }
+
 input:focus {
-    outline: none
+	outline: none
 }
+
 input,
 textarea {
-    max-width: 100%;
+	max-width: 100%;
 }
-.sticky {} .screen-reader-text {} .gallery-caption {} .bypostauthor {} .alignnone {
-    margin: 5px 20px 20px 0;
+
+.sticky {}
+
+.screen-reader-text {}
+
+.gallery-caption {}
+
+.bypostauthor {}
+
+.alignnone {
+	margin: 5px 20px 20px 0;
 }
+
 .aligncenter,
 div.aligncenter {
-    display: block;
-    margin: 5px auto 5px auto;
+	display: block;
+	margin: 5px auto 5px auto;
 	text-align: center;
 }
+
 .alignright {
-    float: right;
-    margin: 5px 0 20px 20px;
+	float: right;
+	margin: 5px 0 20px 20px;
 }
+
 .alignleft {
-    float: left;
-    margin: 5px 20px 20px 0;
+	float: left;
+	margin: 5px 20px 20px 0;
 }
+
 a img.alignright {
-    float: right;
-    margin: 5px 0 20px 20px;
+	float: right;
+	margin: 5px 0 20px 20px;
 }
+
 a img.alignnone {
-    margin: 5px 20px 20px 0;
+	margin: 5px 20px 20px 0;
 }
+
 a img.alignleft {
-    float: left;
-    margin: 5px 20px 20px 0;
+	float: left;
+	margin: 5px 20px 20px 0;
 }
+
 a img.aligncenter {
-    display: block;
-    margin-left: auto;
-    margin-right: auto
+	display: block;
+	margin-left: auto;
+	margin-right: auto
 }
+
 th,
 td {
-    padding: 0.4em;
-    text-align: center;
+	padding: 0.4em;
+	text-align: center;
 }
+
 table {
-    border-collapse: separate;
-    border-spacing: 0;
-    border: none;
-    margin: 0 0 1.6em;
-    table-layout: auto;
-    width: 100%;
+	border-collapse: separate;
+	border-spacing: 0;
+	border: none;
+	margin: 0 0 1.6em;
+	table-layout: auto;
+	width: 100%;
 }
+
 tbody tr th {
-    font-weight: 400;
+	font-weight: 400;
 }
+
 th {
 	font-size: 18px;
 	border: 0;
 	border-bottom: 1px solid #666;
 }
+
 table {
 	border: 0;
 }
+
 td {
 	border: 0;
 	border-top: 1px solid #666;
 	padding: 20px 0;
 }
+
 label {
-    font-weight: 500;
+	font-weight: 500;
 }
+
 dt,
 dd {
-    line-height: inherit;
+	line-height: inherit;
 }
+
 hr {
-    display: block;
-    border-top: 1px solid #777;
-    margin: 1em 0;
-    padding: 0; 
+	display: block;
+	border-top: 1px solid #777;
+	margin: 1em 0;
+	padding: 0;
 }
+
 button,
 input[type="button"],
 input[type="reset"],
@@ -135,7 +205,7 @@ input[type="submit"] {
 	border-radius: 3px;
 	background: #666;
 	color: #fff;
-	-webkit-appearance: button; 
+	-webkit-appearance: button;
 	padding: 4px 15px;
 	border-color: #0000;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -143,6 +213,7 @@ input[type="submit"] {
 	-o-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 }
+
 button:hover,
 input[type="button"]:hover,
 input[type="reset"]:hover,
@@ -151,6 +222,7 @@ input[type="submit"]:hover {
 	opacity: 0.6;
 	transition: 0s;
 }
+
 input[type="email"] {
 	text-align: center;
 	border-radius: 50px;
@@ -160,37 +232,40 @@ input[type="email"] {
 	font-size: 12px;
 	width: 100%;
 }
+
 .widget {
 	text-align: center;
 	margin: 0 20%;
 }
+
 /* Text meant only for screen readers */
 .screen-reader-text {
-    clip: rect(1px, 1px, 1px, 1px);
-    position: absolute !important;
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
 }
+
 .screen-reader-text:hover,
 .screen-reader-text:active,
 .screen-reader-text:focus {
-    background-color: #f1f1f1;
-    border-radius: 3px;
-    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
-    -moz-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
-    -webkit-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
-    clip: auto !important;
-    color: #21759b;
-    display: block;
-    font-size: 14px;
-    font-weight: bold;
-    height: auto;
-    left: 5px;
-    line-height: normal;
-    padding: 15px 23px 14px;
-    text-decoration: none;
-    top: 5px;
-    width: auto;
-    z-index: 100000;
-    /* Above WP toolbar */
+	background-color: #f1f1f1;
+	border-radius: 3px;
+	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+	-moz-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+	-webkit-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+	clip: auto !important;
+	color: #21759b;
+	display: block;
+	font-size: 14px;
+	font-weight: bold;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 15px 23px 14px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000;
+	/* Above WP toolbar */
 }
 
 
@@ -208,11 +283,13 @@ SIDEBAR
 	z-index: 1;
 	left: 0%;
 }
+
 .search {
 	margin: 30px 20px 20px;
 	display: flex;
 	justify-content: center;
 }
+
 .search-form {
 	text-align: center;
 	border-radius: 50px;
@@ -222,13 +299,16 @@ SIDEBAR
 	font-size: 12px;
 	width: 100%;
 }
+
 .menu-container {
 	width: 100%;
 	height: 100%;
 }
+
 .main-menu-item {
 	font-size: 18px !important;
 }
+
 .menu-item {
 	display: flex;
 	padding: 20px 10%;
@@ -237,10 +317,12 @@ SIDEBAR
 	justify-content: center;
 	font-size: 16px;
 }
+
 .menu-item:hover,
 .menu-item:focus {
 	color: #aaa;
 }
+
 .menu-div {
 	width: 15%;
 	height: 100%;
@@ -256,13 +338,16 @@ SIDEBAR
 	-o-transition: all 1s ease-in-out;
 	transition: all 1s ease-in-out;
 }
+
 .big-menu-div {
 	width: 83.5% !important;
 }
-.menu-item:hover + .menu-div,
+
+.menu-item:hover+.menu-div,
 .menu-div:hover {
 	top: 0;
 }
+
 .menu-bar {
 	width: 66%;
 	margin: auto;
@@ -273,14 +358,17 @@ SIDEBAR
 	-o-transition: all .5s ease-in-out;
 	transition: all .5s ease-in-out;
 }
-.menu-item:hover + .menu-div + .menu-bar,
-.menu-item:hover + .menu-bar {
+
+.menu-item:hover+.menu-div+.menu-bar,
+.menu-item:hover+.menu-bar {
 	width: 100%;
 	border-radius: 0;
 }
+
 .menu-item-div:hover {
 	cursor: default;
 }
+
 .white,
 .white:hover,
 .white:focus {
@@ -288,51 +376,53 @@ SIDEBAR
 	margin: 5px 20%;
 	font-size: 18px;
 }
+
 .text-size-wrapper {
 	display: flex;
 	padding: 15px 5%;
 	justify-content: center;
 }
+
 /* Style the navigation menu */
 .topnav {
-  overflow: hidden;
-  background-color: #333;
-  position: relative;
+	overflow: hidden;
+	background-color: #333;
+	position: relative;
 }
 
 /* Hide the links inside the navigation menu (except for logo/home) */
 .topnav #myLinks {
-  display: none;
+	display: none;
 }
 
 /* Style navigation menu links */
 .topnav a {
-  color: white;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-  display: block;
+	color: white;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+	display: block;
 }
 
 /* Style the hamburger menu */
 .topnav a.icon {
-  background: black;
-  display: block;
-  position: absolute;
-  right: 0;
-  top: 0;
+	background: black;
+	display: block;
+	position: absolute;
+	right: 0;
+	top: 0;
 }
 
 /* Add a grey background color on mouse-over */
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+	background-color: #ddd;
+	color: black;
 }
 
 /* Style the active link (or home/logo) */
 .active {
-  background-color: #222;
-  color: white;
+	background-color: #222;
+	color: white;
 }
 
 /*====================================================================================== 
@@ -342,27 +432,44 @@ SCROLLBAR
 ========================================================================================*/
 
 ::-webkit-scrollbar {
-    width: 12px;
+	width: 12px;
 }
+
 ::-webkit-scrollbar-track,
 ::-webkit-scrollbar-button {
-    background: #07070a;
+	background: #07070a;
 }
+
 ::-webkit-scrollbar-thumb,
-::-webkit-scrollbar-button:hover  {
-    background: #666; 
+::-webkit-scrollbar-button:hover {
+	background: #666;
 	border-radius: 3px;
 }
+
 div::-webkit-scrollbar {
-    width: 7px;
+	width: 7px;
 }
+
 div::-webkit-scrollbar-thumb {
-    background: #666; 
+	background: #666;
 	border-radius: 0px;
 }
+
 div::-webkit-scrollbar-thumb:hover {
 	background: #666;
 }
+
 div::-webkit-scrollbar-button {
-	display:none;
+	display: none;
 }
+
+/*====================================================================================== 
+    
+toggler
+
+========================================================================================*/
+
+
+
+
+
