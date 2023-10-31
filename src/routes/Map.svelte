@@ -1,5 +1,7 @@
 <script lang="ts">
+	import type { AnymatchPattern } from 'vite';
 	import './map.css';
+	import Handlebars from "handlebars";
 
 	/** Hides a DOM element and optionally focuses on focusEl. */
 	function hideElement(el: HTMLElement, focusEl: HTMLElement) {
@@ -52,10 +54,10 @@
 	 * Constructs an array of opening hours by day from a PlaceOpeningHours object,
 	 * where adjacent days of week with the same hours are collapsed into one element.
 	 */
-	function parseDaysHours(openingHours) {
+	function parseDaysHours(openingHours: any) {
 		const daysHours = openingHours.weekday_text
-			.map((e) => e.split(/\:\s+/))
-			.map((e) => ({ days: e[0].substr(0, 3), hours: e[1] }));
+			.map((e: any) => e.split(/\:\s+/))
+			.map((e: any) => ({ days: e[0].substr(0, 3), hours: e[1] }));
 
 		for (let i = 1; i < daysHours.length; i++) {
 			if (daysHours[i - 1].hours === daysHours[i].hours) {
@@ -112,7 +114,7 @@
 	 * Defines an instance of the Neighborhood Discovery widget, to be
 	 * instantiated when the Maps library is loaded.
 	 */
-	function NeighborhoodDiscovery(configuration) {
+	function NeighborhoodDiscovery(this: any, configuration: any) {
 		const widget = this;
 		const widgetEl = document.querySelector('.neighborhood-discovery');
 
@@ -144,7 +146,7 @@
 			mapOptions.mapTypeControlOptions = { position: google.maps.ControlPosition.TOP_RIGHT };
 			widget.map = new google.maps.Map(widgetEl.querySelector('.map'), mapOptions);
 			widget.map.fitBounds(widget.mapBounds, /* padding= */ 0);
-			widget.map.addListener('click', (e) => {
+			widget.map.addListener('click', (e: any) => {
 				// Check if user clicks on a POI pin from the base map.
 				if (e.placeId) {
 					e.stop();
@@ -166,7 +168,7 @@
 			});
 
 			const markerPath = widgetEl.querySelector('.marker-pin path').getAttribute('d');
-			const drawMarker = function (title, position, fillColor, strokeColor, labelText) {
+			const drawMarker = function (title: any, position: any, fillColor: any, strokeColor: any, labelText: any) {
 				return new google.maps.Marker({
 					title: title,
 					position: position,
@@ -194,13 +196,13 @@
 			}
 
 			// Add marker for the specified Place object.
-			widget.addPlaceMarker = function (place) {
+			widget.addPlaceMarker = function (place: any) {
 				place.marker = drawMarker(place.name, place.coords, '#EA4335', '#C5221F', place.icon);
-				place.marker.addListener('click', () => void widget.selectPlaceById(place.placeId));
+				place.marker.addListener('click', () => void widget.selectPlaceById(place.placeId) as any);
 			};
 
 			// Fit map to bounds that contain all markers of the specified Place objects.
-			widget.updateBounds = function (places) {
+			widget.updateBounds = function (places: any) {
 				const bounds = new google.maps.LatLngBounds();
 				bounds.extend(widget.center);
 				for (let place of places) {
@@ -223,7 +225,7 @@
 				place.fetchedFields = new Set(['place_id']);
 			}
 
-			widget.fetchPlaceDetails = function (placeId, fields, callback) {
+			widget.fetchPlaceDetails = function (placeId: any, fields: any, callback: any) {
 				if (!placeId || !fields) return;
 
 				// Check for field existence in Place object.
@@ -232,7 +234,7 @@
 					place = { placeId: placeId, fetchedFields: new Set(['place_id']) };
 					placeIdsToDetails.set(placeId, place);
 				}
-				const missingFields = fields.filter((field) => !place.fetchedFields.has(field));
+				const missingFields = fields.filter((field: any) => !place.fetchedFields.has(field));
 				if (missingFields.length === 0) {
 					callback(place);
 					return;
@@ -240,7 +242,7 @@
 
 				const request = { placeId: placeId, fields: missingFields };
 				let retryCount = 0;
-				const processResult = function (result, status) {
+				const processResult = function (result: any, status: AnymatchPattern) {
 					if (status !== google.maps.places.PlacesServiceStatus.OK) {
 						// If query limit has been reached, wait before making another call;
 						// Increase wait time of each successive retry with exponential backoff
@@ -262,7 +264,7 @@
 					if (result.formatted_address) place.address = result.formatted_address;
 					if (result.photos) {
 						place.photos = result.photos
-							.map((photo) => ({
+							.map((photo: any) => ({
 								urlSmall: photo.getUrl({ maxWidth: 200, maxHeight: 200 }),
 								urlLarge: photo.getUrl({ maxWidth: 1200, maxHeight: 1200 }),
 								attrs: photo.html_attributions
@@ -273,9 +275,8 @@
 						place.type = formatPlaceType(result.types[0]);
 						place.icon = ND_MARKER_ICONS_BY_TYPE['_default'];
 						for (let type of result.types) {
-							if (type in ND_MARKER_ICONS_BY_TYPE) {
+							if (type as string in ND_MARKER_ICONS_BY_TYPE) {
 								place.type = formatPlaceType(type);
-								place.icon = ND_MARKER_ICONS_BY_TYPE[type];
 								break;
 							}
 						}
@@ -328,11 +329,11 @@
 
 		/** Initializes the side panel that holds curated POI results. */
 		function initializeSidePanel() {
-			const placesPanelEl = widgetEl.querySelector('.places-panel');
-			const detailsPanelEl = widgetEl.querySelector('.details-panel');
-			const placeResultsEl = widgetEl.querySelector('.place-results-list');
-			const showMoreButtonEl = widgetEl.querySelector('.show-more-button');
-			const photoModalEl = widgetEl.querySelector('.photo-modal');
+			const placesPanelEl = widgetEl!.querySelector('.places-panel') as HTMLElement;
+			const detailsPanelEl = widgetEl!.querySelector('.details-panel') as HTMLElement;
+			const placeResultsEl = widgetEl!.querySelector('.place-results-list') as HTMLElement;
+			const showMoreButtonEl = widgetEl!.querySelector('.show-more-button') as HTMLButtonElement;
+			const photoModalEl = widgetEl!.querySelector('.photo-modal') as HTMLElement;
 			const detailsTemplate = Handlebars.compile(
 				document.getElementById('nd-place-details-tmpl').innerHTML
 			);
@@ -341,66 +342,65 @@
 			);
 
 			// Show specified POI photo in a modal.
-			const showPhotoModal = function (photo, placeName) {
-				const prevFocusEl = document.activeElement;
-				const imgEl = photoModalEl.querySelector('img');
-				imgEl.src = photo.urlLarge;
-				const backButtonEl = photoModalEl.querySelector('.back-button');
-				backButtonEl.addEventListener('click', () => {
+			const showPhotoModal = function (photo: { urlLarge: string; attrs: string; }, placeName: string) {
+				const prevFocusEl = document.activeElement as HTMLElement;
+				const imgEl = photoModalEl!.querySelector('img');
+				imgEl!.src = photo.urlLarge;
+				const backButtonEl = photoModalEl!.querySelector('.back-button') as HTMLElement;
+				backButtonEl!.addEventListener('click', () => {
 					hideElement(photoModalEl, prevFocusEl);
-					imgEl.src = '';
+					imgEl!.src = '';
 				});
 				photoModalEl.querySelector('.photo-place').innerHTML = placeName;
 				photoModalEl.querySelector('.photo-attrs span').innerHTML = photo.attrs;
-				const attributionEl = photoModalEl.querySelector('.photo-attrs a');
+				const attributionEl = photoModalEl!.querySelector('.photo-attrs a');
 				if (attributionEl) attributionEl.setAttribute('target', '_blank');
-				photoModalEl.addEventListener('click', (e) => {
+				photoModalEl!.addEventListener('click', (e) => {
 					if (e.target === photoModalEl) {
 						hideElement(photoModalEl, prevFocusEl);
-						imgEl.src = '';
+						imgEl!.src = '';
 					}
 				});
 				showElement(photoModalEl, backButtonEl);
 			};
 
 			// Select a place by id and show details.
-			let selectedPlaceId;
-			widget.selectPlaceById = function (placeId, panToMarker) {
+			let selectedPlaceId: undefined;
+			widget.selectPlaceById = function (placeId: any, panToMarker: any) {
 				if (selectedPlaceId === placeId) return;
 				selectedPlaceId = placeId;
-				const prevFocusEl = document.activeElement;
+				const prevFocusEl = document.activeElement as HTMLElement;
 
-				const showDetailsPanel = function (place) {
-					detailsPanelEl.innerHTML = detailsTemplate(place);
-					const backButtonEl = detailsPanelEl.querySelector('.back-button');
-					backButtonEl.addEventListener('click', () => {
+				const showDetailsPanel = function (place: { photos: any[]; name: any; }) {
+					detailsPanelEl!.innerHTML = detailsTemplate(place);
+					const backButtonEl = detailsPanelEl!.querySelector('.back-button') as HTMLElement;
+					backButtonEl!.addEventListener('click', () => {
 						hideElement(detailsPanelEl, prevFocusEl);
 						selectedPlaceId = undefined;
 						widget.updateDirections();
 						widget.selectedPlaceMarker.setMap(null);
 					});
-					detailsPanelEl.querySelectorAll('.photo').forEach((photoEl, i) => {
+					detailsPanelEl!.querySelectorAll('.photo').forEach((photoEl, i) => {
 						photoEl.addEventListener('click', () => {
 							showPhotoModal(place.photos[i], place.name);
 						});
 					});
 					showElement(detailsPanelEl, backButtonEl);
-					detailsPanelEl.scrollTop = 0;
+					detailsPanelEl!.scrollTop = 0;
 				};
 
-				const processResult = function (place) {
-					if (place.marker) {
+				const processResult = function (place2: { marker: any; coords: any; }) {
+					if (place2.marker) {
 						widget.selectedPlaceMarker.setMap(null);
 					} else {
-						widget.selectedPlaceMarker.setPosition(place.coords);
+						widget.selectedPlaceMarker.setPosition(place2.coords);
 						widget.selectedPlaceMarker.setMap(widget.map);
 					}
 					if (panToMarker) {
-						widget.map.panTo(place.coords);
+						widget.map.panTo(place2.coords);
 					}
-					showDetailsPanel(place);
-					widget.fetchDuration(place, showDetailsPanel);
-					widget.updateDirections(place);
+					widget.fetchDuration(place2, showDetailsPanel);
+					widget.updateDirections(place2);
 				};
 
 				widget.fetchPlaceDetails(
@@ -425,9 +425,9 @@
 			};
 
 			// Render the specified place objects and append them to the POI list.
-			const renderPlaceResults = function (places, startIndex) {
-				placeResultsEl.insertAdjacentHTML('beforeend', resultsTemplate({ places: places }));
-				placeResultsEl.querySelectorAll('.place-result').forEach((resultEl, i) => {
+			const renderPlaceResults = function (places: any, startIndex: any) {
+				placeResultsEl!.insertAdjacentHTML('beforeend', resultsTemplate({ places: places }));
+				placeResultsEl!.querySelectorAll('.place-result').forEach((resultEl, i) => {
 					const place = places[i - startIndex];
 					if (!place) return;
 					// Clicking anywhere on the item selects the place.
@@ -452,17 +452,17 @@
 			let nextPlaceIndex = 0;
 
 			// Fetch and show basic info for the next N places.
-			const showNextPlaces = function (n) {
+			const showNextPlaces = function (n: any) {
 				const nextPlaces = widget.places.slice(nextPlaceIndex, nextPlaceIndex + n);
 				if (nextPlaces.length < 1) {
-					hideElement(showMoreButtonEl);
+					hideElement(showMoreButtonEl, null);
 					return;
 				}
 				showMoreButtonEl.disabled = true;
 				// Keep track of the number of Places calls that have not finished.
 				let count = nextPlaces.length;
 				for (let place of nextPlaces) {
-					const processResult = function (place) {
+					const processResult = function (place: any) {
 						count--;
 						if (count > 0) return;
 						renderPlaceResults(nextPlaces, nextPlaceIndex);
@@ -470,10 +470,10 @@
 						widget.updateBounds(widget.places.slice(0, nextPlaceIndex));
 						const hasMorePlacesToShow = nextPlaceIndex < widget.places.length;
 						if (hasMorePlacesToShow || hasHiddenContent(placesPanelEl)) {
-							showElement(showMoreButtonEl);
+							showElement(showMoreButtonEl, null);
 							showMoreButtonEl.disabled = false;
 						} else {
-							hideElement(showMoreButtonEl);
+							hideElement(showMoreButtonEl, null);
 						}
 					};
 					widget.fetchPlaceDetails(
@@ -502,7 +502,7 @@
 
 		/** Initializes Search Input for the widget. */
 		function initializeSearchInput() {
-			const searchInputEl = widgetEl.querySelector('.place-search-input');
+			const searchInputEl = widgetEl.querySelector('.place-search-input') as HTMLInputElement;
 			widget.placeIdsToAutocompleteResults = new Map();
 
 			// Set up Autocomplete on the search input.
@@ -540,7 +540,7 @@
 			const distanceMatrixService = new google.maps.DistanceMatrixService();
 
 			// Annotate travel times from the centered location to the specified place.
-			widget.fetchDuration = function (place, callback) {
+			widget.fetchDuration = function (place: { coords: any; duration: google.maps.Duration; }, callback: (arg0: any) => void) {
 				if (!widget.center || !place || !place.coords || place.duration) return;
 				const request = {
 					origins: [widget.center],
@@ -568,7 +568,7 @@
 			});
 
 			// Update directions from the centered location to specified place.
-			widget.updateDirections = function (place) {
+			widget.updateDirections = function (place: { coords: any; directions: google.maps.DirectionsResult | null; }) {
 				if (!widget.center || !place || !place.coords) {
 					directionsRenderer.setMap(null);
 					return;
