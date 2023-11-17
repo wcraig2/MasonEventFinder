@@ -23,13 +23,13 @@
 		document.cookie = 'siteTheme = ${theme}';
 	};
 
-	let imagePath = 'src/lib/images/sun.png';
+	let imagePath = '../lib/images/sun.png';
 	function handleClick() {
-		if (imagePath === 'src/lib/images/sun.png') {
-			imagePath = 'src/lib/images/moon.png';
+		if (imagePath === '../lib/images/sun.png') {
+			imagePath = '../lib/images/moon.png';
 			setTheme('dark');
 		} else {
-			imagePath = 'src/lib/images/sun.png';
+			imagePath = '../lib/images/sun.png';
 			setTheme('light');
 		}
 	}
