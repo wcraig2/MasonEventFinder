@@ -7,6 +7,10 @@
 	import './map.css';
 	import Map from './Map.svelte';
 
+	import sun from "$lib/images/sun.png";
+	import moon from "$lib/images/moon.png";
+
+
 	/** @type {import('./$types').LayoutServerData} */
 	export let data;
 
@@ -23,13 +27,13 @@
 		document.cookie = 'siteTheme = ${theme}';
 	};
 
-	let imagePath = '../lib/images/sun.png';
+	let imagePath = sun;
 	function handleClick() {
-		if (imagePath === '../lib/images/sun.png') {
-			imagePath = '../lib/images/moon.png';
+		if (imagePath === sun) {
+			imagePath = moon;
 			setTheme('dark');
 		} else {
-			imagePath = '../lib/images/sun.png';
+			imagePath = sun;
 			setTheme('light');
 		}
 	}
