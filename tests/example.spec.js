@@ -35,13 +35,13 @@ test('light-mode-css', async ({ page }) => {
 test('dark-mode-icon', async ({ page }) => {
   await page.goto('http://localhost:5173/');
   await page.locator('#icon').click();
-  await expect(page.locator('#icon')).toHaveAttribute('src', 'src/lib/images/moon.png');
+  await expect(page.locator('#icon')).toHaveAttribute('src', '/src/lib/images/moon.png');
 });
 
 test('light-mode-icon', async ({ page }) => {
   await page.goto('http://localhost:5173/');
-  await expect(page.locator('#icon')).toHaveAttribute('src', 'src/lib/images/sun.png');
+  await expect(page.locator('#icon')).toHaveAttribute('src', '/src/lib/images/sun.png');
   await page.locator('#icon').click();
   await page.locator('#icon').click();
-  await expect(page.locator('#icon')).toHaveAttribute('src', 'src/lib/images/sun.png');
+  await expect(page.locator('#icon')).toHaveAttribute('src', '/src/lib/images/sun.png');
 });
