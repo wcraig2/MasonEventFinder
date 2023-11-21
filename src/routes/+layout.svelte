@@ -5,7 +5,7 @@
 	import './style.css';
 	// import './black-blue.css';
 	import './map.css';
-	import Map from './Map.svelte';
+	import Map from '$lib/Map.svelte';
 
 	import sun from "$lib/images/sun.png";
 	import moon from "$lib/images/moon.png";

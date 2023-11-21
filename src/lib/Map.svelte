@@ -1,6 +1,6 @@
 <script lang="ts">
 	import type { AnymatchPattern } from 'vite';
-	import './map.css';
+	import '../routes/map.css';
 	import Handlebars from "handlebars";
 
 	/** Hides a DOM element and optionally focuses on focusEl. */

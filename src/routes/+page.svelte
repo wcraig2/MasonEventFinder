@@ -1,3 +1,14 @@
+<script lang="ts">
+	export let data;
+	
+	// Demo of printing out the users returned from the 
+	// "load" function in the page.server.ts file.
+	for (const user in data.users) {
+		console.log(user);
+	}
+
+</script>
+
 <!--Map-->
 <div style="; width:75%; height:750px; border:none; padding:none;">
 	<iframe title = "Map" src="https://storage.googleapis.com/maps-solutions-q9m38c7ts5/neighborhood-discovery/snel/neighborhood-discovery.html"
