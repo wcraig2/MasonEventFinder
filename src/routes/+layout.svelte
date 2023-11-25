@@ -47,27 +47,27 @@
 		<div class="col-2">
 			<!--Sidebar-->
 			<div class="sidebar">
-				<a class="main-menu-item menu-item menu-item-div">Nearby Events</a>
+				<a href="/events" class="main-menu-item menu-item menu-item-div">Nearby Events</a>
 				<div class="menu-div">
 					<a href="about:blank" class="menu-item">Example Menu Item</a>
 				</div>
 				<div class="menu-bar" />
-				<a class="main-menu-item menu-item menu-item-div">Nearby Places</a>
+				<a href="/places" class="main-menu-item menu-item menu-item-div">Nearby Places</a>
 				<div class="menu-bar" />
-				<a class="main-menu-item menu-item menu-item-div">Favorites</a>
+				<a href="/favorites" class="main-menu-item menu-item menu-item-div">Favorites</a>
 				<div class="menu-bar" />
-				<a class="main-menu-item menu-item menu-item-div">Popular Events</a>
+				<a href="/popular" class="main-menu-item menu-item menu-item-div">Popular Events</a>
 				<div class="menu-bar" />
-				<a class="main-menu-item menu-item menu-item-div">Suggestions</a>
+				<a href="/suggestions" class="main-menu-item menu-item menu-item-div">Suggestions</a>
 				<div class="menu-bar" />
-				<a class="main-menu-item menu-item menu-item-div">My Profile</a>
+				<a href="/profile" class="main-menu-item menu-item menu-item-div">My Profile</a>
 				<div class="menu-bar" />
 				<div class="search">
-					<form method="get" action="about:blank">
+					<form method="get" action="/search">
 						<input type="text" placeholder="Search and hit enter..." name="s" class="search-form" />
 					</form>
 				</div>
-				<div class="toggler">
+				<div class="toggler aligncenter">
 					<img src={imagePath} class="clickable" id="icon" on:click={handleClick} />
 				</div>
 			</div>
@@ -79,16 +79,19 @@
 			<div>
 				<div class="row">
 					<div class="col-3">
-						<img
+						<a href="/"><img
 							alt="mason logo"
 							style="width:100%"
 							src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/George_Mason_University_logo.svg/1024px-George_Mason_University_logo.svg.png"
-						/>
+						/></a>
 					</div>
+					
 					<div class="col-9">
+						<br>
 						<h1>Entertainment Finder</h1>
 					</div>
 				</div>
+				<br>
 				<main>
 					<slot />
 				</main>
