@@ -11,6 +11,28 @@ async function createUserTable(db: VercelPool) {
             "createdAt" TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
         );
     `;
+
+	/* table ideas
+	 	CREATE TABLE IF NOT EXISTS place(
+			id SERIAL PRIMARY KEY
+			name VARCHAR(255) NOT NULL,
+			lat FLOAT NOT NULL DEFAULT 0,
+			long FLOAT NOT NULL DEFAULT 0,
+			type ENUM("Restaurant", "Entertainment", "Business", ...) DEFAULT NULL,
+			tags VARCHAR(255) DEFAULT NULL,
+			summary VARCHAR(255) DEFAULT NULL
+		)
+
+		CREATE TABLE IF NOT EXISTS event(
+			id SERIAL PRIMARY KEY
+			name VARCHAR(255) NOT NULL,
+			type VARCHAR(255) DEFAULT NULL,
+			time DATE DEFAULT NULL,
+			tags VARCHAR(255) DEFAULT NULL,
+			info VARCHAR(255) DEFAULT NULL,
+			placeId INT FOREIGN KEY REFERENCES place(id)
+		)
+	 */
 }
 
 export async function load() {
