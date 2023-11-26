@@ -63,8 +63,8 @@
 				<a href="/profile" class="main-menu-item menu-item menu-item-div">My Profile</a>
 				<div class="menu-bar" />
 				<div class="search">
-					<form method="get" action="/search">
-						<input type="text" placeholder="Search and hit enter..." name="s" class="search-form" />
+					<form method="get" action="src\routes\search\+page.svelte">
+						<input type="text" placeholder="Search and hit enter..." name="s" class="search-form" required/>
 					</form>
 				</div>
 				<div class="toggler aligncenter">
