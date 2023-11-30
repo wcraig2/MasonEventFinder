@@ -1,0 +1,5161 @@
+[
+  {
+    "name": "Steven F. Udvar-Hazy Center",
+    "address": "Steven F. Udvar-Hazy Center, 14390 Air and Space Museum Parkway, Chantilly",
+    "distance": 8.969838004312022,
+    "category": "Museums",
+    "place_id": "ChIJcyBkMutGtokRqMoMaOdxXrE"
+  },
+  {
+    "name": "Technology & Supply Management LLC",
+    "address": "3877 Fairfax Ridge Road # 110N, Fairfax",
+    "distance": 2.453531194671963,
+    "category": "Museums",
+    "place_id": "ChIJ3ZxeaSFPtokR5PeFv7DGEwk"
+  },
+  {
+    "name": "Green Spring Gardens",
+    "address": "4603 Green Spring Road, Alexandria",
+    "distance": 8.42260665760525,
+    "category": "Museums",
+    "place_id": "ChIJ05IyWgSzt4kRlsdUKEzRTRM"
+  },
+  {
+    "name": "NRA National Firearms Museum",
+    "address": "11250 Waples Mill Road, Fairfax",
+    "distance": 2.493044795424602,
+    "category": "Museums",
+    "place_id": "ChIJLbrYzyZPtokRBlUEdqH6ZNY"
+  },
+  {
+    "name": "Sully Historic Site",
+    "address": "3650 Historic Sully Way, Chantilly",
+    "distance": 8.264445761523945,
+    "category": "Museums",
+    "place_id": "ChIJoT3DVotGtokRRHqW7NANfrs"
+  },
+  {
+    "name": "Workhouse Arts Center",
+    "address": "9518 Workhouse Way, Lorton",
+    "distance": 9.749386512590924,
+    "category": "Museums",
+    "place_id": "ChIJWR2pH3FUtokRqTWzUuv4dog"
+  },
+  {
+    "name": "Cortina Productions Inc",
+    "address": "1651 Old Meadow Road #400, McLean",
+    "distance": 8.384581102961878,
+    "category": "Museums",
+    "place_id": "ChIJg2YXImi1t4kRzmGo9eEvA9o"
+  },
+  {
+    "name": "Fairfax Station Railroad Museum",
+    "address": "11200 Fairfax Station Road, Fairfax Station",
+    "distance": 2.399775710258605,
+    "category": "Museums",
+    "place_id": "ChIJXS_IqCxOtokRTluhZVgaZ6A"
+  },
+  {
+    "name": "Colvin Run Mill",
+    "address": "10017 Colvin Run Road, Great Falls",
+    "distance": 9.539902130368917,
+    "category": "Museums",
+    "place_id": "ChIJl6_Kvw42tokRNWEwSKlYbTI"
+  },
+  {
+    "name": "Fairfax Historic Courthouse Museum",
+    "address": "4000 Chain Bridge Road, Fairfax",
+    "distance": 0.9870418746333736,
+    "category": "Museums",
+    "place_id": "ChIJvxtm7pJOtokRvEiQim5f1c0"
+  },
+  {
+    "name": "Fairfax Museum and Visitor Center",
+    "address": "10209 Main Street, Fairfax",
+    "distance": 1.0812634317720642,
+    "category": "Museums",
+    "place_id": "ChIJI1P2SZBOtokRYrW4d68U82c"
+  },
+  {
+    "name": "Children's Science Center Lab",
+    "address": "11948 Fair Oaks Mall, Fairfax",
+    "distance": 3.384222023780021,
+    "category": "Museums",
+    "place_id": "ChIJaTSjzUBPtokR6mI-2uUn6s0"
+  },
+  {
+    "name": "McMahon Studio",
+    "address": "2810 Bree Hill Road, Oakton",
+    "distance": 5.531293124713074,
+    "category": "Museums",
+    "place_id": "ChIJocosGexItokRTWSuOAqjPHs"
+  },
+  {
+    "name": "Vienna Caboose",
+    "address": "Vienna",
+    "distance": 5.696066998499529,
+    "category": "Museums",
+    "place_id": "ChIJ-RqtUshLtokRjhJxwHoG_ZY"
+  },
+  {
+    "name": "Orion International Technologies",
+    "address": "5510 Cherokee Avenue #120, Alexandria",
+    "distance": 8.101719379942573,
+    "category": "Museums",
+    "place_id": "ChIJy4SY1uiyt4kR4wcxy63UGC8"
+  },
+  {
+    "name": "Vykin",
+    "address": "1768 Business Center Drive Suite 120, Reston",
+    "distance": 8.187703632930582,
+    "category": "Museums",
+    "place_id": "ChIJycM8HtJJtokRx9tBEpm1PYk"
+  },
+  {
+    "name": "Historic Pleasant Grove",
+    "address": "8641 Lewinsville Road, McLean",
+    "distance": 8.280487300732979,
+    "category": "Museums",
+    "place_id": "ChIJMQo9s3xKtokRNywU0AcKriA"
+  },
+  {
+    "name": "Freeman Store & Museum",
+    "address": "131 Church Street Northeast, Vienna",
+    "distance": 5.552845651712026,
+    "category": "Museums",
+    "place_id": "ChIJkQhumchLtokRyVu1XBjI2ro"
+  },
+  {
+    "name": "Laurel Grove School Association",
+    "address": "6840 Beulah Street, Alexandria",
+    "distance": 9.546505005021173,
+    "category": "Museums",
+    "place_id": "ChIJdaQM2nutt4kRrtGd3xhHlC0"
+  },
+  {
+    "name": "Franconia Museum, Inc.",
+    "address": "6121 Franconia Road, Alexandria",
+    "distance": 9.539560327311191,
+    "category": "Museums",
+    "place_id": "ChIJp9-P8X2yt4kRruDfBUNMpLI"
+  },
+  {
+    "name": "Workhouse Arts Center",
+    "address": "9518 Workhouse Way, Lorton",
+    "distance": 9.749386512590924,
+    "category": "Art Galleries",
+    "place_id": "ChIJWR2pH3FUtokRqTWzUuv4dog"
+  },
+  {
+    "name": "Broadway Gallery",
+    "address": "5641 B, General Washington Drive, Alexandria",
+    "distance": 8.35173819994681,
+    "category": "Art Galleries",
+    "place_id": "ChIJXTm63eyyt4kRmH_3TjFR9yc"
+  },
+  {
+    "name": "Art & Frame Plus",
+    "address": "11850 U, Fair Oaks Mall, Fairfax",
+    "distance": 3.3277360371645472,
+    "category": "Art Galleries",
+    "place_id": "ChIJWVfXpTFPtokRYQbg1Q_JklY"
+  },
+  {
+    "name": "annandale Art & Frame",
+    "address": "7257 Maple Place, Annandale",
+    "distance": 6.303672304735777,
+    "category": "Art Galleries",
+    "place_id": "ChIJTVyo89FMtokRzMZ8iDYAnwo"
+  },
+  {
+    "name": "Vienna Arts Society Inc",
+    "address": "513 Maple Avenue West # 1, Vienna",
+    "distance": 4.794576948343935,
+    "category": "Art Galleries",
+    "place_id": "ChIJW7vR0txLtokRgNCGTCofie8"
+  },
+  {
+    "name": "Studio of Hennesy",
+    "address": "6811 White Rock Road, Clifton",
+    "distance": 5.25027189899932,
+    "category": "Art Galleries",
+    "place_id": "ChIJXbvvIrdatokR9bfilbq_Bcs"
+  },
+  {
+    "name": "Gallery Sydney-East",
+    "address": "4662 Luxberry Drive, Fairfax",
+    "distance": 0.9243296371626926,
+    "category": "Art Galleries",
+    "place_id": "ChIJdeBKLWVOtokRpCyC4pNGNNE"
+  },
+  {
+    "name": "Dara Global Arts Gallery",
+    "address": "2539 Chain Bridge Road, Vienna",
+    "distance": 4.641998033279389,
+    "category": "Art Galleries",
+    "place_id": "ChIJQ6cOP1RKtokRqe_xzWlVoAQ"
+  },
+  {
+    "name": "Craft Gallery of Artisans United",
+    "address": "4022 Hummer Road, Annandale",
+    "distance": 5.510309928554667,
+    "category": "Art Galleries",
+    "place_id": "ChIJRfqqH8RMtokRiRZUhf9ng3M"
+  },
+  {
+    "name": "Artmen Studios",
+    "address": "7421 Blackford Street, Springfield",
+    "distance": 6.255925627042903,
+    "category": "Art Galleries",
+    "place_id": "ChIJE6JiWzZNtokRWBV0WaCiW4M"
+  },
+  {
+    "name": "Nia Tavlarides Stratos Art",
+    "address": "9611 Timberview Court, Vienna",
+    "distance": 6.597332252449314,
+    "category": "Art Galleries",
+    "place_id": "ChIJqXD_dyVKtokRXgArtE6osb0"
+  },
+  {
+    "name": "Drew's Private Artwork",
+    "address": "2935 East Tripps Run Road, Falls Church",
+    "distance": 7.74842687140564,
+    "category": "Art Galleries",
+    "place_id": "ChIJ4SbuWaO0t4kRNhJxr7OkdZQ"
+  },
+  {
+    "name": "M K Fine Arts",
+    "address": "5218 Cather Road, Springfield",
+    "distance": 7.378324056749973,
+    "category": "Art Galleries",
+    "place_id": "ChIJExxItsSyt4kR4HV2rA3AuUw"
+  },
+  {
+    "name": "FR Designs & Gallery",
+    "address": "5673 Stone Road, Centreville",
+    "distance": 7.613533174559073,
+    "category": "Art Galleries",
+    "place_id": "ChIJYbBZ3oJGtokR6Qo4Xqmv1R8"
+  },
+  {
+    "name": "Redmont Associates",
+    "address": "2013 Lakewinds Drive, Reston",
+    "distance": 7.285288329944109,
+    "category": "Art Galleries",
+    "place_id": "ChIJU4s0JUtItokRU06DwomATkA"
+  },
+  {
+    "name": "Marninart Rare Illustrated Art Books",
+    "address": "1804 Post Oak Trail, Reston",
+    "distance": 7.611761144520326,
+    "category": "Art Galleries",
+    "place_id": "ChIJ-yESrMZJtokRKQ2NtjohpXs"
+  },
+  {
+    "name": "BARBARA JANUSZKIEWICZ FINE ART",
+    "address": "900 South Washington Street, Falls Church",
+    "distance": 7.695537961534579,
+    "category": "Art Galleries",
+    "place_id": "ChIJsU-nxYK2t4kRepYP35Em50M"
+  },
+  {
+    "name": "Rodger Schultz",
+    "address": "2312 Hunters Square Court, Reston",
+    "distance": 7.7002193130728065,
+    "category": "Art Galleries",
+    "place_id": "ChIJJ1PsNG5ItokRUgL_a36rJqk"
+  },
+  {
+    "name": "Art Frame Solutions",
+    "address": "11529 Sunrise Valley Drive #8, Reston",
+    "distance": 8.031529157743766,
+    "category": "Art Galleries",
+    "place_id": "ChIJg_yyZbVJtokRQt6uxoskb60"
+  },
+  {
+    "name": "Falls Church Arts Gallery",
+    "address": "700-B West Broad Street, Falls Church",
+    "distance": 8.141833974326,
+    "category": "Art Galleries",
+    "place_id": "ChIJ2bObQcS0t4kRoGz4wXArbFc"
+  },
+  {
+    "name": "Holiday Inn Express Fairfax - Arlington Boulevard, an IHG Hotel",
+    "address": "10327 Fairfax Boulevard, Fairfax",
+    "distance": 2.0048844939940045,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJBxV0m7tOtokR0YtsO1sn4Hs"
+  },
+  {
+    "name": "Fairfax Marriott at Fair Oaks",
+    "address": "11787 U.S. 50, Fairfax",
+    "distance": 3.1191549004559054,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJl_pVOT9PtokRwCTSfmj8BGI"
+  },
+  {
+    "name": "Hilton Garden Inn Fairfax",
+    "address": "3950 Fair Ridge Drive, Fairfax",
+    "distance": 4.243550878151147,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJw5yL7VBPtokRz6gzPH5FiYQ"
+  },
+  {
+    "name": "Falls Church Marriott Fairview Park",
+    "address": "3111 Fairview Park Drive, Falls Church",
+    "distance": 5.563714256379515,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJf8vftaFMtokRp7RJosrFdBM"
+  },
+  {
+    "name": "Best Western Fairfax",
+    "address": "3535 Chain Bridge Road, Fairfax",
+    "distance": 2.129226147882619,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJQxd1qrlOtokRNg7kl6owlFA"
+  },
+  {
+    "name": "SpringHill Suites by Marriott Fairfax Fair Oaks",
+    "address": "11191 Waples Mill Road, Fairfax",
+    "distance": 2.0687681544767247,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJOb7ItR5PtokRsqkw8fvPAl8"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax City",
+    "address": "3565 Chain Bridge Road, Fairfax",
+    "distance": 1.969734933108145,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJeyPGI7lOtokRzam-vhVJRmc"
+  },
+  {
+    "name": "Courtyard by Marriott Fairfax Fair Oaks",
+    "address": "11220 Lee Jackson Memorial Highway, Fairfax",
+    "distance": 2.1218064080002557,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJ-aWvGyBPtokRygyhuSSSreo"
+  },
+  {
+    "name": "Comfort Inn University Center",
+    "address": "11180 Fairfax Boulevard, Fairfax",
+    "distance": 1.964517040055923,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJv5IS3t9OtokRRu5IaV6g4fE"
+  },
+  {
+    "name": "Extended Stay America - Washington, D.C. - Fairfax",
+    "address": "3997 Fair Ridge Drive, Fairfax",
+    "distance": 4.061996104349351,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJM4O1plpPtokRvBp1LA7AIFU"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax Merrifield",
+    "address": "8125 Gatehouse Road, Falls Church",
+    "distance": 5.2936517407644095,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJk4CUamJLtokRO6OdV5n4aec"
+  },
+  {
+    "name": "Costco Wholesale",
+    "address": "4725 West Ox Road, Fairfax",
+    "distance": 3.4616648860429473,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJ7RsYb3tPtokR1CEMF8Jy_q8"
+  },
+  {
+    "name": "Hampton Inn Fairfax City",
+    "address": "10860 Fairfax Boulevard, Fairfax",
+    "distance": 1.6040671945908829,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJQWHqOehOtokRvVrCjlE6Eog"
+  },
+  {
+    "name": "Fair Oaks Mall",
+    "address": "11750 Fair Oaks Mall, Fairfax",
+    "distance": 3.3033130121523286,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJP5AvHUFPtokRgGDG2VFVo94"
+  },
+  {
+    "name": "Homewood Suites by Hilton Falls Church - I-495 @ Rt. 50",
+    "address": "8130 Porter Road, Falls Church",
+    "distance": 5.509880499292927,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJB-EtT2RLtokRwwfEwAIZY7s"
+  },
+  {
+    "name": "Candlewood Suites Washington-Fairfax, an IHG Hotel",
+    "address": "11400 Random Hills Road, Fairfax",
+    "distance": 2.4603825070637617,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJLUPmkSJPtokRyuO6Iu7ahTU"
+  },
+  {
+    "name": "Jaipur Royal Indian Cuisine",
+    "address": "9401 Lee Highway #105, Fairfax",
+    "distance": 3.342519501561701,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJN9w3CAlMtokRrgHANdgBDKo"
+  },
+  {
+    "name": "Sonesta ES Suites Fairfax Fair Lakes",
+    "address": "12815 Fair Lakes Parkway, Fairfax",
+    "distance": 4.411637261456706,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJZTAXqYxFtokRoMoOYUWaM-c"
+  },
+  {
+    "name": "Micro Center",
+    "address": "3089 Nutley Street, Fairfax",
+    "distance": 3.75157418673837,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJzZPmqopLtokRpvvbub2xBcs"
+  },
+  {
+    "name": "The Home Depot",
+    "address": "3201 Blenheim Boulevard, Fairfax",
+    "distance": 2.9008305582918155,
+    "category": "Historical Landmarks",
+    "place_id": "ChIJV7Vo9Q9MtokRgYl08t7Pt8I"
+  },
+  {
+    "name": "Annandale",
+    "address": "Annandale",
+    "distance": 6.250334795729947,
+    "category": "Monuments",
+    "place_id": "ChIJt1ldh8RMtokREBjGDOcKq0A"
+  },
+  {
+    "name": "Holiday Inn Express Fairfax - Arlington Boulevard, an IHG Hotel",
+    "address": "10327 Fairfax Boulevard, Fairfax",
+    "distance": 2.0048844939940045,
+    "category": "Monuments",
+    "place_id": "ChIJBxV0m7tOtokR0YtsO1sn4Hs"
+  },
+  {
+    "name": "Fairfax Marriott at Fair Oaks",
+    "address": "11787 U.S. 50, Fairfax",
+    "distance": 3.1191549004559054,
+    "category": "Monuments",
+    "place_id": "ChIJl_pVOT9PtokRwCTSfmj8BGI"
+  },
+  {
+    "name": "Hilton Garden Inn Fairfax",
+    "address": "3950 Fair Ridge Drive, Fairfax",
+    "distance": 4.243550878151147,
+    "category": "Monuments",
+    "place_id": "ChIJw5yL7VBPtokRz6gzPH5FiYQ"
+  },
+  {
+    "name": "Falls Church Marriott Fairview Park",
+    "address": "3111 Fairview Park Drive, Falls Church",
+    "distance": 5.563714256379515,
+    "category": "Monuments",
+    "place_id": "ChIJf8vftaFMtokRp7RJosrFdBM"
+  },
+  {
+    "name": "Best Western Fairfax",
+    "address": "3535 Chain Bridge Road, Fairfax",
+    "distance": 2.129226147882619,
+    "category": "Monuments",
+    "place_id": "ChIJQxd1qrlOtokRNg7kl6owlFA"
+  },
+  {
+    "name": "SpringHill Suites by Marriott Fairfax Fair Oaks",
+    "address": "11191 Waples Mill Road, Fairfax",
+    "distance": 2.0687681544767247,
+    "category": "Monuments",
+    "place_id": "ChIJOb7ItR5PtokRsqkw8fvPAl8"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax City",
+    "address": "3565 Chain Bridge Road, Fairfax",
+    "distance": 1.969734933108145,
+    "category": "Monuments",
+    "place_id": "ChIJeyPGI7lOtokRzam-vhVJRmc"
+  },
+  {
+    "name": "Courtyard by Marriott Fairfax Fair Oaks",
+    "address": "11220 Lee Jackson Memorial Highway, Fairfax",
+    "distance": 2.1218064080002557,
+    "category": "Monuments",
+    "place_id": "ChIJ-aWvGyBPtokRygyhuSSSreo"
+  },
+  {
+    "name": "Comfort Inn University Center",
+    "address": "11180 Fairfax Boulevard, Fairfax",
+    "distance": 1.964517040055923,
+    "category": "Monuments",
+    "place_id": "ChIJv5IS3t9OtokRRu5IaV6g4fE"
+  },
+  {
+    "name": "Extended Stay America - Washington, D.C. - Fairfax",
+    "address": "3997 Fair Ridge Drive, Fairfax",
+    "distance": 4.061996104349351,
+    "category": "Monuments",
+    "place_id": "ChIJM4O1plpPtokRvBp1LA7AIFU"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax Merrifield",
+    "address": "8125 Gatehouse Road, Falls Church",
+    "distance": 5.2936517407644095,
+    "category": "Monuments",
+    "place_id": "ChIJk4CUamJLtokRO6OdV5n4aec"
+  },
+  {
+    "name": "Costco Wholesale",
+    "address": "4725 West Ox Road, Fairfax",
+    "distance": 3.4616648860429473,
+    "category": "Monuments",
+    "place_id": "ChIJ7RsYb3tPtokR1CEMF8Jy_q8"
+  },
+  {
+    "name": "Hampton Inn Fairfax City",
+    "address": "10860 Fairfax Boulevard, Fairfax",
+    "distance": 1.6040671945908829,
+    "category": "Monuments",
+    "place_id": "ChIJQWHqOehOtokRvVrCjlE6Eog"
+  },
+  {
+    "name": "Fair Oaks Mall",
+    "address": "11750 Fair Oaks Mall, Fairfax",
+    "distance": 3.3033130121523286,
+    "category": "Monuments",
+    "place_id": "ChIJP5AvHUFPtokRgGDG2VFVo94"
+  },
+  {
+    "name": "Homewood Suites by Hilton Falls Church - I-495 @ Rt. 50",
+    "address": "8130 Porter Road, Falls Church",
+    "distance": 5.509880499292927,
+    "category": "Monuments",
+    "place_id": "ChIJB-EtT2RLtokRwwfEwAIZY7s"
+  },
+  {
+    "name": "Candlewood Suites Washington-Fairfax, an IHG Hotel",
+    "address": "11400 Random Hills Road, Fairfax",
+    "distance": 2.4603825070637617,
+    "category": "Monuments",
+    "place_id": "ChIJLUPmkSJPtokRyuO6Iu7ahTU"
+  },
+  {
+    "name": "Jaipur Royal Indian Cuisine",
+    "address": "9401 Lee Highway #105, Fairfax",
+    "distance": 3.342519501561701,
+    "category": "Monuments",
+    "place_id": "ChIJN9w3CAlMtokRrgHANdgBDKo"
+  },
+  {
+    "name": "Sonesta ES Suites Fairfax Fair Lakes",
+    "address": "12815 Fair Lakes Parkway, Fairfax",
+    "distance": 4.411637261456706,
+    "category": "Monuments",
+    "place_id": "ChIJZTAXqYxFtokRoMoOYUWaM-c"
+  },
+  {
+    "name": "Burke",
+    "address": "Burke",
+    "distance": 3.4334160261610522,
+    "category": "Monuments",
+    "place_id": "ChIJI-7w5gFStokRVRLQni9hbjw"
+  },
+  {
+    "name": "Lost Dog Cafe - Dunn Loring",
+    "address": "2729 Merrilee Drive, Fairfax",
+    "distance": 5.477036577087292,
+    "category": "Restaurants",
+    "place_id": "ChIJWR6NtHFLtokRQPXUa_B2WJU"
+  },
+  {
+    "name": "Jaipur Royal Indian Cuisine",
+    "address": "9401 Lee Highway #105, Fairfax",
+    "distance": 3.342519501561701,
+    "category": "Restaurants",
+    "place_id": "ChIJN9w3CAlMtokRrgHANdgBDKo"
+  },
+  {
+    "name": "Texas de Brazil - Fairfax",
+    "address": "11750 Fair Oaks Mall Suite K240, Fairfax",
+    "distance": 3.242816225494406,
+    "category": "Restaurants",
+    "place_id": "ChIJsUjDoUFPtokRreo500LfBLM"
+  },
+  {
+    "name": "2941 Restaurant",
+    "address": "2941 Fairview Park Drive, Falls Church",
+    "distance": 5.8465082989462855,
+    "category": "Restaurants",
+    "place_id": "ChIJW9b3EaBMtokRMYamNDoZJAc"
+  },
+  {
+    "name": "Honey Pig BBQ",
+    "address": "7220 Columbia Pike, Annandale",
+    "distance": 6.369292839619163,
+    "category": "Restaurants",
+    "place_id": "ChIJAfHiqTKzt4kR28_JKXOarRE"
+  },
+  {
+    "name": "The Cheesecake Factory",
+    "address": "1796U International Drive, McLean",
+    "distance": 7.892058329119678,
+    "category": "Restaurants",
+    "place_id": "ChIJr9KAsO1KtokRJjLh5NUP0_w"
+  },
+  {
+    "name": "Maggiano's Little Italy",
+    "address": "2001 International Drive, McLean",
+    "distance": 7.8979645507250495,
+    "category": "Restaurants",
+    "place_id": "ChIJF5S9PuxKtokRp931kW8LUGA"
+  },
+  {
+    "name": "Wasabi",
+    "address": "1961 Chain Bridge Road, McLean",
+    "distance": 7.70573994854718,
+    "category": "Restaurants",
+    "place_id": "ChIJ6-_lu-9KtokR0hbSdG6QyCI"
+  },
+  {
+    "name": "Bonefish Grill",
+    "address": "13005 Lee Jackson Hwy, Fairfax",
+    "distance": 5.5663338034608865,
+    "category": "Restaurants",
+    "place_id": "ChIJ14n34uNFtokRmFI9_VKGx8Y"
+  },
+  {
+    "name": "Jammin Java",
+    "address": "227 Maple Avenue East, Vienna",
+    "distance": 5.699395566356398,
+    "category": "Restaurants",
+    "place_id": "ChIJT0DqXLZLtokRnexCk3z4w7Y"
+  },
+  {
+    "name": "Panda Express",
+    "address": "4441 George Mason Boulevard, Fairfax",
+    "distance": 0.3085512491359185,
+    "category": "Restaurants",
+    "place_id": "ChIJYWbUFmBOtokRVLOyne-zfxg"
+  },
+  {
+    "name": "Ruth's Chris Steak House",
+    "address": "4100 Monument Corner Drive Suite 101, Fairfax",
+    "distance": 3.079536267446189,
+    "category": "Restaurants",
+    "place_id": "ChIJ7SdLUmpPtokRSPq6EMknNH0"
+  },
+  {
+    "name": "Sushi Yoshi",
+    "address": "101 Church Street Northwest, Vienna",
+    "distance": 5.457229523452167,
+    "category": "Restaurants",
+    "place_id": "ChIJRRwMhchLtokRePyswxAALHM"
+  },
+  {
+    "name": "Olive Garden Italian Restaurant",
+    "address": "8133 Leesburg Pike, Vienna",
+    "distance": 7.366946767877532,
+    "category": "Restaurants",
+    "place_id": "ChIJx1jaE-VKtokRXS5tHhy6aGg"
+  },
+  {
+    "name": "H\u00e4agen-Dazs",
+    "address": "7889 Tysons Corner Center Space 9FU, McLean",
+    "distance": 7.732588816537498,
+    "category": "Restaurants",
+    "place_id": "ChIJ6-_lu-9KtokRvo7NW3yp1Es"
+  },
+  {
+    "name": "matchbox",
+    "address": "2911 District Avenue suite 120, Fairfax",
+    "distance": 5.244153001938408,
+    "category": "Restaurants",
+    "place_id": "ChIJDQnaUHtLtokRe1HcLnpbZBE"
+  },
+  {
+    "name": "Tandem Restaurant & Bar",
+    "address": "3111 Fairview Park Drive, Falls Church",
+    "distance": 5.565505013500511,
+    "category": "Restaurants",
+    "place_id": "ChIJf8vftaFMtokRmNFcRCbpikc"
+  },
+  {
+    "name": "P.F. Chang's",
+    "address": "1716M International Drive, McLean",
+    "distance": 7.920128923350288,
+    "category": "Restaurants",
+    "place_id": "ChIJ0wPut-1KtokR8deTHp1xUco"
+  },
+  {
+    "name": "Sweetwater Tavern",
+    "address": "14250 Sweetwater Lane, Centreville",
+    "distance": 6.85395613193846,
+    "category": "Restaurants",
+    "place_id": "ChIJb-6nselEtokRF_Xzm6oTnC0"
+  },
+  {
+    "name": "Chima Steakhouse",
+    "address": "8010 Towers Crescent Plaza, Tysons",
+    "distance": 7.551795246001979,
+    "category": "Restaurants",
+    "place_id": "ChIJOR2km-ZKtokRVWHkoqGrWRE"
+  },
+  {
+    "name": "AMC Tysons Corner 16",
+    "address": "7850e Tysons Corner Center, McLean",
+    "distance": 7.780210323963814,
+    "category": "Theaters",
+    "place_id": "ChIJTb0g5ehKtokRhqbsPfN9L_k"
+  },
+  {
+    "name": "Regal Fairfax Towne Center",
+    "address": "4110 West Ox Road Suite # 12110, Fairfax",
+    "distance": 3.859070264457019,
+    "category": "Theaters",
+    "place_id": "ChIJGX82pVxPtokRbsYxg5EBC88"
+  },
+  {
+    "name": "University Mall Theatres",
+    "address": "10659-A Braddock Road, Fairfax",
+    "distance": 0.47650373720598355,
+    "category": "Theaters",
+    "place_id": "ChIJJ0Jku1xOtokRVZPZPcMIigY"
+  },
+  {
+    "name": "Cinema Arts Theatres",
+    "address": "9650 Main Street, Fairfax",
+    "distance": 2.1848272996775338,
+    "category": "Theaters",
+    "place_id": "ChIJ7Y5SySRMtokRRWAh8R2jcP4"
+  },
+  {
+    "name": "Angelika Film Center & Cafe at Mosaic",
+    "address": "2911 District Avenue, Fairfax",
+    "distance": 5.235710142990746,
+    "category": "Theaters",
+    "place_id": "ChIJdduRHSi0t4kRshkJndKzZjo"
+  },
+  {
+    "name": "Cinemark Centreville",
+    "address": "6201 Multiplex Drive, Centreville",
+    "distance": 6.686686810006737,
+    "category": "Theaters",
+    "place_id": "ChIJD2cPY-hEtokRxmOl7nyGf5Y"
+  },
+  {
+    "name": "Airbus IMAX Theater",
+    "address": "14390 Air and Space Museum Parkway, Chantilly",
+    "distance": 8.974660609738846,
+    "category": "Theaters",
+    "place_id": "ChIJp-_g-ZNGtokRawjnfthfdIo"
+  },
+  {
+    "name": "Cinemark Fairfax Corner and XD",
+    "address": "11900 Palace Way, Fairfax",
+    "distance": 3.0523039000045635,
+    "category": "Theaters",
+    "place_id": "ChIJNV7PompPtokRAGWZTLBiPMw"
+  },
+  {
+    "name": "Starlight Cinema",
+    "address": "5875 Trinity Parkway, Centreville",
+    "distance": 6.8312962472721654,
+    "category": "Theaters",
+    "place_id": "ChIJwT3W1fBEtokRjSYIR6pmq4o"
+  },
+  {
+    "name": "Regal Springfield Town Center",
+    "address": "6859 Springfield Mall, Springfield",
+    "distance": 8.486031680648011,
+    "category": "Theaters",
+    "place_id": "ChIJKY7Qb16tt4kRfmvsaIait4Q"
+  },
+  {
+    "name": "Mosaic",
+    "address": "8200 Strawberry Lane, Fairfax",
+    "distance": 5.2633235907910665,
+    "category": "Theaters",
+    "place_id": "ChIJ2035bKVLtokRaCEOtZF02yk"
+  },
+  {
+    "name": "The Boro Tysons",
+    "address": "8350 Broad Street, Tysons",
+    "distance": 7.617536487822904,
+    "category": "Theaters",
+    "place_id": "ChIJVxI2sfNKtokR9kWRHvwgn-c"
+  },
+  {
+    "name": "ShowPlace ICON Theatre & Kitchen at The Boro",
+    "address": "1667 Silver Hill Drive, McLean",
+    "distance": 7.667223503168865,
+    "category": "Theaters",
+    "place_id": "ChIJjwcTyfRLtokRNPHsHcOIBCU"
+  },
+  {
+    "name": "Vultron LLC",
+    "address": "6560 Backlick Road STE 208, Springfield",
+    "distance": 7.8664873809718285,
+    "category": "Theaters",
+    "place_id": "ChIJf87e0ptWtokRpDn0BCz4kqo"
+  },
+  {
+    "name": "CMX CineBistro Tysons Galleria",
+    "address": "1651 International Drive U1700 Level 3M, McLean",
+    "distance": 7.963191591357296,
+    "category": "Theaters",
+    "place_id": "ChIJHRo1Ne9KtokRAIU_-PqZF4I"
+  },
+  {
+    "name": "LOOK Dine-in Cinemas Reston",
+    "address": "11940 Market Street, Reston",
+    "distance": 9.124667946121754,
+    "category": "Theaters",
+    "place_id": "ChIJq6pqHB9ItokRZ0BzYVwwIBE"
+  },
+  {
+    "name": "AMC Worldgate 9",
+    "address": "13025 Worldgate Drive, Herndon",
+    "distance": 9.859029955900668,
+    "category": "Theaters",
+    "place_id": "ChIJU8l_q_JHtokRMljy4zBsACE"
+  },
+  {
+    "name": "AMC Tysons Corner 16",
+    "address": "7850e Tysons Corner Center, McLean",
+    "distance": 7.780210323963814,
+    "category": "Cinemas",
+    "place_id": "ChIJTb0g5ehKtokRhqbsPfN9L_k"
+  },
+  {
+    "name": "Regal Fairfax Towne Center",
+    "address": "4110 West Ox Road Suite # 12110, Fairfax",
+    "distance": 3.859070264457019,
+    "category": "Cinemas",
+    "place_id": "ChIJGX82pVxPtokRbsYxg5EBC88"
+  },
+  {
+    "name": "University Mall Theatres",
+    "address": "10659-A Braddock Road, Fairfax",
+    "distance": 0.47650373720598355,
+    "category": "Cinemas",
+    "place_id": "ChIJJ0Jku1xOtokRVZPZPcMIigY"
+  },
+  {
+    "name": "Cinema Arts Theatres",
+    "address": "9650 Main Street, Fairfax",
+    "distance": 2.1848272996775338,
+    "category": "Cinemas",
+    "place_id": "ChIJ7Y5SySRMtokRRWAh8R2jcP4"
+  },
+  {
+    "name": "Angelika Film Center & Cafe at Mosaic",
+    "address": "2911 District Avenue, Fairfax",
+    "distance": 5.235710142990746,
+    "category": "Cinemas",
+    "place_id": "ChIJdduRHSi0t4kRshkJndKzZjo"
+  },
+  {
+    "name": "Cinemark Centreville",
+    "address": "6201 Multiplex Drive, Centreville",
+    "distance": 6.686686810006737,
+    "category": "Cinemas",
+    "place_id": "ChIJD2cPY-hEtokRxmOl7nyGf5Y"
+  },
+  {
+    "name": "Airbus IMAX Theater",
+    "address": "14390 Air and Space Museum Parkway, Chantilly",
+    "distance": 8.974660609738846,
+    "category": "Cinemas",
+    "place_id": "ChIJp-_g-ZNGtokRawjnfthfdIo"
+  },
+  {
+    "name": "Cinemark Fairfax Corner and XD",
+    "address": "11900 Palace Way, Fairfax",
+    "distance": 3.0523039000045635,
+    "category": "Cinemas",
+    "place_id": "ChIJNV7PompPtokRAGWZTLBiPMw"
+  },
+  {
+    "name": "Starlight Cinema",
+    "address": "5875 Trinity Parkway, Centreville",
+    "distance": 6.8312962472721654,
+    "category": "Cinemas",
+    "place_id": "ChIJwT3W1fBEtokRjSYIR6pmq4o"
+  },
+  {
+    "name": "Regal Springfield Town Center",
+    "address": "6859 Springfield Mall, Springfield",
+    "distance": 8.486031680648011,
+    "category": "Cinemas",
+    "place_id": "ChIJKY7Qb16tt4kRfmvsaIait4Q"
+  },
+  {
+    "name": "Mosaic",
+    "address": "8200 Strawberry Lane, Fairfax",
+    "distance": 5.2633235907910665,
+    "category": "Cinemas",
+    "place_id": "ChIJ2035bKVLtokRaCEOtZF02yk"
+  },
+  {
+    "name": "The Boro Tysons",
+    "address": "8350 Broad Street, Tysons",
+    "distance": 7.617536487822904,
+    "category": "Cinemas",
+    "place_id": "ChIJVxI2sfNKtokR9kWRHvwgn-c"
+  },
+  {
+    "name": "ShowPlace ICON Theatre & Kitchen at The Boro",
+    "address": "1667 Silver Hill Drive, McLean",
+    "distance": 7.667223503168865,
+    "category": "Cinemas",
+    "place_id": "ChIJjwcTyfRLtokRNPHsHcOIBCU"
+  },
+  {
+    "name": "Vultron LLC",
+    "address": "6560 Backlick Road STE 208, Springfield",
+    "distance": 7.8664873809718285,
+    "category": "Cinemas",
+    "place_id": "ChIJf87e0ptWtokRpDn0BCz4kqo"
+  },
+  {
+    "name": "CMX CineBistro Tysons Galleria",
+    "address": "1651 International Drive U1700 Level 3M, McLean",
+    "distance": 7.963191591357296,
+    "category": "Cinemas",
+    "place_id": "ChIJHRo1Ne9KtokRAIU_-PqZF4I"
+  },
+  {
+    "name": "LOOK Dine-in Cinemas Reston",
+    "address": "11940 Market Street, Reston",
+    "distance": 9.124667946121754,
+    "category": "Cinemas",
+    "place_id": "ChIJq6pqHB9ItokRZ0BzYVwwIBE"
+  },
+  {
+    "name": "AMC Worldgate 9",
+    "address": "13025 Worldgate Drive, Herndon",
+    "distance": 9.859029955900668,
+    "category": "Cinemas",
+    "place_id": "ChIJU8l_q_JHtokRMljy4zBsACE"
+  },
+  {
+    "name": "PaperMoon Springfield",
+    "address": "6315 Amherst Avenue, Springfield",
+    "distance": 7.657176082269902,
+    "category": "Music Venues",
+    "place_id": "ChIJfdQOU6iyt4kR_ZfKgDYVqgk"
+  },
+  {
+    "name": "Hyatt Regency Conservatory Lounge",
+    "address": "1800 Presidents Street, Reston",
+    "distance": 9.029913762153296,
+    "category": "Music Venues",
+    "place_id": "ChIJSSbkWB9ItokRku8F_eES3NA"
+  },
+  {
+    "name": "Revolution Darts & Billiards",
+    "address": "9687 Fairfax Boulevard, Fairfax",
+    "distance": 2.8292786997480466,
+    "category": "Music Venues",
+    "place_id": "ChIJAbfVXgRMtokRJ14uXVsutzw"
+  },
+  {
+    "name": "THE SALSA ROOM",
+    "address": "8453 Tyco Road, McLean",
+    "distance": 7.965612123340191,
+    "category": "Music Venues",
+    "place_id": "ChIJEayQLLq2t4kRE55LQD8-Rhw"
+  },
+  {
+    "name": "JV's Restaurant",
+    "address": "6666 Arlington Boulevard, Falls Church",
+    "distance": 7.863292967279113,
+    "category": "Music Venues",
+    "place_id": "ChIJT5pyMKO0t4kR7UKW5Yidrmo"
+  },
+  {
+    "name": "Tikal Bakery Inc",
+    "address": "4230 Annandale Road # 130, Annandale",
+    "distance": 6.209252005085069,
+    "category": "Music Venues",
+    "place_id": "ChIJ29eanNJMtokRIWMMAp62OiQ"
+  },
+  {
+    "name": "Cafe Sole",
+    "address": "7127-a Columbia Pike, Annandale",
+    "distance": 6.579000069744712,
+    "category": "Music Venues",
+    "place_id": "ChIJA0h0ZzKzt4kRAr1KPhtiCbQ"
+  },
+  {
+    "name": "Abunawas Cafe & Hookah Bar",
+    "address": "3218 Old Pickett Road, Fairfax",
+    "distance": 2.997945977259962,
+    "category": "Music Venues",
+    "place_id": "ChIJBdB-eQVMtokRPYLOFllw4qE"
+  },
+  {
+    "name": "Fats Fairfax",
+    "address": "10673 Braddock Road, Fairfax",
+    "distance": 0.48432607551397827,
+    "category": "Music Venues",
+    "place_id": "ChIJ_cNUmFtOtokRznutue8dIMg"
+  },
+  {
+    "name": "The Hideout",
+    "address": "6355 Rolling Road, Springfield",
+    "distance": 5.713484869527209,
+    "category": "Music Venues",
+    "place_id": "ChIJbwNtj4RStokRhk41tFKT0VA"
+  },
+  {
+    "name": "23 Cigar Bar and Restaurant (Members Only)",
+    "address": "5800 Old Centreville Road, Centreville",
+    "distance": 6.330710977606328,
+    "category": "Music Venues",
+    "place_id": "ChIJ8VhIl_xEtokRbeWcTS6pxj0"
+  },
+  {
+    "name": "Revolution",
+    "address": "14114 Lee Highway, Centreville",
+    "distance": 6.574970974956638,
+    "category": "Music Venues",
+    "place_id": "ChIJvWlFlPpEtokRhyGKgCozhXM"
+  },
+  {
+    "name": "Phoenicia Resto & Lounge",
+    "address": "2236 Gallows Road, Vienna",
+    "distance": 6.603697235108095,
+    "category": "Music Venues",
+    "place_id": "ChIJJ7VyNhpLtokRUxHc3tkQA8g"
+  },
+  {
+    "name": "The O-Lounge",
+    "address": "2070 Chain Bridge Road, Vienna",
+    "distance": 7.144185720876151,
+    "category": "Music Venues",
+    "place_id": "ChIJ-RQttvlKtokRt57igsV8R8U"
+  },
+  {
+    "name": "Greenhouse Bistro",
+    "address": "2070 Chain Bridge Road, Vienna",
+    "distance": 7.1606804527922145,
+    "category": "Music Venues",
+    "place_id": "ChIJDbHVyvlKtokRlaWDa_e8mZc"
+  },
+  {
+    "name": "Breakers Sky Lounge",
+    "address": "2445 Centreville Road, Herndon",
+    "distance": 9.679963395834061,
+    "category": "Music Venues",
+    "place_id": "ChIJm4H69pdHtokREYUxto4-NCM"
+  },
+  {
+    "name": "The Revolution Darts & Billiards",
+    "address": "7255 Commerce Street, Springfield",
+    "distance": 7.450669706445219,
+    "category": "Music Venues",
+    "place_id": "ChIJAwtpaaqyt4kReCSZq5ZrwhI"
+  },
+  {
+    "name": "Eddie V's Prime Seafood",
+    "address": "7900 Tysons One Place, McLean",
+    "distance": 7.82424893431966,
+    "category": "Music Venues",
+    "place_id": "ChIJv9N1B-lKtokRXOE87vSopbc"
+  },
+  {
+    "name": "Earls Kitchen + Bar",
+    "address": "7902 Tysons One Place, McLean",
+    "distance": 7.826959247167939,
+    "category": "Music Venues",
+    "place_id": "ChIJR8hqAOlKtokR0SjlMQnW8j8"
+  },
+  {
+    "name": "Fuzion Restaurant & Lounge",
+    "address": "6400A Commerce Street, Springfield",
+    "distance": 8.217195447449164,
+    "category": "Music Venues",
+    "place_id": "ChIJe0VxlqCyt4kRIVPty5Vd63o"
+  },
+  {
+    "name": "PaperMoon Springfield",
+    "address": "6315 Amherst Avenue, Springfield",
+    "distance": 7.657176082269902,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJfdQOU6iyt4kR_ZfKgDYVqgk"
+  },
+  {
+    "name": "Hyatt Regency Conservatory Lounge",
+    "address": "1800 Presidents Street, Reston",
+    "distance": 9.029913762153296,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJSSbkWB9ItokRku8F_eES3NA"
+  },
+  {
+    "name": "Revolution Darts & Billiards",
+    "address": "9687 Fairfax Boulevard, Fairfax",
+    "distance": 2.8292786997480466,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJAbfVXgRMtokRJ14uXVsutzw"
+  },
+  {
+    "name": "THE SALSA ROOM",
+    "address": "8453 Tyco Road, McLean",
+    "distance": 7.965612123340191,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJEayQLLq2t4kRE55LQD8-Rhw"
+  },
+  {
+    "name": "JV's Restaurant",
+    "address": "6666 Arlington Boulevard, Falls Church",
+    "distance": 7.863292967279113,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJT5pyMKO0t4kR7UKW5Yidrmo"
+  },
+  {
+    "name": "Tikal Bakery Inc",
+    "address": "4230 Annandale Road # 130, Annandale",
+    "distance": 6.209252005085069,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJ29eanNJMtokRIWMMAp62OiQ"
+  },
+  {
+    "name": "Cafe Sole",
+    "address": "7127-a Columbia Pike, Annandale",
+    "distance": 6.579000069744712,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJA0h0ZzKzt4kRAr1KPhtiCbQ"
+  },
+  {
+    "name": "Abunawas Cafe & Hookah Bar",
+    "address": "3218 Old Pickett Road, Fairfax",
+    "distance": 2.997945977259962,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJBdB-eQVMtokRPYLOFllw4qE"
+  },
+  {
+    "name": "Fats Fairfax",
+    "address": "10673 Braddock Road, Fairfax",
+    "distance": 0.48432607551397827,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJ_cNUmFtOtokRznutue8dIMg"
+  },
+  {
+    "name": "The Hideout",
+    "address": "6355 Rolling Road, Springfield",
+    "distance": 5.713484869527209,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJbwNtj4RStokRhk41tFKT0VA"
+  },
+  {
+    "name": "23 Cigar Bar and Restaurant (Members Only)",
+    "address": "5800 Old Centreville Road, Centreville",
+    "distance": 6.330710977606328,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJ8VhIl_xEtokRbeWcTS6pxj0"
+  },
+  {
+    "name": "Revolution",
+    "address": "14114 Lee Highway, Centreville",
+    "distance": 6.574970974956638,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJvWlFlPpEtokRhyGKgCozhXM"
+  },
+  {
+    "name": "Phoenicia Resto & Lounge",
+    "address": "2236 Gallows Road, Vienna",
+    "distance": 6.603697235108095,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJJ7VyNhpLtokRUxHc3tkQA8g"
+  },
+  {
+    "name": "The O-Lounge",
+    "address": "2070 Chain Bridge Road, Vienna",
+    "distance": 7.144185720876151,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJ-RQttvlKtokRt57igsV8R8U"
+  },
+  {
+    "name": "Greenhouse Bistro",
+    "address": "2070 Chain Bridge Road, Vienna",
+    "distance": 7.1606804527922145,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJDbHVyvlKtokRlaWDa_e8mZc"
+  },
+  {
+    "name": "Breakers Sky Lounge",
+    "address": "2445 Centreville Road, Herndon",
+    "distance": 9.679963395834061,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJm4H69pdHtokREYUxto4-NCM"
+  },
+  {
+    "name": "The Revolution Darts & Billiards",
+    "address": "7255 Commerce Street, Springfield",
+    "distance": 7.450669706445219,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJAwtpaaqyt4kReCSZq5ZrwhI"
+  },
+  {
+    "name": "Eddie V's Prime Seafood",
+    "address": "7900 Tysons One Place, McLean",
+    "distance": 7.82424893431966,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJv9N1B-lKtokRXOE87vSopbc"
+  },
+  {
+    "name": "Earls Kitchen + Bar",
+    "address": "7902 Tysons One Place, McLean",
+    "distance": 7.826959247167939,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJR8hqAOlKtokR0SjlMQnW8j8"
+  },
+  {
+    "name": "Fuzion Restaurant & Lounge",
+    "address": "6400A Commerce Street, Springfield",
+    "distance": 8.217195447449164,
+    "category": "Comedy Clubs",
+    "place_id": "ChIJe0VxlqCyt4kRIVPty5Vd63o"
+  },
+  {
+    "name": "PaperMoon Springfield",
+    "address": "6315 Amherst Avenue, Springfield",
+    "distance": 7.657176082269902,
+    "category": "Nightclubs",
+    "place_id": "ChIJfdQOU6iyt4kR_ZfKgDYVqgk"
+  },
+  {
+    "name": "Hyatt Regency Conservatory Lounge",
+    "address": "1800 Presidents Street, Reston",
+    "distance": 9.029913762153296,
+    "category": "Nightclubs",
+    "place_id": "ChIJSSbkWB9ItokRku8F_eES3NA"
+  },
+  {
+    "name": "Revolution Darts & Billiards",
+    "address": "9687 Fairfax Boulevard, Fairfax",
+    "distance": 2.8292786997480466,
+    "category": "Nightclubs",
+    "place_id": "ChIJAbfVXgRMtokRJ14uXVsutzw"
+  },
+  {
+    "name": "THE SALSA ROOM",
+    "address": "8453 Tyco Road, McLean",
+    "distance": 7.965612123340191,
+    "category": "Nightclubs",
+    "place_id": "ChIJEayQLLq2t4kRE55LQD8-Rhw"
+  },
+  {
+    "name": "JV's Restaurant",
+    "address": "6666 Arlington Boulevard, Falls Church",
+    "distance": 7.863292967279113,
+    "category": "Nightclubs",
+    "place_id": "ChIJT5pyMKO0t4kR7UKW5Yidrmo"
+  },
+  {
+    "name": "Tikal Bakery Inc",
+    "address": "4230 Annandale Road # 130, Annandale",
+    "distance": 6.209252005085069,
+    "category": "Nightclubs",
+    "place_id": "ChIJ29eanNJMtokRIWMMAp62OiQ"
+  },
+  {
+    "name": "Cafe Sole",
+    "address": "7127-a Columbia Pike, Annandale",
+    "distance": 6.579000069744712,
+    "category": "Nightclubs",
+    "place_id": "ChIJA0h0ZzKzt4kRAr1KPhtiCbQ"
+  },
+  {
+    "name": "Abunawas Cafe & Hookah Bar",
+    "address": "3218 Old Pickett Road, Fairfax",
+    "distance": 2.997945977259962,
+    "category": "Nightclubs",
+    "place_id": "ChIJBdB-eQVMtokRPYLOFllw4qE"
+  },
+  {
+    "name": "Fats Fairfax",
+    "address": "10673 Braddock Road, Fairfax",
+    "distance": 0.48432607551397827,
+    "category": "Nightclubs",
+    "place_id": "ChIJ_cNUmFtOtokRznutue8dIMg"
+  },
+  {
+    "name": "The Hideout",
+    "address": "6355 Rolling Road, Springfield",
+    "distance": 5.713484869527209,
+    "category": "Nightclubs",
+    "place_id": "ChIJbwNtj4RStokRhk41tFKT0VA"
+  },
+  {
+    "name": "23 Cigar Bar and Restaurant (Members Only)",
+    "address": "5800 Old Centreville Road, Centreville",
+    "distance": 6.330710977606328,
+    "category": "Nightclubs",
+    "place_id": "ChIJ8VhIl_xEtokRbeWcTS6pxj0"
+  },
+  {
+    "name": "Revolution",
+    "address": "14114 Lee Highway, Centreville",
+    "distance": 6.574970974956638,
+    "category": "Nightclubs",
+    "place_id": "ChIJvWlFlPpEtokRhyGKgCozhXM"
+  },
+  {
+    "name": "Phoenicia Resto & Lounge",
+    "address": "2236 Gallows Road, Vienna",
+    "distance": 6.603697235108095,
+    "category": "Nightclubs",
+    "place_id": "ChIJJ7VyNhpLtokRUxHc3tkQA8g"
+  },
+  {
+    "name": "The O-Lounge",
+    "address": "2070 Chain Bridge Road, Vienna",
+    "distance": 7.144185720876151,
+    "category": "Nightclubs",
+    "place_id": "ChIJ-RQttvlKtokRt57igsV8R8U"
+  },
+  {
+    "name": "Greenhouse Bistro",
+    "address": "2070 Chain Bridge Road, Vienna",
+    "distance": 7.1606804527922145,
+    "category": "Nightclubs",
+    "place_id": "ChIJDbHVyvlKtokRlaWDa_e8mZc"
+  },
+  {
+    "name": "Breakers Sky Lounge",
+    "address": "2445 Centreville Road, Herndon",
+    "distance": 9.679963395834061,
+    "category": "Nightclubs",
+    "place_id": "ChIJm4H69pdHtokREYUxto4-NCM"
+  },
+  {
+    "name": "The Revolution Darts & Billiards",
+    "address": "7255 Commerce Street, Springfield",
+    "distance": 7.450669706445219,
+    "category": "Nightclubs",
+    "place_id": "ChIJAwtpaaqyt4kReCSZq5ZrwhI"
+  },
+  {
+    "name": "Eddie V's Prime Seafood",
+    "address": "7900 Tysons One Place, McLean",
+    "distance": 7.82424893431966,
+    "category": "Nightclubs",
+    "place_id": "ChIJv9N1B-lKtokRXOE87vSopbc"
+  },
+  {
+    "name": "Earls Kitchen + Bar",
+    "address": "7902 Tysons One Place, McLean",
+    "distance": 7.826959247167939,
+    "category": "Nightclubs",
+    "place_id": "ChIJR8hqAOlKtokR0SjlMQnW8j8"
+  },
+  {
+    "name": "Fuzion Restaurant & Lounge",
+    "address": "6400A Commerce Street, Springfield",
+    "distance": 8.217195447449164,
+    "category": "Nightclubs",
+    "place_id": "ChIJe0VxlqCyt4kRIVPty5Vd63o"
+  },
+  {
+    "name": "Meadowlark Botanical Gardens",
+    "address": "9750 Meadowlark Gardens Court, Vienna",
+    "distance": 7.507435210344035,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJCcN4tB5KtokRBfPD4ikaIBc"
+  },
+  {
+    "name": "Burke Lake Park",
+    "address": "7315 Ox Road, Fairfax Station",
+    "distance": 4.90522692453179,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJ1SKVK5BRtokRrvbsGO5QEYY"
+  },
+  {
+    "name": "Lake Fairfax Park",
+    "address": "1400 Lake Fairfax Drive, Reston",
+    "distance": 8.964045340860903,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJnQOK1Sc2tokRK7iEkAD6Q5A"
+  },
+  {
+    "name": "Nottoway Park",
+    "address": "9537 Courthouse Road, Vienna",
+    "distance": 4.217120564504485,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJy3ZxYO9LtokR4ysZvskdSMQ"
+  },
+  {
+    "name": "Lake Barton",
+    "address": "Burke",
+    "distance": 2.505199922600374,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJQ6BzpeFRtokRNd5jxbJw-z0"
+  },
+  {
+    "name": "Head of the Occoquan, Sandy Run Training Facility",
+    "address": "10450 Van Thompson Road, Fairfax Station",
+    "distance": 8.411271754094901,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJHzjrDVNRtokRNXDq0IS1-f8"
+  },
+  {
+    "name": "Poplar Tree Park",
+    "address": "4718 Stringfellow Road, Fairfax",
+    "distance": 5.587139825240639,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJRQSrY7lFtokR2SaRjvgglAA"
+  },
+  {
+    "name": "Braddock Park",
+    "address": "13451 Braddock Road, Clifton",
+    "distance": 5.24411710070566,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJyY4cjxZFtokRkYSMcCxrVGY"
+  },
+  {
+    "name": "Lake Accotink Park",
+    "address": "7500 Accotink Park Road, Springfield",
+    "distance": 5.852956837487724,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJI5fIf3JNtokRiM9-O-w5aLw"
+  },
+  {
+    "name": "National Funeral Home & National Memorial Park",
+    "address": "7482 Lee Highway, Falls Church",
+    "distance": 6.8009608914196225,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJtS0D1EhLtokRSvy12psT38Y"
+  },
+  {
+    "name": "Mason District Park",
+    "address": "6621 Columbia Pike, Annandale",
+    "distance": 7.473585564209099,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJ_yZouj2zt4kRU4p2jzSk0P8"
+  },
+  {
+    "name": "Fountainhead Regional Park",
+    "address": "10875 Hampton Road, Fairfax Station",
+    "distance": 7.456043421256326,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJqxE-_itRtokREvnFsTC2Pyc"
+  },
+  {
+    "name": "Green Spring Gardens",
+    "address": "4603 Green Spring Road, Alexandria",
+    "distance": 8.42260665760525,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJ05IyWgSzt4kRlsdUKEzRTRM"
+  },
+  {
+    "name": "Greenbriar Park",
+    "address": "4600 Stringfellow Road, Fairfax",
+    "distance": 5.554850300920544,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJTzUeIsdFtokREw6FvWV7h5U"
+  },
+  {
+    "name": "Draper Drive Park",
+    "address": "9797 Beech Drive, Fairfax",
+    "distance": 2.8668644020119323,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJnZlLywNMtokRNiSWrKAJ9Jw"
+  },
+  {
+    "name": "Ossian Hall Park",
+    "address": "7900 Heritage Drive, Annandale",
+    "distance": 5.4709690635362875,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJI799JtlMtokR4O-CViMcNCY"
+  },
+  {
+    "name": "Hidden Oaks Nature Center",
+    "address": "7701 Royce Street, Annandale",
+    "distance": 5.444504761201073,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJzyPPssZMtokRs3S8SfCHwC0"
+  },
+  {
+    "name": "Hemlock Overlook Regional Park",
+    "address": "13220 Yates Ford Road, Clifton",
+    "distance": 6.761380751184133,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJae7SU_BatokRZt1ZoY30LiE"
+  },
+  {
+    "name": "Lakeside Park",
+    "address": "5216 Pommeroy Drive, Fairfax",
+    "distance": 2.1570725296663813,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJZ-uaLuBNtokR6T5tH68ZmIk"
+  },
+  {
+    "name": "Patriot Park",
+    "address": "12111 Braddock Road, Fairfax",
+    "distance": 2.792879303458154,
+    "category": "Parks and Botanical Gardens",
+    "place_id": "ChIJl0fgT5BPtokRCv9aaLPMXfY"
+  },
+  {
+    "name": "NOVA Wild",
+    "address": "1228 Hunter Mill Road, Vienna",
+    "distance": 9.673991065758289,
+    "category": "Zoos and Wildlife Sanctuaries",
+    "place_id": "ChIJa9NOQDw2tokRPQBhTeYNvrE"
+  },
+  {
+    "name": "Madison Manor Park",
+    "address": "6225 12th Road North, Arlington",
+    "distance": 9.414630839017596,
+    "category": "Zoos and Wildlife Sanctuaries",
+    "place_id": "ChIJXc3C6PW0t4kRjwb30c_pROc"
+  },
+  {
+    "name": "Holiday Inn Express Fairfax - Arlington Boulevard, an IHG Hotel",
+    "address": "10327 Fairfax Boulevard, Fairfax",
+    "distance": 2.0048844939940045,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJBxV0m7tOtokR0YtsO1sn4Hs"
+  },
+  {
+    "name": "Fairfax Marriott at Fair Oaks",
+    "address": "11787 U.S. 50, Fairfax",
+    "distance": 3.1191549004559054,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJl_pVOT9PtokRwCTSfmj8BGI"
+  },
+  {
+    "name": "Hilton Garden Inn Fairfax",
+    "address": "3950 Fair Ridge Drive, Fairfax",
+    "distance": 4.243550878151147,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJw5yL7VBPtokRz6gzPH5FiYQ"
+  },
+  {
+    "name": "Falls Church Marriott Fairview Park",
+    "address": "3111 Fairview Park Drive, Falls Church",
+    "distance": 5.563714256379515,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJf8vftaFMtokRp7RJosrFdBM"
+  },
+  {
+    "name": "Best Western Fairfax",
+    "address": "3535 Chain Bridge Road, Fairfax",
+    "distance": 2.129226147882619,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJQxd1qrlOtokRNg7kl6owlFA"
+  },
+  {
+    "name": "SpringHill Suites by Marriott Fairfax Fair Oaks",
+    "address": "11191 Waples Mill Road, Fairfax",
+    "distance": 2.0687681544767247,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJOb7ItR5PtokRsqkw8fvPAl8"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax City",
+    "address": "3565 Chain Bridge Road, Fairfax",
+    "distance": 1.969734933108145,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJeyPGI7lOtokRzam-vhVJRmc"
+  },
+  {
+    "name": "Courtyard by Marriott Fairfax Fair Oaks",
+    "address": "11220 Lee Jackson Memorial Highway, Fairfax",
+    "distance": 2.1218064080002557,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJ-aWvGyBPtokRygyhuSSSreo"
+  },
+  {
+    "name": "Comfort Inn University Center",
+    "address": "11180 Fairfax Boulevard, Fairfax",
+    "distance": 1.964517040055923,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJv5IS3t9OtokRRu5IaV6g4fE"
+  },
+  {
+    "name": "Extended Stay America - Washington, D.C. - Fairfax",
+    "address": "3997 Fair Ridge Drive, Fairfax",
+    "distance": 4.061996104349351,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJM4O1plpPtokRvBp1LA7AIFU"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax Merrifield",
+    "address": "8125 Gatehouse Road, Falls Church",
+    "distance": 5.2936517407644095,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJk4CUamJLtokRO6OdV5n4aec"
+  },
+  {
+    "name": "Costco Wholesale",
+    "address": "4725 West Ox Road, Fairfax",
+    "distance": 3.4616648860429473,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJ7RsYb3tPtokR1CEMF8Jy_q8"
+  },
+  {
+    "name": "Hampton Inn Fairfax City",
+    "address": "10860 Fairfax Boulevard, Fairfax",
+    "distance": 1.6040671945908829,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJQWHqOehOtokRvVrCjlE6Eog"
+  },
+  {
+    "name": "Fair Oaks Mall",
+    "address": "11750 Fair Oaks Mall, Fairfax",
+    "distance": 3.3033130121523286,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJP5AvHUFPtokRgGDG2VFVo94"
+  },
+  {
+    "name": "Homewood Suites by Hilton Falls Church - I-495 @ Rt. 50",
+    "address": "8130 Porter Road, Falls Church",
+    "distance": 5.509880499292927,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJB-EtT2RLtokRwwfEwAIZY7s"
+  },
+  {
+    "name": "Candlewood Suites Washington-Fairfax, an IHG Hotel",
+    "address": "11400 Random Hills Road, Fairfax",
+    "distance": 2.4603825070637617,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJLUPmkSJPtokRyuO6Iu7ahTU"
+  },
+  {
+    "name": "Jaipur Royal Indian Cuisine",
+    "address": "9401 Lee Highway #105, Fairfax",
+    "distance": 3.342519501561701,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJN9w3CAlMtokRrgHANdgBDKo"
+  },
+  {
+    "name": "Sonesta ES Suites Fairfax Fair Lakes",
+    "address": "12815 Fair Lakes Parkway, Fairfax",
+    "distance": 4.411637261456706,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJZTAXqYxFtokRoMoOYUWaM-c"
+  },
+  {
+    "name": "Micro Center",
+    "address": "3089 Nutley Street, Fairfax",
+    "distance": 3.75157418673837,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJzZPmqopLtokRpvvbub2xBcs"
+  },
+  {
+    "name": "The Home Depot",
+    "address": "3201 Blenheim Boulevard, Fairfax",
+    "distance": 2.9008305582918155,
+    "category": "Outdoor Festivals and Events",
+    "place_id": "ChIJV7Vo9Q9MtokRgYl08t7Pt8I"
+  },
+  {
+    "name": "Meadowlark Botanical Gardens",
+    "address": "9750 Meadowlark Gardens Court, Vienna",
+    "distance": 7.507435210344035,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJCcN4tB5KtokRBfPD4ikaIBc"
+  },
+  {
+    "name": "Burke Lake Park",
+    "address": "7315 Ox Road, Fairfax Station",
+    "distance": 4.90522692453179,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJ1SKVK5BRtokRrvbsGO5QEYY"
+  },
+  {
+    "name": "Lake Fairfax Park",
+    "address": "1400 Lake Fairfax Drive, Reston",
+    "distance": 8.964045340860903,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJnQOK1Sc2tokRK7iEkAD6Q5A"
+  },
+  {
+    "name": "Nottoway Park",
+    "address": "9537 Courthouse Road, Vienna",
+    "distance": 4.217120564504485,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJy3ZxYO9LtokR4ysZvskdSMQ"
+  },
+  {
+    "name": "Lake Barton",
+    "address": "Burke",
+    "distance": 2.505199922600374,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJQ6BzpeFRtokRNd5jxbJw-z0"
+  },
+  {
+    "name": "Head of the Occoquan, Sandy Run Training Facility",
+    "address": "10450 Van Thompson Road, Fairfax Station",
+    "distance": 8.411271754094901,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJHzjrDVNRtokRNXDq0IS1-f8"
+  },
+  {
+    "name": "Poplar Tree Park",
+    "address": "4718 Stringfellow Road, Fairfax",
+    "distance": 5.587139825240639,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJRQSrY7lFtokR2SaRjvgglAA"
+  },
+  {
+    "name": "Braddock Park",
+    "address": "13451 Braddock Road, Clifton",
+    "distance": 5.24411710070566,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJyY4cjxZFtokRkYSMcCxrVGY"
+  },
+  {
+    "name": "Lake Accotink Park",
+    "address": "7500 Accotink Park Road, Springfield",
+    "distance": 5.852956837487724,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJI5fIf3JNtokRiM9-O-w5aLw"
+  },
+  {
+    "name": "National Funeral Home & National Memorial Park",
+    "address": "7482 Lee Highway, Falls Church",
+    "distance": 6.8009608914196225,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJtS0D1EhLtokRSvy12psT38Y"
+  },
+  {
+    "name": "Mason District Park",
+    "address": "6621 Columbia Pike, Annandale",
+    "distance": 7.473585564209099,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJ_yZouj2zt4kRU4p2jzSk0P8"
+  },
+  {
+    "name": "Fountainhead Regional Park",
+    "address": "10875 Hampton Road, Fairfax Station",
+    "distance": 7.456043421256326,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJqxE-_itRtokREvnFsTC2Pyc"
+  },
+  {
+    "name": "Green Spring Gardens",
+    "address": "4603 Green Spring Road, Alexandria",
+    "distance": 8.42260665760525,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJ05IyWgSzt4kRlsdUKEzRTRM"
+  },
+  {
+    "name": "Greenbriar Park",
+    "address": "4600 Stringfellow Road, Fairfax",
+    "distance": 5.554850300920544,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJTzUeIsdFtokREw6FvWV7h5U"
+  },
+  {
+    "name": "Draper Drive Park",
+    "address": "9797 Beech Drive, Fairfax",
+    "distance": 2.8668644020119323,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJnZlLywNMtokRNiSWrKAJ9Jw"
+  },
+  {
+    "name": "Ossian Hall Park",
+    "address": "7900 Heritage Drive, Annandale",
+    "distance": 5.4709690635362875,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJI799JtlMtokR4O-CViMcNCY"
+  },
+  {
+    "name": "Hidden Oaks Nature Center",
+    "address": "7701 Royce Street, Annandale",
+    "distance": 5.444504761201073,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJzyPPssZMtokRs3S8SfCHwC0"
+  },
+  {
+    "name": "Hemlock Overlook Regional Park",
+    "address": "13220 Yates Ford Road, Clifton",
+    "distance": 6.761380751184133,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJae7SU_BatokRZt1ZoY30LiE"
+  },
+  {
+    "name": "Lakeside Park",
+    "address": "5216 Pommeroy Drive, Fairfax",
+    "distance": 2.1570725296663813,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJZ-uaLuBNtokR6T5tH68ZmIk"
+  },
+  {
+    "name": "Patriot Park",
+    "address": "12111 Braddock Road, Fairfax",
+    "distance": 2.792879303458154,
+    "category": "Hiking and Biking Trails",
+    "place_id": "ChIJl0fgT5BPtokRCv9aaLPMXfY"
+  },
+  {
+    "name": "Fair Oaks Mall",
+    "address": "11750 Fair Oaks Mall, Fairfax",
+    "distance": 3.3033130121523286,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJP5AvHUFPtokRgGDG2VFVo94"
+  },
+  {
+    "name": "Mosaic District",
+    "address": "2910 District Avenue, Fairfax",
+    "distance": 5.255381834756535,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJ88iiG3tLtokRkDVycOlURCM"
+  },
+  {
+    "name": "Tysons Galleria",
+    "address": "2001 International Drive, McLean",
+    "distance": 7.930510964255841,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJy6ajP-xKtokRWFACUU7KsHM"
+  },
+  {
+    "name": "Fair Lakes Shopping Center",
+    "address": "12500 Fair Lakes Shopping Center, Fairfax",
+    "distance": 4.736246527892306,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJU6k5F5FFtokRwPFDLIIBNJI"
+  },
+  {
+    "name": "Springfield Town Center",
+    "address": "6500 Franconia-Springfield Parkway, Springfield",
+    "distance": 8.413629536107349,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJZzwb-l6tt4kRcYD_TvYYpCo"
+  },
+  {
+    "name": "Fairfax Corner",
+    "address": "4100 Monument Corner Drive, Fairfax",
+    "distance": 3.0281353640027837,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJ7SdLUmpPtokROQrhcmsS6rE"
+  },
+  {
+    "name": "Eden Center",
+    "address": "6751-6799 Wilson Boulevard, Falls Church",
+    "distance": 8.946540922167033,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJFV4E_4u0t4kRdlc7bjlkaJE"
+  },
+  {
+    "name": "Fair City Mall",
+    "address": "9650 Main Street, Fairfax",
+    "distance": 2.174271384274585,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJ24RhOjtMtokRQRI4KYgfG0E"
+  },
+  {
+    "name": "Reston Town Center",
+    "address": "11900 Market Street, Reston",
+    "distance": 9.161421552631463,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJZ1QOwh5ItokRSSc01ZwDHgs"
+  },
+  {
+    "name": "Springfield Plaza",
+    "address": "7025 Old Keene Mill Road, Springfield",
+    "distance": 7.526743376658968,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJnYJwH6qyt4kRT3boKOF9ykg"
+  },
+  {
+    "name": "Loisdale Center",
+    "address": "9701 Loisdale Road, Springfield",
+    "distance": 8.292240810108524,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJ8eJ-d1mtt4kR0PD1xQiO6kw"
+  },
+  {
+    "name": "Seven Corners Center",
+    "address": "6201 Arlington Boulevard, Falls Church",
+    "distance": 9.062622278152434,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJj-QQkWK0t4kRjXAnERAEQUk"
+  },
+  {
+    "name": "Pan Am Shopping Center",
+    "address": "3089 Nutley Street, Fairfax",
+    "distance": 3.816748086716714,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJ9Y-3mYpLtokRGI8JW8cYa0o"
+  },
+  {
+    "name": "Greenbriar Town Center",
+    "address": "13043 Lee Jackson Memorial Highway, Fairfax",
+    "distance": 5.794841123196384,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJu62g1eBFtokR_VNmtiK7zAs"
+  },
+  {
+    "name": "Sully Plaza",
+    "address": "13900 Lee Jackson Memorial Highway Service Road, Chantilly",
+    "distance": 7.602568760854322,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJnzfmxYZGtokRT748W3EinHI"
+  },
+  {
+    "name": "South Lakes Village Shopping Center",
+    "address": "11120 South Lakes Drive, Reston",
+    "distance": 7.459028883464829,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJo6e0fbVJtokRr8rthdpq_mA"
+  },
+  {
+    "name": "Worldgate Centre",
+    "address": "13025 Worldgate Drive, Herndon",
+    "distance": 9.907362618503718,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJYyZhrPJHtokRT7S1KfI3Ib4"
+  },
+  {
+    "name": "Rolling Valley",
+    "address": "Burke",
+    "distance": 4.563413281971857,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJye5DphJStokRQAQQSgKxeDc"
+  },
+  {
+    "name": "Bradlick Shopping Center",
+    "address": "6960 Braddock Road, Annandale",
+    "distance": 6.984707748135688,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJ2c3R89Cyt4kRBCtqJVnbEdI"
+  },
+  {
+    "name": "Falls Plaza",
+    "address": "1200 West Broad Street, Falls Church",
+    "distance": 7.952776092195394,
+    "category": "Malls and Shopping Centers",
+    "place_id": "ChIJXb4HKdK0t4kR2lacaqH74ek"
+  },
+  {
+    "name": "Fair Oaks Mall",
+    "address": "11750 Fair Oaks Mall, Fairfax",
+    "distance": 3.3033130121523286,
+    "category": "Street Markets",
+    "place_id": "ChIJP5AvHUFPtokRgGDG2VFVo94"
+  },
+  {
+    "name": "Mosaic District",
+    "address": "2910 District Avenue, Fairfax",
+    "distance": 5.255381834756535,
+    "category": "Street Markets",
+    "place_id": "ChIJ88iiG3tLtokRkDVycOlURCM"
+  },
+  {
+    "name": "Tysons Galleria",
+    "address": "2001 International Drive, McLean",
+    "distance": 7.930510964255841,
+    "category": "Street Markets",
+    "place_id": "ChIJy6ajP-xKtokRWFACUU7KsHM"
+  },
+  {
+    "name": "Fair Lakes Shopping Center",
+    "address": "12500 Fair Lakes Shopping Center, Fairfax",
+    "distance": 4.736246527892306,
+    "category": "Street Markets",
+    "place_id": "ChIJU6k5F5FFtokRwPFDLIIBNJI"
+  },
+  {
+    "name": "Springfield Town Center",
+    "address": "6500 Franconia-Springfield Parkway, Springfield",
+    "distance": 8.413629536107349,
+    "category": "Street Markets",
+    "place_id": "ChIJZzwb-l6tt4kRcYD_TvYYpCo"
+  },
+  {
+    "name": "Fairfax Corner",
+    "address": "4100 Monument Corner Drive, Fairfax",
+    "distance": 3.0281353640027837,
+    "category": "Street Markets",
+    "place_id": "ChIJ7SdLUmpPtokROQrhcmsS6rE"
+  },
+  {
+    "name": "Eden Center",
+    "address": "6751-6799 Wilson Boulevard, Falls Church",
+    "distance": 8.946540922167033,
+    "category": "Street Markets",
+    "place_id": "ChIJFV4E_4u0t4kRdlc7bjlkaJE"
+  },
+  {
+    "name": "Fair City Mall",
+    "address": "9650 Main Street, Fairfax",
+    "distance": 2.174271384274585,
+    "category": "Street Markets",
+    "place_id": "ChIJ24RhOjtMtokRQRI4KYgfG0E"
+  },
+  {
+    "name": "Reston Town Center",
+    "address": "11900 Market Street, Reston",
+    "distance": 9.161421552631463,
+    "category": "Street Markets",
+    "place_id": "ChIJZ1QOwh5ItokRSSc01ZwDHgs"
+  },
+  {
+    "name": "Springfield Plaza",
+    "address": "7025 Old Keene Mill Road, Springfield",
+    "distance": 7.526743376658968,
+    "category": "Street Markets",
+    "place_id": "ChIJnYJwH6qyt4kRT3boKOF9ykg"
+  },
+  {
+    "name": "Loisdale Center",
+    "address": "9701 Loisdale Road, Springfield",
+    "distance": 8.292240810108524,
+    "category": "Street Markets",
+    "place_id": "ChIJ8eJ-d1mtt4kR0PD1xQiO6kw"
+  },
+  {
+    "name": "Seven Corners Center",
+    "address": "6201 Arlington Boulevard, Falls Church",
+    "distance": 9.062622278152434,
+    "category": "Street Markets",
+    "place_id": "ChIJj-QQkWK0t4kRjXAnERAEQUk"
+  },
+  {
+    "name": "Pan Am Shopping Center",
+    "address": "3089 Nutley Street, Fairfax",
+    "distance": 3.816748086716714,
+    "category": "Street Markets",
+    "place_id": "ChIJ9Y-3mYpLtokRGI8JW8cYa0o"
+  },
+  {
+    "name": "Greenbriar Town Center",
+    "address": "13043 Lee Jackson Memorial Highway, Fairfax",
+    "distance": 5.794841123196384,
+    "category": "Street Markets",
+    "place_id": "ChIJu62g1eBFtokR_VNmtiK7zAs"
+  },
+  {
+    "name": "Sully Plaza",
+    "address": "13900 Lee Jackson Memorial Highway Service Road, Chantilly",
+    "distance": 7.602568760854322,
+    "category": "Street Markets",
+    "place_id": "ChIJnzfmxYZGtokRT748W3EinHI"
+  },
+  {
+    "name": "South Lakes Village Shopping Center",
+    "address": "11120 South Lakes Drive, Reston",
+    "distance": 7.459028883464829,
+    "category": "Street Markets",
+    "place_id": "ChIJo6e0fbVJtokRr8rthdpq_mA"
+  },
+  {
+    "name": "Worldgate Centre",
+    "address": "13025 Worldgate Drive, Herndon",
+    "distance": 9.907362618503718,
+    "category": "Street Markets",
+    "place_id": "ChIJYyZhrPJHtokRT7S1KfI3Ib4"
+  },
+  {
+    "name": "Rolling Valley",
+    "address": "Burke",
+    "distance": 4.563413281971857,
+    "category": "Street Markets",
+    "place_id": "ChIJye5DphJStokRQAQQSgKxeDc"
+  },
+  {
+    "name": "Bradlick Shopping Center",
+    "address": "6960 Braddock Road, Annandale",
+    "distance": 6.984707748135688,
+    "category": "Street Markets",
+    "place_id": "ChIJ2c3R89Cyt4kRBCtqJVnbEdI"
+  },
+  {
+    "name": "Falls Plaza",
+    "address": "1200 West Broad Street, Falls Church",
+    "distance": 7.952776092195394,
+    "category": "Street Markets",
+    "place_id": "ChIJXb4HKdK0t4kR2lacaqH74ek"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "address": "1500 B Cornerside Boulevard, Vienna",
+    "distance": 7.663680977330317,
+    "category": "Boutique Shops",
+    "place_id": "ChIJFUD3vWBKtokRAYh3VoN7CQw"
+  },
+  {
+    "name": "DICK'S Sporting Goods",
+    "address": "12000 Fair Oaks Mall, Fairfax",
+    "distance": 3.4155121329379177,
+    "category": "Boutique Shops",
+    "place_id": "ChIJuW4GDopFtokRKOmmPQ6Agrg"
+  },
+  {
+    "name": "Target",
+    "address": "2905 District Avenue Ste 400, Fairfax",
+    "distance": 5.274472489578849,
+    "category": "Boutique Shops",
+    "place_id": "ChIJFYKVKHtLtokRnfEaO5LH1bk"
+  },
+  {
+    "name": "Walmart",
+    "address": "6000 Burke Commons Road, Burke",
+    "distance": 3.0096271735459683,
+    "category": "Boutique Shops",
+    "place_id": "ChIJpw9c_eJRtokRxT2dV8sR1iI"
+  },
+  {
+    "name": "Vans",
+    "address": "11750 Fair Oaks Mall, Fairfax",
+    "distance": 3.3590379570434266,
+    "category": "Boutique Shops",
+    "place_id": "ChIJsUjDoUFPtokRdL6R-Y1Wjc8"
+  },
+  {
+    "name": "Macy's",
+    "address": "11700L Fair Oaks Mall, Fairfax",
+    "distance": 3.175913699639714,
+    "category": "Boutique Shops",
+    "place_id": "ChIJP5AvHUFPtokR5mxaMz25gaI"
+  },
+  {
+    "name": "Victoria's Secret & PINK by Victoria's Secret",
+    "address": "1961 Chain Bridge Road, McLean",
+    "distance": 7.733674015066121,
+    "category": "Boutique Shops",
+    "place_id": "ChIJTb0g5ehKtokREPecpoOrNVU"
+  },
+  {
+    "name": "Free People",
+    "address": "1961 Chain Bridge Road, McLean",
+    "distance": 7.732078528785723,
+    "category": "Boutique Shops",
+    "place_id": "ChIJ6-_lu-9KtokRFg3QG9hQaZI"
+  },
+  {
+    "name": "lululemon",
+    "address": "center, Space J17U, 1961 Chain Bridge Road, Tysons",
+    "distance": 7.566555063913082,
+    "category": "Boutique Shops",
+    "place_id": "ChIJtwE5_-VKtokRtzx6RtNOVzA"
+  },
+  {
+    "name": "REI",
+    "address": "11950 Grand Commons Avenue, Fairfax",
+    "distance": 3.0719418039067703,
+    "category": "Boutique Shops",
+    "place_id": "ChIJDyrFV2pPtokRmhDsC7_jTco"
+  },
+  {
+    "name": "JCPenney",
+    "address": "11801 Fair Oaks Mall, Fairfax",
+    "distance": 3.244831938461005,
+    "category": "Boutique Shops",
+    "place_id": "ChIJy6AvHUFPtokR4joE8-ZPoHg"
+  },
+  {
+    "name": "Party City",
+    "address": "10700 Fairfax Boulevard, Fairfax",
+    "distance": 1.7109681903964409,
+    "category": "Boutique Shops",
+    "place_id": "ChIJE_ODlMFOtokRmF2B29G73kc"
+  },
+  {
+    "name": "Road Runner Sports",
+    "address": "1120 West Broad Street, Falls Church",
+    "distance": 7.981840678724162,
+    "category": "Boutique Shops",
+    "place_id": "ChIJk6xV7tG0t4kRWsS3SoQ62oI"
+  },
+  {
+    "name": "Marshalls",
+    "address": "8353 Leesburg Pike, Vienna",
+    "distance": 7.287328976793605,
+    "category": "Boutique Shops",
+    "place_id": "ChIJtetKPvdKtokRk6tOtaCJt0k"
+  },
+  {
+    "name": "Nordstrom Rack",
+    "address": "12199 Fair Lakes Promenade Drive, Fairfax",
+    "distance": 3.5257094876742525,
+    "category": "Boutique Shops",
+    "place_id": "ChIJwZej4WdPtokRkqVjzrxfhvE"
+  },
+  {
+    "name": "Macy's",
+    "address": "6400 Springfield Mall, Springfield",
+    "distance": 8.425819712454455,
+    "category": "Boutique Shops",
+    "place_id": "ChIJrzn3XF6tt4kRs3MY7qupCxA"
+  },
+  {
+    "name": "Zumiez",
+    "address": "1961 Chain Bridge Road, McLean",
+    "distance": 7.708840631059753,
+    "category": "Boutique Shops",
+    "place_id": "ChIJ6-_lu-9KtokRApPTrngEjts"
+  },
+  {
+    "name": "J.Jill",
+    "address": "8010 Tysons Corner Center, McLean",
+    "distance": 7.634621109432106,
+    "category": "Boutique Shops",
+    "place_id": "ChIJTb0g5ehKtokRVcZ1-HfzIiQ"
+  },
+  {
+    "name": "JCPenney",
+    "address": "6699 Springfield Mall, Springfield",
+    "distance": 8.418023037480015,
+    "category": "Boutique Shops",
+    "place_id": "ChIJ8xmnil6tt4kR2Jx-HU2SrwE"
+  },
+  {
+    "name": "David's Bridal Springfield VA",
+    "address": "7206 Old Keene Mill Road, Springfield Boulevard, Springfield",
+    "distance": 7.486366242533931,
+    "category": "Boutique Shops",
+    "place_id": "ChIJdR2HGaqyt4kR_68DtiSZ-pM"
+  },
+  {
+    "name": "Costco Wholesale",
+    "address": "4725 West Ox Road, Fairfax",
+    "distance": 3.4616648860429473,
+    "category": "Antique Markets",
+    "place_id": "ChIJ7RsYb3tPtokR1CEMF8Jy_q8"
+  },
+  {
+    "name": "Lost Dog Cafe - Dunn Loring",
+    "address": "2729 Merrilee Drive, Fairfax",
+    "distance": 5.477036577087292,
+    "category": "Antique Markets",
+    "place_id": "ChIJWR6NtHFLtokRQPXUa_B2WJU"
+  },
+  {
+    "name": "Micro Center",
+    "address": "3089 Nutley Street, Fairfax",
+    "distance": 3.75157418673837,
+    "category": "Antique Markets",
+    "place_id": "ChIJzZPmqopLtokRpvvbub2xBcs"
+  },
+  {
+    "name": "The Home Depot",
+    "address": "3201 Blenheim Boulevard, Fairfax",
+    "distance": 2.9008305582918155,
+    "category": "Antique Markets",
+    "place_id": "ChIJV7Vo9Q9MtokRgYl08t7Pt8I"
+  },
+  {
+    "name": "Barnes & Noble",
+    "address": "12193 Fair Lakes Promenade Drive, Fairfax",
+    "distance": 3.503641691653744,
+    "category": "Antique Markets",
+    "place_id": "ChIJ07yRGGhPtokRM5g2iUqyEss"
+  },
+  {
+    "name": "Best Buy",
+    "address": "13058 Fair Lakes Shopping Center, Fairfax",
+    "distance": 4.855819892664862,
+    "category": "Antique Markets",
+    "place_id": "ChIJQYTHzpZFtokRAyZdLIudkug"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "address": "1500 B Cornerside Boulevard, Vienna",
+    "distance": 7.663680977330317,
+    "category": "Antique Markets",
+    "place_id": "ChIJFUD3vWBKtokRAYh3VoN7CQw"
+  },
+  {
+    "name": "Best Buy",
+    "address": "8449 Leesburg Pike, Vienna",
+    "distance": 7.487261779712043,
+    "category": "Antique Markets",
+    "place_id": "ChIJ0_6fwvVKtokRWZJtncbdqUs"
+  },
+  {
+    "name": "DARCARS Honda of Fairfax",
+    "address": "11020 Fairfax Boulevard, Fairfax",
+    "distance": 1.7248496136889067,
+    "category": "Antique Markets",
+    "place_id": "ChIJX5uWKOdOtokRLGxG_CAYO3o"
+  },
+  {
+    "name": "FedEx Office Print & Ship Center",
+    "address": "8365 Leesburg Pike Suite D, Vienna",
+    "distance": 7.401753621566835,
+    "category": "Antique Markets",
+    "place_id": "ChIJ_3vM3vZKtokRTXmL9057lnI"
+  },
+  {
+    "name": "DICK'S Sporting Goods",
+    "address": "12000 Fair Oaks Mall, Fairfax",
+    "distance": 3.4155121329379177,
+    "category": "Antique Markets",
+    "place_id": "ChIJuW4GDopFtokRKOmmPQ6Agrg"
+  },
+  {
+    "name": "Target",
+    "address": "2905 District Avenue Ste 400, Fairfax",
+    "distance": 5.274472489578849,
+    "category": "Antique Markets",
+    "place_id": "ChIJFYKVKHtLtokRnfEaO5LH1bk"
+  },
+  {
+    "name": "Pep Boys",
+    "address": "7121 Little River Turnpike, Annandale",
+    "distance": 6.54365053277941,
+    "category": "Antique Markets",
+    "place_id": "ChIJ50UXri2zt4kR86IPmKM5Mis"
+  },
+  {
+    "name": "Walmart",
+    "address": "6000 Burke Commons Road, Burke",
+    "distance": 3.0096271735459683,
+    "category": "Antique Markets",
+    "place_id": "ChIJpw9c_eJRtokRxT2dV8sR1iI"
+  },
+  {
+    "name": "H Mart - Fairfax",
+    "address": "11200 Fairfax Boulevard, Fairfax",
+    "distance": 2.088076395815741,
+    "category": "Antique Markets",
+    "place_id": "ChIJJWeNF8JOtokRTqW4jcvU6-Y"
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "4501 Market Commons Drive, Fairfax",
+    "distance": 3.9664851710005684,
+    "category": "Antique Markets",
+    "place_id": "ChIJRZep3WFPtokR1Y8VfsZJHYg"
+  },
+  {
+    "name": "The Cheesecake Factory",
+    "address": "1796U International Drive, McLean",
+    "distance": 7.892058329119678,
+    "category": "Antique Markets",
+    "place_id": "ChIJr9KAsO1KtokRJjLh5NUP0_w"
+  },
+  {
+    "name": "Costco Tire Center",
+    "address": "4725 West Ox Road, Fairfax",
+    "distance": 3.4175815587493763,
+    "category": "Antique Markets",
+    "place_id": "ChIJ7RsYb3tPtokRnKQbM3sazE8"
+  },
+  {
+    "name": "Vans",
+    "address": "11750 Fair Oaks Mall, Fairfax",
+    "distance": 3.3590379570434266,
+    "category": "Antique Markets",
+    "place_id": "ChIJsUjDoUFPtokRdL6R-Y1Wjc8"
+  },
+  {
+    "name": "Koons Tysons Toyota",
+    "address": "8610 Leesburg Pike, Vienna",
+    "distance": 7.877911123906402,
+    "category": "Antique Markets",
+    "place_id": "ChIJR9pRH2FKtokRkfOH_5LfhOw"
+  },
+  {
+    "name": "Fairfax Sportsplex",
+    "address": "6800 Commercial Drive, Springfield",
+    "distance": 7.499243713669301,
+    "category": "Stadiums",
+    "place_id": "ChIJ-bHnH8eyt4kRrupfrQO6dJ8"
+  },
+  {
+    "name": "GMU Field House",
+    "address": "4501 University Drive, Fairfax",
+    "distance": 0.21653631195731962,
+    "category": "Stadiums",
+    "place_id": "ChIJ8wHn5V1OtokRPMxLwqeI4zg"
+  },
+  {
+    "name": "George Mason Softball Complex",
+    "address": "4601 Rapidan River Road, Fairfax",
+    "distance": 0.5926239095769984,
+    "category": "Stadiums",
+    "place_id": "ChIJSyOYxFdOtokRreYvccbVN_w"
+  },
+  {
+    "name": "George Mason Stadium",
+    "address": "4400 University Drive, Fairfax",
+    "distance": 0.2499634912178769,
+    "category": "Stadiums",
+    "place_id": "ChIJrw-4vVhOtokRadlESYee2Sg"
+  },
+  {
+    "name": "Spuhler Field",
+    "address": "10723 School Street, Fairfax",
+    "distance": 0.361969552162547,
+    "category": "Stadiums",
+    "place_id": "ChIJC690gFhOtokRMF_zzUtzF5A"
+  },
+  {
+    "name": "Coffey Stadium",
+    "address": "5035 Sideburn Road, Fairfax",
+    "distance": 1.0950921239893827,
+    "category": "Stadiums",
+    "place_id": "ChIJD8E8-mtOtokRVb8TJldMs7c"
+  },
+  {
+    "name": "Pat Cunningham Stadium",
+    "address": "9525 Main Street, Fairfax",
+    "distance": 1.9027986737032831,
+    "category": "Stadiums",
+    "place_id": "ChIJnV0ysP5NtokRmWNK0jjJHsA"
+  },
+  {
+    "name": "Patrick Laing Field House",
+    "address": "3501 Lion Run, Fairfax",
+    "distance": 2.406810920741175,
+    "category": "Stadiums",
+    "place_id": "ChIJm2YLjqdOtokRKii_r890iKs"
+  },
+  {
+    "name": "Oakton High School Football Stadium",
+    "address": "2883 Crossbow Court, Vienna",
+    "distance": 3.6907120358525503,
+    "category": "Stadiums",
+    "place_id": "ChIJWyC9kaVLtokR6TBbHxZ0kpg"
+  },
+  {
+    "name": "Chester Roush Stadium",
+    "address": "8281 Willow Oaks Corporate Drive, Fairfax",
+    "distance": 4.913542686684793,
+    "category": "Stadiums",
+    "place_id": "ChIJ1ca5n05NtokR153oZO5H828"
+  },
+  {
+    "name": "George C. Marshall High School Football Stadium",
+    "address": "7731 Leesburg Pike, Falls Church",
+    "distance": 7.2794326395763,
+    "category": "Stadiums",
+    "place_id": "ChIJy3chlKhLtokRBUaLQen2-cg"
+  },
+  {
+    "name": "Tennis Court",
+    "address": "Fairfax",
+    "distance": 0.060637155704291366,
+    "category": "Stadiums",
+    "place_id": "ChIJT3fjA19OtokRdUEccqclgpg"
+  },
+  {
+    "name": "Harold Stalnaker Stadium",
+    "address": "Fairfax",
+    "distance": 2.51383585908715,
+    "category": "Stadiums",
+    "place_id": "ChIJvavbUB1MtokR7c76GsNDRAc"
+  },
+  {
+    "name": "Athletic Field",
+    "address": "Annandale",
+    "distance": 4.065818571526351,
+    "category": "Stadiums",
+    "place_id": "ChIJrSfc0PlMtokRiVGQdBZlsRQ"
+  },
+  {
+    "name": "Fairfax Sportsplex",
+    "address": "6800 Commercial Drive, Springfield",
+    "distance": 7.499243713669301,
+    "category": "Arenas",
+    "place_id": "ChIJ-bHnH8eyt4kRrupfrQO6dJ8"
+  },
+  {
+    "name": "GMU Field House",
+    "address": "4501 University Drive, Fairfax",
+    "distance": 0.21653631195731962,
+    "category": "Arenas",
+    "place_id": "ChIJ8wHn5V1OtokRPMxLwqeI4zg"
+  },
+  {
+    "name": "George Mason Softball Complex",
+    "address": "4601 Rapidan River Road, Fairfax",
+    "distance": 0.5926239095769984,
+    "category": "Arenas",
+    "place_id": "ChIJSyOYxFdOtokRreYvccbVN_w"
+  },
+  {
+    "name": "George Mason Stadium",
+    "address": "4400 University Drive, Fairfax",
+    "distance": 0.2499634912178769,
+    "category": "Arenas",
+    "place_id": "ChIJrw-4vVhOtokRadlESYee2Sg"
+  },
+  {
+    "name": "Spuhler Field",
+    "address": "10723 School Street, Fairfax",
+    "distance": 0.361969552162547,
+    "category": "Arenas",
+    "place_id": "ChIJC690gFhOtokRMF_zzUtzF5A"
+  },
+  {
+    "name": "Coffey Stadium",
+    "address": "5035 Sideburn Road, Fairfax",
+    "distance": 1.0950921239893827,
+    "category": "Arenas",
+    "place_id": "ChIJD8E8-mtOtokRVb8TJldMs7c"
+  },
+  {
+    "name": "Pat Cunningham Stadium",
+    "address": "9525 Main Street, Fairfax",
+    "distance": 1.9027986737032831,
+    "category": "Arenas",
+    "place_id": "ChIJnV0ysP5NtokRmWNK0jjJHsA"
+  },
+  {
+    "name": "Patrick Laing Field House",
+    "address": "3501 Lion Run, Fairfax",
+    "distance": 2.406810920741175,
+    "category": "Arenas",
+    "place_id": "ChIJm2YLjqdOtokRKii_r890iKs"
+  },
+  {
+    "name": "Oakton High School Football Stadium",
+    "address": "2883 Crossbow Court, Vienna",
+    "distance": 3.6907120358525503,
+    "category": "Arenas",
+    "place_id": "ChIJWyC9kaVLtokR6TBbHxZ0kpg"
+  },
+  {
+    "name": "Chester Roush Stadium",
+    "address": "8281 Willow Oaks Corporate Drive, Fairfax",
+    "distance": 4.913542686684793,
+    "category": "Arenas",
+    "place_id": "ChIJ1ca5n05NtokR153oZO5H828"
+  },
+  {
+    "name": "George C. Marshall High School Football Stadium",
+    "address": "7731 Leesburg Pike, Falls Church",
+    "distance": 7.2794326395763,
+    "category": "Arenas",
+    "place_id": "ChIJy3chlKhLtokRBUaLQen2-cg"
+  },
+  {
+    "name": "Tennis Court",
+    "address": "Fairfax",
+    "distance": 0.060637155704291366,
+    "category": "Arenas",
+    "place_id": "ChIJT3fjA19OtokRdUEccqclgpg"
+  },
+  {
+    "name": "Harold Stalnaker Stadium",
+    "address": "Fairfax",
+    "distance": 2.51383585908715,
+    "category": "Arenas",
+    "place_id": "ChIJvavbUB1MtokR7c76GsNDRAc"
+  },
+  {
+    "name": "Athletic Field",
+    "address": "Annandale",
+    "distance": 4.065818571526351,
+    "category": "Arenas",
+    "place_id": "ChIJrSfc0PlMtokRiVGQdBZlsRQ"
+  },
+  {
+    "name": "Lost Dog Cafe - Dunn Loring",
+    "address": "2729 Merrilee Drive, Fairfax",
+    "distance": 5.477036577087292,
+    "category": "Sports Bars",
+    "place_id": "ChIJWR6NtHFLtokRQPXUa_B2WJU"
+  },
+  {
+    "name": "Jaipur Royal Indian Cuisine",
+    "address": "9401 Lee Highway #105, Fairfax",
+    "distance": 3.342519501561701,
+    "category": "Sports Bars",
+    "place_id": "ChIJN9w3CAlMtokRrgHANdgBDKo"
+  },
+  {
+    "name": "Maggiano's Little Italy",
+    "address": "2001 International Drive, McLean",
+    "distance": 7.8979645507250495,
+    "category": "Sports Bars",
+    "place_id": "ChIJF5S9PuxKtokRp931kW8LUGA"
+  },
+  {
+    "name": "Bonefish Grill",
+    "address": "13005 Lee Jackson Hwy, Fairfax",
+    "distance": 5.5663338034608865,
+    "category": "Sports Bars",
+    "place_id": "ChIJ14n34uNFtokRmFI9_VKGx8Y"
+  },
+  {
+    "name": "Jammin Java",
+    "address": "227 Maple Avenue East, Vienna",
+    "distance": 5.699395566356398,
+    "category": "Sports Bars",
+    "place_id": "ChIJT0DqXLZLtokRnexCk3z4w7Y"
+  },
+  {
+    "name": "Olive Garden Italian Restaurant",
+    "address": "8133 Leesburg Pike, Vienna",
+    "distance": 7.366946767877532,
+    "category": "Sports Bars",
+    "place_id": "ChIJx1jaE-VKtokRXS5tHhy6aGg"
+  },
+  {
+    "name": "The Wine House",
+    "address": "3950 University Drive, Fairfax",
+    "distance": 1.1345059389781242,
+    "category": "Sports Bars",
+    "place_id": "ChIJ0bpNvpNOtokR0-TDwZCacHg"
+  },
+  {
+    "name": "The Capital Grille",
+    "address": "1861 International Drive, McLean",
+    "distance": 7.450110657622973,
+    "category": "Sports Bars",
+    "place_id": "ChIJnSnCsO1KtokRQcBTE57VZ04"
+  },
+  {
+    "name": "Olive Garden Italian Restaurant",
+    "address": "12980 Fair Lakes Shopping Center, Fairfax",
+    "distance": 4.647248290015625,
+    "category": "Sports Bars",
+    "place_id": "ChIJY0cCD5JFtokRzndL0R47Gdc"
+  },
+  {
+    "name": "Trummer's Restaurant",
+    "address": "7134 Main Street, Clifton",
+    "distance": 5.3651315596856435,
+    "category": "Sports Bars",
+    "place_id": "ChIJ-9pshaJatokR7BAs0NbjphQ"
+  },
+  {
+    "name": "Bombay Tandoor Bar and Grill",
+    "address": "8603 Westwood Center Drive, Vienna",
+    "distance": 7.645373455094359,
+    "category": "Sports Bars",
+    "place_id": "ChIJIagPJF5KtokRc0x4_3fVnl0"
+  },
+  {
+    "name": "eggspectation",
+    "address": "5009 Westone Plaza, Chantilly",
+    "distance": 7.5713708925172325,
+    "category": "Sports Bars",
+    "place_id": "ChIJhUODkT9EtokRvClUI1MCIms"
+  },
+  {
+    "name": "Nostos Restaurant",
+    "address": "8100 Boone Boulevard, Vienna",
+    "distance": 7.321747055507437,
+    "category": "Sports Bars",
+    "place_id": "ChIJaTMlWeRKtokRnx1h_F79A9w"
+  },
+  {
+    "name": "Meridian Pint",
+    "address": "6035 Wilson Boulevard, Arlington",
+    "distance": 9.70375769118014,
+    "category": "Sports Bars",
+    "place_id": "ChIJP0Q1WxnIt4kRW1Awudl7tuo"
+  },
+  {
+    "name": "P.J. Skidoos",
+    "address": "9908 Fairfax Boulevard, Fairfax",
+    "distance": 2.5868685166378786,
+    "category": "Sports Bars",
+    "place_id": "ChIJdUb5jQJMtokRQZ4NiSJh_sU"
+  },
+  {
+    "name": "PaperMoon Springfield",
+    "address": "6315 Amherst Avenue, Springfield",
+    "distance": 7.657176082269902,
+    "category": "Sports Bars",
+    "place_id": "ChIJfdQOU6iyt4kR_ZfKgDYVqgk"
+  },
+  {
+    "name": "The Auld Shebeen",
+    "address": "3971 Chain Bridge Road, Fairfax",
+    "distance": 1.0937707278583744,
+    "category": "Sports Bars",
+    "place_id": "ChIJ_TaGrpNOtokRFLtk85H0G2o"
+  },
+  {
+    "name": "BJ's Restaurant & Brewhouse",
+    "address": "8027 Leesburg Pike STE 100, Vienna",
+    "distance": 7.368170245231262,
+    "category": "Sports Bars",
+    "place_id": "ChIJM8vQvOZKtokR1t3QsaesBcw"
+  },
+  {
+    "name": "Kilroy's",
+    "address": "5250a Port Royal Road, Springfield",
+    "distance": 5.134233930929578,
+    "category": "Sports Bars",
+    "place_id": "ChIJRcwHmRZNtokR0HLLxtsJApw"
+  },
+  {
+    "name": "Dogfish Head Alehouse",
+    "address": "13041 Lee Jackson Memorial Highway Service Road, Fairfax",
+    "distance": 5.6667000642178,
+    "category": "Sports Bars",
+    "place_id": "ChIJ768LQ-FFtokRDwdVnsHN3Yg"
+  },
+  {
+    "name": "Life Time",
+    "address": "5900 Trinity Parkway, Centreville",
+    "distance": 7.041625185278324,
+    "category": "Recreation Centers",
+    "place_id": "ChIJoZCQgPFEtokRXoq7uEFocU0"
+  },
+  {
+    "name": "The nZone",
+    "address": "14550 Lee Road, Chantilly",
+    "distance": 8.54115710049392,
+    "category": "Recreation Centers",
+    "place_id": "ChIJBeZWn6BGtokRWLPGs_EAwHE"
+  },
+  {
+    "name": "Onelife Fitness McLean",
+    "address": "1800 Old Meadow Road, McLean",
+    "distance": 7.915987312023531,
+    "category": "Recreation Centers",
+    "place_id": "ChIJ7XHuF8NKtokR3t6O7ZHd7rI"
+  },
+  {
+    "name": "XSport Fitness",
+    "address": "11220 James Swart Circle, Fairfax",
+    "distance": 2.0778604108500223,
+    "category": "Recreation Centers",
+    "place_id": "ChIJxYVTpx9PtokRQiHJzWVAf8I"
+  },
+  {
+    "name": "Fitness Together",
+    "address": "8300 Boone Boulevard STE 160, Vienna",
+    "distance": 7.308001934711253,
+    "category": "Recreation Centers",
+    "place_id": "ChIJFTpzHhtLtokRqUGhZorkUbo"
+  },
+  {
+    "name": "Gold's Gym - Fairfax Station",
+    "address": "5620-A Ox Road, Fairfax Station",
+    "distance": 2.2885075606450402,
+    "category": "Recreation Centers",
+    "place_id": "ChIJazcHki5OtokRxfX7TP5j2R0"
+  },
+  {
+    "name": "Hot Yoga Tysons",
+    "address": "1420 Spring Hill Road #130, McLean",
+    "distance": 8.069983023250531,
+    "category": "Recreation Centers",
+    "place_id": "ChIJJZklkItKtokRvzjN-6QeGH8"
+  },
+  {
+    "name": "Planet Fitness",
+    "address": "6270 Arlington Boulevard, Seven Corners",
+    "distance": 9.044751676899665,
+    "category": "Recreation Centers",
+    "place_id": "ChIJu2mCDIy0t4kR2uTVeyoqMZ4"
+  },
+  {
+    "name": "24 Hour Fitness",
+    "address": "1000 East Broad Street, Falls Church",
+    "distance": 8.793393917851157,
+    "category": "Recreation Centers",
+    "place_id": "ChIJs4eK6c-0t4kRBgWCj9wMSXQ"
+  },
+  {
+    "name": "Life Time",
+    "address": "9602 Main Street, Fairfax",
+    "distance": 2.2985317845977153,
+    "category": "Recreation Centers",
+    "place_id": "ChIJEVHjNSVMtokRC4hCXtY3RRw"
+  },
+  {
+    "name": "Cub Run Rec Center",
+    "address": "4630 Stonecroft Boulevard, Chantilly",
+    "distance": 9.341674265794953,
+    "category": "Recreation Centers",
+    "place_id": "ChIJRxpDdwFEtokRC1i4gejwUZc"
+  },
+  {
+    "name": "XSport Fitness",
+    "address": "8190 Strawberry Lane, Falls Church",
+    "distance": 5.358664790783844,
+    "category": "Recreation Centers",
+    "place_id": "ChIJXTVrw2RLtokRJ-UsEux4RMs"
+  },
+  {
+    "name": "YMCA Fairfax County Reston",
+    "address": "12196 Sunset Hills Road, Reston",
+    "distance": 9.076877795235804,
+    "category": "Recreation Centers",
+    "place_id": "ChIJ1TME3ARItokRfFPNGQP2rSo"
+  },
+  {
+    "name": "Manassas Park Community Center",
+    "address": "99 Adams Street, Manassas Park",
+    "distance": 8.749902182471477,
+    "category": "Recreation Centers",
+    "place_id": "ChIJF9Y-_WZbtokR8lNUE7u7AjU"
+  },
+  {
+    "name": "Onelife Fitness Tysons",
+    "address": "8250 Greensboro Drive, McLean",
+    "distance": 7.707957261061267,
+    "category": "Recreation Centers",
+    "place_id": "ChIJSVpmIfJKtokRTIpah9vp9-s"
+  },
+  {
+    "name": "Urban Evolution Alexandria",
+    "address": "5505 Cherokee Avenue, Alexandria",
+    "distance": 8.080580955326935,
+    "category": "Recreation Centers",
+    "place_id": "ChIJ3f1JKymyt4kRz8go6VaaxCE"
+  },
+  {
+    "name": "Olympus Gym & Fitness Center",
+    "address": "10400 Premier Court, Burke",
+    "distance": 2.3802622364458625,
+    "category": "Recreation Centers",
+    "place_id": "ChIJJSgP_htOtokRi7EEvE7WQC4"
+  },
+  {
+    "name": "Burke Racquet & Swim Club",
+    "address": "6001 Burke Commons Road, Burke",
+    "distance": 3.0987528711725068,
+    "category": "Recreation Centers",
+    "place_id": "ChIJwzeY3_xRtokRalJPXDod4vc"
+  },
+  {
+    "name": "Pozez Jewish Community Center of Northern Virginia",
+    "address": "8900 Little River Turnpike, Fairfax",
+    "distance": 3.3490093909619367,
+    "category": "Recreation Centers",
+    "place_id": "ChIJsXf8xlpMtokR8t0mKueymFE"
+  },
+  {
+    "name": "Gold's Gym - Annandale",
+    "address": "6940-A Bradlick Shopping Center, 6940 Braddock Road, Annandale",
+    "distance": 7.025516086365579,
+    "category": "Recreation Centers",
+    "place_id": "ChIJo2lNk9JMtokROAXaV9YymSg"
+  },
+  {
+    "name": "Lost Dog Cafe - Dunn Loring",
+    "address": "2729 Merrilee Drive, Fairfax",
+    "distance": 5.477036577087292,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJWR6NtHFLtokRQPXUa_B2WJU"
+  },
+  {
+    "name": "Jaipur Royal Indian Cuisine",
+    "address": "9401 Lee Highway #105, Fairfax",
+    "distance": 3.342519501561701,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJN9w3CAlMtokRrgHANdgBDKo"
+  },
+  {
+    "name": "Texas de Brazil - Fairfax",
+    "address": "11750 Fair Oaks Mall Suite K240, Fairfax",
+    "distance": 3.242816225494406,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJsUjDoUFPtokRreo500LfBLM"
+  },
+  {
+    "name": "2941 Restaurant",
+    "address": "2941 Fairview Park Drive, Falls Church",
+    "distance": 5.8465082989462855,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJW9b3EaBMtokRMYamNDoZJAc"
+  },
+  {
+    "name": "Honey Pig BBQ",
+    "address": "7220 Columbia Pike, Annandale",
+    "distance": 6.369292839619163,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJAfHiqTKzt4kR28_JKXOarRE"
+  },
+  {
+    "name": "The Cheesecake Factory",
+    "address": "1796U International Drive, McLean",
+    "distance": 7.892058329119678,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJr9KAsO1KtokRJjLh5NUP0_w"
+  },
+  {
+    "name": "Maggiano's Little Italy",
+    "address": "2001 International Drive, McLean",
+    "distance": 7.8979645507250495,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJF5S9PuxKtokRp931kW8LUGA"
+  },
+  {
+    "name": "Wasabi",
+    "address": "1961 Chain Bridge Road, McLean",
+    "distance": 7.70573994854718,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJ6-_lu-9KtokR0hbSdG6QyCI"
+  },
+  {
+    "name": "Bonefish Grill",
+    "address": "13005 Lee Jackson Hwy, Fairfax",
+    "distance": 5.5663338034608865,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJ14n34uNFtokRmFI9_VKGx8Y"
+  },
+  {
+    "name": "Jammin Java",
+    "address": "227 Maple Avenue East, Vienna",
+    "distance": 5.699395566356398,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJT0DqXLZLtokRnexCk3z4w7Y"
+  },
+  {
+    "name": "Panda Express",
+    "address": "4441 George Mason Boulevard, Fairfax",
+    "distance": 0.3085512491359185,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJYWbUFmBOtokRVLOyne-zfxg"
+  },
+  {
+    "name": "Ruth's Chris Steak House",
+    "address": "4100 Monument Corner Drive Suite 101, Fairfax",
+    "distance": 3.079536267446189,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJ7SdLUmpPtokRSPq6EMknNH0"
+  },
+  {
+    "name": "Sushi Yoshi",
+    "address": "101 Church Street Northwest, Vienna",
+    "distance": 5.457229523452167,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJRRwMhchLtokRePyswxAALHM"
+  },
+  {
+    "name": "Olive Garden Italian Restaurant",
+    "address": "8133 Leesburg Pike, Vienna",
+    "distance": 7.366946767877532,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJx1jaE-VKtokRXS5tHhy6aGg"
+  },
+  {
+    "name": "H\u00e4agen-Dazs",
+    "address": "7889 Tysons Corner Center Space 9FU, McLean",
+    "distance": 7.732588816537498,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJ6-_lu-9KtokRvo7NW3yp1Es"
+  },
+  {
+    "name": "matchbox",
+    "address": "2911 District Avenue suite 120, Fairfax",
+    "distance": 5.244153001938408,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJDQnaUHtLtokRe1HcLnpbZBE"
+  },
+  {
+    "name": "Tandem Restaurant & Bar",
+    "address": "3111 Fairview Park Drive, Falls Church",
+    "distance": 5.565505013500511,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJf8vftaFMtokRmNFcRCbpikc"
+  },
+  {
+    "name": "P.F. Chang's",
+    "address": "1716M International Drive, McLean",
+    "distance": 7.920128923350288,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJ0wPut-1KtokR8deTHp1xUco"
+  },
+  {
+    "name": "Sweetwater Tavern",
+    "address": "14250 Sweetwater Lane, Centreville",
+    "distance": 6.85395613193846,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJb-6nselEtokRF_Xzm6oTnC0"
+  },
+  {
+    "name": "Chima Steakhouse",
+    "address": "8010 Towers Crescent Plaza, Tysons",
+    "distance": 7.551795246001979,
+    "category": "Fine Dining Restaurants",
+    "place_id": "ChIJOR2km-ZKtokRVWHkoqGrWRE"
+  },
+  {
+    "name": "Lost Dog Cafe - Dunn Loring",
+    "address": "2729 Merrilee Drive, Fairfax",
+    "distance": 5.477036577087292,
+    "category": "Casual Eateries",
+    "place_id": "ChIJWR6NtHFLtokRQPXUa_B2WJU"
+  },
+  {
+    "name": "Jaipur Royal Indian Cuisine",
+    "address": "9401 Lee Highway #105, Fairfax",
+    "distance": 3.342519501561701,
+    "category": "Casual Eateries",
+    "place_id": "ChIJN9w3CAlMtokRrgHANdgBDKo"
+  },
+  {
+    "name": "Texas de Brazil - Fairfax",
+    "address": "11750 Fair Oaks Mall Suite K240, Fairfax",
+    "distance": 3.242816225494406,
+    "category": "Casual Eateries",
+    "place_id": "ChIJsUjDoUFPtokRreo500LfBLM"
+  },
+  {
+    "name": "2941 Restaurant",
+    "address": "2941 Fairview Park Drive, Falls Church",
+    "distance": 5.8465082989462855,
+    "category": "Casual Eateries",
+    "place_id": "ChIJW9b3EaBMtokRMYamNDoZJAc"
+  },
+  {
+    "name": "Honey Pig BBQ",
+    "address": "7220 Columbia Pike, Annandale",
+    "distance": 6.369292839619163,
+    "category": "Casual Eateries",
+    "place_id": "ChIJAfHiqTKzt4kR28_JKXOarRE"
+  },
+  {
+    "name": "The Cheesecake Factory",
+    "address": "1796U International Drive, McLean",
+    "distance": 7.892058329119678,
+    "category": "Casual Eateries",
+    "place_id": "ChIJr9KAsO1KtokRJjLh5NUP0_w"
+  },
+  {
+    "name": "Maggiano's Little Italy",
+    "address": "2001 International Drive, McLean",
+    "distance": 7.8979645507250495,
+    "category": "Casual Eateries",
+    "place_id": "ChIJF5S9PuxKtokRp931kW8LUGA"
+  },
+  {
+    "name": "Wasabi",
+    "address": "1961 Chain Bridge Road, McLean",
+    "distance": 7.70573994854718,
+    "category": "Casual Eateries",
+    "place_id": "ChIJ6-_lu-9KtokR0hbSdG6QyCI"
+  },
+  {
+    "name": "Bonefish Grill",
+    "address": "13005 Lee Jackson Hwy, Fairfax",
+    "distance": 5.5663338034608865,
+    "category": "Casual Eateries",
+    "place_id": "ChIJ14n34uNFtokRmFI9_VKGx8Y"
+  },
+  {
+    "name": "Jammin Java",
+    "address": "227 Maple Avenue East, Vienna",
+    "distance": 5.699395566356398,
+    "category": "Casual Eateries",
+    "place_id": "ChIJT0DqXLZLtokRnexCk3z4w7Y"
+  },
+  {
+    "name": "Panda Express",
+    "address": "4441 George Mason Boulevard, Fairfax",
+    "distance": 0.3085512491359185,
+    "category": "Casual Eateries",
+    "place_id": "ChIJYWbUFmBOtokRVLOyne-zfxg"
+  },
+  {
+    "name": "Ruth's Chris Steak House",
+    "address": "4100 Monument Corner Drive Suite 101, Fairfax",
+    "distance": 3.079536267446189,
+    "category": "Casual Eateries",
+    "place_id": "ChIJ7SdLUmpPtokRSPq6EMknNH0"
+  },
+  {
+    "name": "Sushi Yoshi",
+    "address": "101 Church Street Northwest, Vienna",
+    "distance": 5.457229523452167,
+    "category": "Casual Eateries",
+    "place_id": "ChIJRRwMhchLtokRePyswxAALHM"
+  },
+  {
+    "name": "Olive Garden Italian Restaurant",
+    "address": "8133 Leesburg Pike, Vienna",
+    "distance": 7.366946767877532,
+    "category": "Casual Eateries",
+    "place_id": "ChIJx1jaE-VKtokRXS5tHhy6aGg"
+  },
+  {
+    "name": "H\u00e4agen-Dazs",
+    "address": "7889 Tysons Corner Center Space 9FU, McLean",
+    "distance": 7.732588816537498,
+    "category": "Casual Eateries",
+    "place_id": "ChIJ6-_lu-9KtokRvo7NW3yp1Es"
+  },
+  {
+    "name": "matchbox",
+    "address": "2911 District Avenue suite 120, Fairfax",
+    "distance": 5.244153001938408,
+    "category": "Casual Eateries",
+    "place_id": "ChIJDQnaUHtLtokRe1HcLnpbZBE"
+  },
+  {
+    "name": "Tandem Restaurant & Bar",
+    "address": "3111 Fairview Park Drive, Falls Church",
+    "distance": 5.565505013500511,
+    "category": "Casual Eateries",
+    "place_id": "ChIJf8vftaFMtokRmNFcRCbpikc"
+  },
+  {
+    "name": "P.F. Chang's",
+    "address": "1716M International Drive, McLean",
+    "distance": 7.920128923350288,
+    "category": "Casual Eateries",
+    "place_id": "ChIJ0wPut-1KtokR8deTHp1xUco"
+  },
+  {
+    "name": "Sweetwater Tavern",
+    "address": "14250 Sweetwater Lane, Centreville",
+    "distance": 6.85395613193846,
+    "category": "Casual Eateries",
+    "place_id": "ChIJb-6nselEtokRF_Xzm6oTnC0"
+  },
+  {
+    "name": "Chima Steakhouse",
+    "address": "8010 Towers Crescent Plaza, Tysons",
+    "distance": 7.551795246001979,
+    "category": "Casual Eateries",
+    "place_id": "ChIJOR2km-ZKtokRVWHkoqGrWRE"
+  },
+  {
+    "name": "Annandale",
+    "address": "Annandale",
+    "distance": 6.250334795729947,
+    "category": "Food Markets",
+    "place_id": "ChIJt1ldh8RMtokREBjGDOcKq0A"
+  },
+  {
+    "name": "Holiday Inn Express Fairfax - Arlington Boulevard, an IHG Hotel",
+    "address": "10327 Fairfax Boulevard, Fairfax",
+    "distance": 2.0048844939940045,
+    "category": "Food Markets",
+    "place_id": "ChIJBxV0m7tOtokR0YtsO1sn4Hs"
+  },
+  {
+    "name": "Fairfax Marriott at Fair Oaks",
+    "address": "11787 U.S. 50, Fairfax",
+    "distance": 3.1191549004559054,
+    "category": "Food Markets",
+    "place_id": "ChIJl_pVOT9PtokRwCTSfmj8BGI"
+  },
+  {
+    "name": "Hilton Garden Inn Fairfax",
+    "address": "3950 Fair Ridge Drive, Fairfax",
+    "distance": 4.243550878151147,
+    "category": "Food Markets",
+    "place_id": "ChIJw5yL7VBPtokRz6gzPH5FiYQ"
+  },
+  {
+    "name": "Falls Church Marriott Fairview Park",
+    "address": "3111 Fairview Park Drive, Falls Church",
+    "distance": 5.563714256379515,
+    "category": "Food Markets",
+    "place_id": "ChIJf8vftaFMtokRp7RJosrFdBM"
+  },
+  {
+    "name": "Best Western Fairfax",
+    "address": "3535 Chain Bridge Road, Fairfax",
+    "distance": 2.129226147882619,
+    "category": "Food Markets",
+    "place_id": "ChIJQxd1qrlOtokRNg7kl6owlFA"
+  },
+  {
+    "name": "SpringHill Suites by Marriott Fairfax Fair Oaks",
+    "address": "11191 Waples Mill Road, Fairfax",
+    "distance": 2.0687681544767247,
+    "category": "Food Markets",
+    "place_id": "ChIJOb7ItR5PtokRsqkw8fvPAl8"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax City",
+    "address": "3565 Chain Bridge Road, Fairfax",
+    "distance": 1.969734933108145,
+    "category": "Food Markets",
+    "place_id": "ChIJeyPGI7lOtokRzam-vhVJRmc"
+  },
+  {
+    "name": "Courtyard by Marriott Fairfax Fair Oaks",
+    "address": "11220 Lee Jackson Memorial Highway, Fairfax",
+    "distance": 2.1218064080002557,
+    "category": "Food Markets",
+    "place_id": "ChIJ-aWvGyBPtokRygyhuSSSreo"
+  },
+  {
+    "name": "Comfort Inn University Center",
+    "address": "11180 Fairfax Boulevard, Fairfax",
+    "distance": 1.964517040055923,
+    "category": "Food Markets",
+    "place_id": "ChIJv5IS3t9OtokRRu5IaV6g4fE"
+  },
+  {
+    "name": "Extended Stay America - Washington, D.C. - Fairfax",
+    "address": "3997 Fair Ridge Drive, Fairfax",
+    "distance": 4.061996104349351,
+    "category": "Food Markets",
+    "place_id": "ChIJM4O1plpPtokRvBp1LA7AIFU"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax Merrifield",
+    "address": "8125 Gatehouse Road, Falls Church",
+    "distance": 5.2936517407644095,
+    "category": "Food Markets",
+    "place_id": "ChIJk4CUamJLtokRO6OdV5n4aec"
+  },
+  {
+    "name": "Costco Wholesale",
+    "address": "4725 West Ox Road, Fairfax",
+    "distance": 3.4616648860429473,
+    "category": "Food Markets",
+    "place_id": "ChIJ7RsYb3tPtokR1CEMF8Jy_q8"
+  },
+  {
+    "name": "Hampton Inn Fairfax City",
+    "address": "10860 Fairfax Boulevard, Fairfax",
+    "distance": 1.6040671945908829,
+    "category": "Food Markets",
+    "place_id": "ChIJQWHqOehOtokRvVrCjlE6Eog"
+  },
+  {
+    "name": "Fair Oaks Mall",
+    "address": "11750 Fair Oaks Mall, Fairfax",
+    "distance": 3.3033130121523286,
+    "category": "Food Markets",
+    "place_id": "ChIJP5AvHUFPtokRgGDG2VFVo94"
+  },
+  {
+    "name": "Homewood Suites by Hilton Falls Church - I-495 @ Rt. 50",
+    "address": "8130 Porter Road, Falls Church",
+    "distance": 5.509880499292927,
+    "category": "Food Markets",
+    "place_id": "ChIJB-EtT2RLtokRwwfEwAIZY7s"
+  },
+  {
+    "name": "Candlewood Suites Washington-Fairfax, an IHG Hotel",
+    "address": "11400 Random Hills Road, Fairfax",
+    "distance": 2.4603825070637617,
+    "category": "Food Markets",
+    "place_id": "ChIJLUPmkSJPtokRyuO6Iu7ahTU"
+  },
+  {
+    "name": "Jaipur Royal Indian Cuisine",
+    "address": "9401 Lee Highway #105, Fairfax",
+    "distance": 3.342519501561701,
+    "category": "Food Markets",
+    "place_id": "ChIJN9w3CAlMtokRrgHANdgBDKo"
+  },
+  {
+    "name": "Sonesta ES Suites Fairfax Fair Lakes",
+    "address": "12815 Fair Lakes Parkway, Fairfax",
+    "distance": 4.411637261456706,
+    "category": "Food Markets",
+    "place_id": "ChIJZTAXqYxFtokRoMoOYUWaM-c"
+  },
+  {
+    "name": "Burke",
+    "address": "Burke",
+    "distance": 3.4334160261610522,
+    "category": "Food Markets",
+    "place_id": "ChIJI-7w5gFStokRVRLQni9hbjw"
+  },
+  {
+    "name": "Barnes & Noble",
+    "address": "12193 Fair Lakes Promenade Drive, Fairfax",
+    "distance": 3.503641691653744,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJ07yRGGhPtokRM5g2iUqyEss"
+  },
+  {
+    "name": "Barnes & Noble",
+    "address": "7851 Tysons Corner Center, McLean",
+    "distance": 7.779989646314708,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJSQAIKeRKtokRWA0sbFIXhfA"
+  },
+  {
+    "name": "Angelika Film Center & Cafe at Mosaic",
+    "address": "2911 District Avenue, Fairfax",
+    "distance": 5.235710142990746,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJdduRHSi0t4kRshkJndKzZjo"
+  },
+  {
+    "name": "Fifty West Cafeteria",
+    "address": "3975 Fair Ridge Dr # T28n, Fairfax",
+    "distance": 4.151548615069479,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJR6q99FBPtokRw95eB5T7mJM"
+  },
+  {
+    "name": "Panera Bread",
+    "address": "8365 Leesburg Pike, Vienna",
+    "distance": 7.394084409151296,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJ_3vM3vZKtokRq0i8_dx0dX4"
+  },
+  {
+    "name": "Starbucks",
+    "address": "3046 Gate House Plaza, Falls Church",
+    "distance": 5.034003385129125,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJwbiHZGJLtokR7DqMCnEHhsY"
+  },
+  {
+    "name": "American Girl Place Washington D.C.",
+    "address": "8090 Tysons Corner Center, McLean",
+    "distance": 7.549473044315946,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJx6D7DPJKtokRO0iCGVBxxvU"
+  },
+  {
+    "name": "Starbucks",
+    "address": "University Shopping Center, 10344 Main Street, Fairfax",
+    "distance": 1.0865456385622232,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJ9wykgZFOtokR6t6E4vFOUTQ"
+  },
+  {
+    "name": "Manna Bistro",
+    "address": "14215 Centreville Square, Centreville",
+    "distance": 6.812637949199186,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJK3un0O9EtokRWRJcTovMR1E"
+  },
+  {
+    "name": "Inova Fairfax Hospital : Park Avenue Cafe",
+    "address": "3300 Gallows Road, Falls Church",
+    "distance": 4.918568612777141,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJrxfTMYVMtokR78jRcrCkvLQ"
+  },
+  {
+    "name": "Starbucks",
+    "address": "Idylwood Plaza, 7501 Leesburg Pike, Falls Church",
+    "distance": 7.612575914362044,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJETNTRShLtokRhI7aUhcmEz4"
+  },
+  {
+    "name": "Barnes & Noble",
+    "address": "Loisdale Center, 6646 Loisdale Road, Springfield",
+    "distance": 8.200114982148632,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJsZLX1lutt4kRThyplXZxWjU"
+  },
+  {
+    "name": "Caffe Amouri Coffee Roaster",
+    "address": "107 Church Street Northeast, Vienna",
+    "distance": 5.482132496725359,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJLcrjXMhLtokRWGjRLVW24hk"
+  },
+  {
+    "name": "Panera Bread",
+    "address": "6230 Rolling Road Suite V, West Springfield",
+    "distance": 5.434923518212054,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJBfVEQIFStokRg6tq3UURqNw"
+  },
+  {
+    "name": "Breeze Bakery Cafe",
+    "address": "4125 Hummer Road, Annandale",
+    "distance": 5.514608983232986,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJ_9qftsRMtokRMXYhiayW3UI"
+  },
+  {
+    "name": "Hometown Roasters LLC",
+    "address": "107 Church Street Northeast, Vienna",
+    "distance": 5.48202472884102,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJR4bhXMhLtokRpMtVxP40Td8"
+  },
+  {
+    "name": "Boulevard Cafe & Catering",
+    "address": "8180 Greensboro Drive, McLean",
+    "distance": 7.792575096780214,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJX2zw6e1KtokRqrQfpA-WXtk"
+  },
+  {
+    "name": "Dunkin'",
+    "address": "8119 Watson Street, McLean",
+    "distance": 7.457483624705278,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJD79eZOVKtokRyWc-GFHO9Ts"
+  },
+  {
+    "name": "Starbucks",
+    "address": "14155 Saint Germain Drive, Centreville",
+    "distance": 6.759577325125983,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJc9NGwO9EtokRloIMcslsd9c"
+  },
+  {
+    "name": "Starbucks",
+    "address": "10930 Fairfax Boulevard, Fairfax",
+    "distance": 1.5797749968649177,
+    "category": "Trendy Cafes",
+    "place_id": "ChIJ4xC-0edOtokRyBy3eN71XNA"
+  },
+  {
+    "name": "Lake Fairfax Park",
+    "address": "1400 Lake Fairfax Drive, Reston",
+    "distance": 8.964045340860903,
+    "category": "Theme Parks",
+    "place_id": "ChIJnQOK1Sc2tokRK7iEkAD6Q5A"
+  },
+  {
+    "name": "Cub Run Rec Center",
+    "address": "4630 Stonecroft Boulevard, Chantilly",
+    "distance": 9.341674265794953,
+    "category": "Theme Parks",
+    "place_id": "ChIJRxpDdwFEtokRC1i4gejwUZc"
+  },
+  {
+    "name": "SplashDown Waterpark",
+    "address": "7500 Ben Lomond Park Road, Manassas",
+    "distance": 9.257576014006375,
+    "category": "Theme Parks",
+    "place_id": "ChIJ2Ziv66NctokRArwkWVb59tY"
+  },
+  {
+    "name": "Splash Pad",
+    "address": "12023 Town Square Street, Reston",
+    "distance": 9.119038962990206,
+    "category": "Theme Parks",
+    "place_id": "ChIJzzSGqB5ItokR-WQaN8vyxkQ"
+  },
+  {
+    "name": "Ocean Dunes Waterpark",
+    "address": "6060 Wilson Boulevard, Arlington",
+    "distance": 9.463137022686647,
+    "category": "Theme Parks",
+    "place_id": "ChIJY4nPtGa0t4kRK9iL3JqhaJg"
+  },
+  {
+    "name": "Atlantis Waterpark at Bull Run",
+    "address": "7700 Bull Run Drive, Centreville",
+    "distance": 9.154244667189667,
+    "category": "Theme Parks",
+    "place_id": "ChIJN3MrEa9ctokRB8h5XXgr--8"
+  },
+  {
+    "name": "Ben Lomond Regional Park",
+    "address": "7500 Ben Lomond Park Road, Manassas",
+    "distance": 9.353655058211654,
+    "category": "Theme Parks",
+    "place_id": "ChIJ73UMCqNctokRKPJ8KAUTMqg"
+  },
+  {
+    "name": "Water Mine Family Swimmin' Hole",
+    "address": "1400 Lake Fairfax Drive, Reston",
+    "distance": 9.319244235015672,
+    "category": "Theme Parks",
+    "place_id": "ChIJnQOK1Sc2tokRo5LotA5EuKM"
+  },
+  {
+    "name": "Super, Awesome & Amazing at The St. James",
+    "address": "6805 Industrial Road, Springfield",
+    "distance": 7.46262775437939,
+    "category": "Theme Parks",
+    "place_id": "ChIJTxv9WOizt4kRzH-12TXo52s"
+  },
+  {
+    "name": "Bull Run Pavilion",
+    "address": "Centreville",
+    "distance": 8.38904761188571,
+    "category": "Theme Parks",
+    "place_id": "ChIJkcq9bqlEtokRyZcB17IIkvA"
+  },
+  {
+    "name": "Signal Bay Waterpark",
+    "address": "9300 Signal View Drive, Manassas Park",
+    "distance": 8.754348717221697,
+    "category": "Theme Parks",
+    "place_id": "ChIJB3bcYbtbtokRDikrz1dlEiY"
+  },
+  {
+    "name": "Lake Fairfax Park",
+    "address": "1400 Lake Fairfax Drive, Reston",
+    "distance": 8.964045340860903,
+    "category": "Water Parks",
+    "place_id": "ChIJnQOK1Sc2tokRK7iEkAD6Q5A"
+  },
+  {
+    "name": "Cub Run Rec Center",
+    "address": "4630 Stonecroft Boulevard, Chantilly",
+    "distance": 9.341674265794953,
+    "category": "Water Parks",
+    "place_id": "ChIJRxpDdwFEtokRC1i4gejwUZc"
+  },
+  {
+    "name": "SplashDown Waterpark",
+    "address": "7500 Ben Lomond Park Road, Manassas",
+    "distance": 9.257576014006375,
+    "category": "Water Parks",
+    "place_id": "ChIJ2Ziv66NctokRArwkWVb59tY"
+  },
+  {
+    "name": "Splash Pad",
+    "address": "12023 Town Square Street, Reston",
+    "distance": 9.119038962990206,
+    "category": "Water Parks",
+    "place_id": "ChIJzzSGqB5ItokR-WQaN8vyxkQ"
+  },
+  {
+    "name": "Ocean Dunes Waterpark",
+    "address": "6060 Wilson Boulevard, Arlington",
+    "distance": 9.463137022686647,
+    "category": "Water Parks",
+    "place_id": "ChIJY4nPtGa0t4kRK9iL3JqhaJg"
+  },
+  {
+    "name": "Atlantis Waterpark at Bull Run",
+    "address": "7700 Bull Run Drive, Centreville",
+    "distance": 9.154244667189667,
+    "category": "Water Parks",
+    "place_id": "ChIJN3MrEa9ctokRB8h5XXgr--8"
+  },
+  {
+    "name": "Ben Lomond Regional Park",
+    "address": "7500 Ben Lomond Park Road, Manassas",
+    "distance": 9.353655058211654,
+    "category": "Water Parks",
+    "place_id": "ChIJ73UMCqNctokRKPJ8KAUTMqg"
+  },
+  {
+    "name": "Water Mine Family Swimmin' Hole",
+    "address": "1400 Lake Fairfax Drive, Reston",
+    "distance": 9.319244235015672,
+    "category": "Water Parks",
+    "place_id": "ChIJnQOK1Sc2tokRo5LotA5EuKM"
+  },
+  {
+    "name": "Super, Awesome & Amazing at The St. James",
+    "address": "6805 Industrial Road, Springfield",
+    "distance": 7.46262775437939,
+    "category": "Water Parks",
+    "place_id": "ChIJTxv9WOizt4kRzH-12TXo52s"
+  },
+  {
+    "name": "Bull Run Pavilion",
+    "address": "Centreville",
+    "distance": 8.38904761188571,
+    "category": "Water Parks",
+    "place_id": "ChIJkcq9bqlEtokRyZcB17IIkvA"
+  },
+  {
+    "name": "Signal Bay Waterpark",
+    "address": "9300 Signal View Drive, Manassas Park",
+    "distance": 8.754348717221697,
+    "category": "Water Parks",
+    "place_id": "ChIJB3bcYbtbtokRDikrz1dlEiY"
+  },
+  {
+    "name": "Lake Fairfax Park",
+    "address": "1400 Lake Fairfax Drive, Reston",
+    "distance": 8.964045340860903,
+    "category": "Arcades and Gaming Centers",
+    "place_id": "ChIJnQOK1Sc2tokRK7iEkAD6Q5A"
+  },
+  {
+    "name": "Cub Run Rec Center",
+    "address": "4630 Stonecroft Boulevard, Chantilly",
+    "distance": 9.341674265794953,
+    "category": "Arcades and Gaming Centers",
+    "place_id": "ChIJRxpDdwFEtokRC1i4gejwUZc"
+  },
+  {
+    "name": "SplashDown Waterpark",
+    "address": "7500 Ben Lomond Park Road, Manassas",
+    "distance": 9.257576014006375,
+    "category": "Arcades and Gaming Centers",
+    "place_id": "ChIJ2Ziv66NctokRArwkWVb59tY"
+  },
+  {
+    "name": "Splash Pad",
+    "address": "12023 Town Square Street, Reston",
+    "distance": 9.119038962990206,
+    "category": "Arcades and Gaming Centers",
+    "place_id": "ChIJzzSGqB5ItokR-WQaN8vyxkQ"
+  },
+  {
+    "name": "Ocean Dunes Waterpark",
+    "address": "6060 Wilson Boulevard, Arlington",
+    "distance": 9.463137022686647,
+    "category": "Arcades and Gaming Centers",
+    "place_id": "ChIJY4nPtGa0t4kRK9iL3JqhaJg"
+  },
+  {
+    "name": "Atlantis Waterpark at Bull Run",
+    "address": "7700 Bull Run Drive, Centreville",
+    "distance": 9.154244667189667,
+    "category": "Arcades and Gaming Centers",
+    "place_id": "ChIJN3MrEa9ctokRB8h5XXgr--8"
+  },
+  {
+    "name": "Ben Lomond Regional Park",
+    "address": "7500 Ben Lomond Park Road, Manassas",
+    "distance": 9.353655058211654,
+    "category": "Arcades and Gaming Centers",
+    "place_id": "ChIJ73UMCqNctokRKPJ8KAUTMqg"
+  },
+  {
+    "name": "Water Mine Family Swimmin' Hole",
+    "address": "1400 Lake Fairfax Drive, Reston",
+    "distance": 9.319244235015672,
+    "category": "Arcades and Gaming Centers",
+    "place_id": "ChIJnQOK1Sc2tokRo5LotA5EuKM"
+  },
+  {
+    "name": "Super, Awesome & Amazing at The St. James",
+    "address": "6805 Industrial Road, Springfield",
+    "distance": 7.46262775437939,
+    "category": "Arcades and Gaming Centers",
+    "place_id": "ChIJTxv9WOizt4kRzH-12TXo52s"
+  },
+  {
+    "name": "Bull Run Pavilion",
+    "address": "Centreville",
+    "distance": 8.38904761188571,
+    "category": "Arcades and Gaming Centers",
+    "place_id": "ChIJkcq9bqlEtokRyZcB17IIkvA"
+  },
+  {
+    "name": "Signal Bay Waterpark",
+    "address": "9300 Signal View Drive, Manassas Park",
+    "distance": 8.754348717221697,
+    "category": "Arcades and Gaming Centers",
+    "place_id": "ChIJB3bcYbtbtokRDikrz1dlEiY"
+  },
+  {
+    "name": "Holiday Inn Express Fairfax - Arlington Boulevard, an IHG Hotel",
+    "address": "10327 Fairfax Boulevard, Fairfax",
+    "distance": 2.0048844939940045,
+    "category": "Concert Halls",
+    "place_id": "ChIJBxV0m7tOtokR0YtsO1sn4Hs"
+  },
+  {
+    "name": "Fairfax Marriott at Fair Oaks",
+    "address": "11787 U.S. 50, Fairfax",
+    "distance": 3.1191549004559054,
+    "category": "Concert Halls",
+    "place_id": "ChIJl_pVOT9PtokRwCTSfmj8BGI"
+  },
+  {
+    "name": "Hilton Garden Inn Fairfax",
+    "address": "3950 Fair Ridge Drive, Fairfax",
+    "distance": 4.243550878151147,
+    "category": "Concert Halls",
+    "place_id": "ChIJw5yL7VBPtokRz6gzPH5FiYQ"
+  },
+  {
+    "name": "Falls Church Marriott Fairview Park",
+    "address": "3111 Fairview Park Drive, Falls Church",
+    "distance": 5.563714256379515,
+    "category": "Concert Halls",
+    "place_id": "ChIJf8vftaFMtokRp7RJosrFdBM"
+  },
+  {
+    "name": "Best Western Fairfax",
+    "address": "3535 Chain Bridge Road, Fairfax",
+    "distance": 2.129226147882619,
+    "category": "Concert Halls",
+    "place_id": "ChIJQxd1qrlOtokRNg7kl6owlFA"
+  },
+  {
+    "name": "SpringHill Suites by Marriott Fairfax Fair Oaks",
+    "address": "11191 Waples Mill Road, Fairfax",
+    "distance": 2.0687681544767247,
+    "category": "Concert Halls",
+    "place_id": "ChIJOb7ItR5PtokRsqkw8fvPAl8"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax City",
+    "address": "3565 Chain Bridge Road, Fairfax",
+    "distance": 1.969734933108145,
+    "category": "Concert Halls",
+    "place_id": "ChIJeyPGI7lOtokRzam-vhVJRmc"
+  },
+  {
+    "name": "Courtyard by Marriott Fairfax Fair Oaks",
+    "address": "11220 Lee Jackson Memorial Highway, Fairfax",
+    "distance": 2.1218064080002557,
+    "category": "Concert Halls",
+    "place_id": "ChIJ-aWvGyBPtokRygyhuSSSreo"
+  },
+  {
+    "name": "Comfort Inn University Center",
+    "address": "11180 Fairfax Boulevard, Fairfax",
+    "distance": 1.964517040055923,
+    "category": "Concert Halls",
+    "place_id": "ChIJv5IS3t9OtokRRu5IaV6g4fE"
+  },
+  {
+    "name": "Extended Stay America - Washington, D.C. - Fairfax",
+    "address": "3997 Fair Ridge Drive, Fairfax",
+    "distance": 4.061996104349351,
+    "category": "Concert Halls",
+    "place_id": "ChIJM4O1plpPtokRvBp1LA7AIFU"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax Merrifield",
+    "address": "8125 Gatehouse Road, Falls Church",
+    "distance": 5.2936517407644095,
+    "category": "Concert Halls",
+    "place_id": "ChIJk4CUamJLtokRO6OdV5n4aec"
+  },
+  {
+    "name": "Costco Wholesale",
+    "address": "4725 West Ox Road, Fairfax",
+    "distance": 3.4616648860429473,
+    "category": "Concert Halls",
+    "place_id": "ChIJ7RsYb3tPtokR1CEMF8Jy_q8"
+  },
+  {
+    "name": "Hampton Inn Fairfax City",
+    "address": "10860 Fairfax Boulevard, Fairfax",
+    "distance": 1.6040671945908829,
+    "category": "Concert Halls",
+    "place_id": "ChIJQWHqOehOtokRvVrCjlE6Eog"
+  },
+  {
+    "name": "Fair Oaks Mall",
+    "address": "11750 Fair Oaks Mall, Fairfax",
+    "distance": 3.3033130121523286,
+    "category": "Concert Halls",
+    "place_id": "ChIJP5AvHUFPtokRgGDG2VFVo94"
+  },
+  {
+    "name": "Homewood Suites by Hilton Falls Church - I-495 @ Rt. 50",
+    "address": "8130 Porter Road, Falls Church",
+    "distance": 5.509880499292927,
+    "category": "Concert Halls",
+    "place_id": "ChIJB-EtT2RLtokRwwfEwAIZY7s"
+  },
+  {
+    "name": "Candlewood Suites Washington-Fairfax, an IHG Hotel",
+    "address": "11400 Random Hills Road, Fairfax",
+    "distance": 2.4603825070637617,
+    "category": "Concert Halls",
+    "place_id": "ChIJLUPmkSJPtokRyuO6Iu7ahTU"
+  },
+  {
+    "name": "Jaipur Royal Indian Cuisine",
+    "address": "9401 Lee Highway #105, Fairfax",
+    "distance": 3.342519501561701,
+    "category": "Concert Halls",
+    "place_id": "ChIJN9w3CAlMtokRrgHANdgBDKo"
+  },
+  {
+    "name": "Sonesta ES Suites Fairfax Fair Lakes",
+    "address": "12815 Fair Lakes Parkway, Fairfax",
+    "distance": 4.411637261456706,
+    "category": "Concert Halls",
+    "place_id": "ChIJZTAXqYxFtokRoMoOYUWaM-c"
+  },
+  {
+    "name": "Micro Center",
+    "address": "3089 Nutley Street, Fairfax",
+    "distance": 3.75157418673837,
+    "category": "Concert Halls",
+    "place_id": "ChIJzZPmqopLtokRpvvbub2xBcs"
+  },
+  {
+    "name": "The Home Depot",
+    "address": "3201 Blenheim Boulevard, Fairfax",
+    "distance": 2.9008305582918155,
+    "category": "Concert Halls",
+    "place_id": "ChIJV7Vo9Q9MtokRgYl08t7Pt8I"
+  },
+  {
+    "name": "Holiday Inn Express Fairfax - Arlington Boulevard, an IHG Hotel",
+    "address": "10327 Fairfax Boulevard, Fairfax",
+    "distance": 2.0048844939940045,
+    "category": "Live Music Venues",
+    "place_id": "ChIJBxV0m7tOtokR0YtsO1sn4Hs"
+  },
+  {
+    "name": "Fairfax Marriott at Fair Oaks",
+    "address": "11787 U.S. 50, Fairfax",
+    "distance": 3.1191549004559054,
+    "category": "Live Music Venues",
+    "place_id": "ChIJl_pVOT9PtokRwCTSfmj8BGI"
+  },
+  {
+    "name": "Hilton Garden Inn Fairfax",
+    "address": "3950 Fair Ridge Drive, Fairfax",
+    "distance": 4.243550878151147,
+    "category": "Live Music Venues",
+    "place_id": "ChIJw5yL7VBPtokRz6gzPH5FiYQ"
+  },
+  {
+    "name": "Falls Church Marriott Fairview Park",
+    "address": "3111 Fairview Park Drive, Falls Church",
+    "distance": 5.563714256379515,
+    "category": "Live Music Venues",
+    "place_id": "ChIJf8vftaFMtokRp7RJosrFdBM"
+  },
+  {
+    "name": "Best Western Fairfax",
+    "address": "3535 Chain Bridge Road, Fairfax",
+    "distance": 2.129226147882619,
+    "category": "Live Music Venues",
+    "place_id": "ChIJQxd1qrlOtokRNg7kl6owlFA"
+  },
+  {
+    "name": "SpringHill Suites by Marriott Fairfax Fair Oaks",
+    "address": "11191 Waples Mill Road, Fairfax",
+    "distance": 2.0687681544767247,
+    "category": "Live Music Venues",
+    "place_id": "ChIJOb7ItR5PtokRsqkw8fvPAl8"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax City",
+    "address": "3565 Chain Bridge Road, Fairfax",
+    "distance": 1.969734933108145,
+    "category": "Live Music Venues",
+    "place_id": "ChIJeyPGI7lOtokRzam-vhVJRmc"
+  },
+  {
+    "name": "Courtyard by Marriott Fairfax Fair Oaks",
+    "address": "11220 Lee Jackson Memorial Highway, Fairfax",
+    "distance": 2.1218064080002557,
+    "category": "Live Music Venues",
+    "place_id": "ChIJ-aWvGyBPtokRygyhuSSSreo"
+  },
+  {
+    "name": "Comfort Inn University Center",
+    "address": "11180 Fairfax Boulevard, Fairfax",
+    "distance": 1.964517040055923,
+    "category": "Live Music Venues",
+    "place_id": "ChIJv5IS3t9OtokRRu5IaV6g4fE"
+  },
+  {
+    "name": "Extended Stay America - Washington, D.C. - Fairfax",
+    "address": "3997 Fair Ridge Drive, Fairfax",
+    "distance": 4.061996104349351,
+    "category": "Live Music Venues",
+    "place_id": "ChIJM4O1plpPtokRvBp1LA7AIFU"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax Merrifield",
+    "address": "8125 Gatehouse Road, Falls Church",
+    "distance": 5.2936517407644095,
+    "category": "Live Music Venues",
+    "place_id": "ChIJk4CUamJLtokRO6OdV5n4aec"
+  },
+  {
+    "name": "Costco Wholesale",
+    "address": "4725 West Ox Road, Fairfax",
+    "distance": 3.4616648860429473,
+    "category": "Live Music Venues",
+    "place_id": "ChIJ7RsYb3tPtokR1CEMF8Jy_q8"
+  },
+  {
+    "name": "Hampton Inn Fairfax City",
+    "address": "10860 Fairfax Boulevard, Fairfax",
+    "distance": 1.6040671945908829,
+    "category": "Live Music Venues",
+    "place_id": "ChIJQWHqOehOtokRvVrCjlE6Eog"
+  },
+  {
+    "name": "Fair Oaks Mall",
+    "address": "11750 Fair Oaks Mall, Fairfax",
+    "distance": 3.3033130121523286,
+    "category": "Live Music Venues",
+    "place_id": "ChIJP5AvHUFPtokRgGDG2VFVo94"
+  },
+  {
+    "name": "Homewood Suites by Hilton Falls Church - I-495 @ Rt. 50",
+    "address": "8130 Porter Road, Falls Church",
+    "distance": 5.509880499292927,
+    "category": "Live Music Venues",
+    "place_id": "ChIJB-EtT2RLtokRwwfEwAIZY7s"
+  },
+  {
+    "name": "Candlewood Suites Washington-Fairfax, an IHG Hotel",
+    "address": "11400 Random Hills Road, Fairfax",
+    "distance": 2.4603825070637617,
+    "category": "Live Music Venues",
+    "place_id": "ChIJLUPmkSJPtokRyuO6Iu7ahTU"
+  },
+  {
+    "name": "Jaipur Royal Indian Cuisine",
+    "address": "9401 Lee Highway #105, Fairfax",
+    "distance": 3.342519501561701,
+    "category": "Live Music Venues",
+    "place_id": "ChIJN9w3CAlMtokRrgHANdgBDKo"
+  },
+  {
+    "name": "Sonesta ES Suites Fairfax Fair Lakes",
+    "address": "12815 Fair Lakes Parkway, Fairfax",
+    "distance": 4.411637261456706,
+    "category": "Live Music Venues",
+    "place_id": "ChIJZTAXqYxFtokRoMoOYUWaM-c"
+  },
+  {
+    "name": "Micro Center",
+    "address": "3089 Nutley Street, Fairfax",
+    "distance": 3.75157418673837,
+    "category": "Live Music Venues",
+    "place_id": "ChIJzZPmqopLtokRpvvbub2xBcs"
+  },
+  {
+    "name": "The Home Depot",
+    "address": "3201 Blenheim Boulevard, Fairfax",
+    "distance": 2.9008305582918155,
+    "category": "Live Music Venues",
+    "place_id": "ChIJV7Vo9Q9MtokRgYl08t7Pt8I"
+  },
+  {
+    "name": "Holiday Inn Express Fairfax - Arlington Boulevard, an IHG Hotel",
+    "address": "10327 Fairfax Boulevard, Fairfax",
+    "distance": 2.0048844939940045,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJBxV0m7tOtokR0YtsO1sn4Hs"
+  },
+  {
+    "name": "Fairfax Marriott at Fair Oaks",
+    "address": "11787 U.S. 50, Fairfax",
+    "distance": 3.1191549004559054,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJl_pVOT9PtokRwCTSfmj8BGI"
+  },
+  {
+    "name": "Hilton Garden Inn Fairfax",
+    "address": "3950 Fair Ridge Drive, Fairfax",
+    "distance": 4.243550878151147,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJw5yL7VBPtokRz6gzPH5FiYQ"
+  },
+  {
+    "name": "Falls Church Marriott Fairview Park",
+    "address": "3111 Fairview Park Drive, Falls Church",
+    "distance": 5.563714256379515,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJf8vftaFMtokRp7RJosrFdBM"
+  },
+  {
+    "name": "Best Western Fairfax",
+    "address": "3535 Chain Bridge Road, Fairfax",
+    "distance": 2.129226147882619,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJQxd1qrlOtokRNg7kl6owlFA"
+  },
+  {
+    "name": "SpringHill Suites by Marriott Fairfax Fair Oaks",
+    "address": "11191 Waples Mill Road, Fairfax",
+    "distance": 2.0687681544767247,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJOb7ItR5PtokRsqkw8fvPAl8"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax City",
+    "address": "3565 Chain Bridge Road, Fairfax",
+    "distance": 1.969734933108145,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJeyPGI7lOtokRzam-vhVJRmc"
+  },
+  {
+    "name": "Courtyard by Marriott Fairfax Fair Oaks",
+    "address": "11220 Lee Jackson Memorial Highway, Fairfax",
+    "distance": 2.1218064080002557,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJ-aWvGyBPtokRygyhuSSSreo"
+  },
+  {
+    "name": "Comfort Inn University Center",
+    "address": "11180 Fairfax Boulevard, Fairfax",
+    "distance": 1.964517040055923,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJv5IS3t9OtokRRu5IaV6g4fE"
+  },
+  {
+    "name": "Extended Stay America - Washington, D.C. - Fairfax",
+    "address": "3997 Fair Ridge Drive, Fairfax",
+    "distance": 4.061996104349351,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJM4O1plpPtokRvBp1LA7AIFU"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax Merrifield",
+    "address": "8125 Gatehouse Road, Falls Church",
+    "distance": 5.2936517407644095,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJk4CUamJLtokRO6OdV5n4aec"
+  },
+  {
+    "name": "Costco Wholesale",
+    "address": "4725 West Ox Road, Fairfax",
+    "distance": 3.4616648860429473,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJ7RsYb3tPtokR1CEMF8Jy_q8"
+  },
+  {
+    "name": "Hampton Inn Fairfax City",
+    "address": "10860 Fairfax Boulevard, Fairfax",
+    "distance": 1.6040671945908829,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJQWHqOehOtokRvVrCjlE6Eog"
+  },
+  {
+    "name": "Fair Oaks Mall",
+    "address": "11750 Fair Oaks Mall, Fairfax",
+    "distance": 3.3033130121523286,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJP5AvHUFPtokRgGDG2VFVo94"
+  },
+  {
+    "name": "Homewood Suites by Hilton Falls Church - I-495 @ Rt. 50",
+    "address": "8130 Porter Road, Falls Church",
+    "distance": 5.509880499292927,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJB-EtT2RLtokRwwfEwAIZY7s"
+  },
+  {
+    "name": "Candlewood Suites Washington-Fairfax, an IHG Hotel",
+    "address": "11400 Random Hills Road, Fairfax",
+    "distance": 2.4603825070637617,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJLUPmkSJPtokRyuO6Iu7ahTU"
+  },
+  {
+    "name": "Jaipur Royal Indian Cuisine",
+    "address": "9401 Lee Highway #105, Fairfax",
+    "distance": 3.342519501561701,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJN9w3CAlMtokRrgHANdgBDKo"
+  },
+  {
+    "name": "Sonesta ES Suites Fairfax Fair Lakes",
+    "address": "12815 Fair Lakes Parkway, Fairfax",
+    "distance": 4.411637261456706,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJZTAXqYxFtokRoMoOYUWaM-c"
+  },
+  {
+    "name": "Micro Center",
+    "address": "3089 Nutley Street, Fairfax",
+    "distance": 3.75157418673837,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJzZPmqopLtokRpvvbub2xBcs"
+  },
+  {
+    "name": "The Home Depot",
+    "address": "3201 Blenheim Boulevard, Fairfax",
+    "distance": 2.9008305582918155,
+    "category": "Festivals and Music Events",
+    "place_id": "ChIJV7Vo9Q9MtokRgYl08t7Pt8I"
+  },
+  {
+    "name": "Steven F. Udvar-Hazy Center",
+    "address": "Steven F. Udvar-Hazy Center, 14390 Air and Space Museum Parkway, Chantilly",
+    "distance": 8.969838004312022,
+    "category": "Science Museums",
+    "place_id": "ChIJcyBkMutGtokRqMoMaOdxXrE"
+  },
+  {
+    "name": "Technology & Supply Management LLC",
+    "address": "3877 Fairfax Ridge Road # 110N, Fairfax",
+    "distance": 2.453531194671963,
+    "category": "Science Museums",
+    "place_id": "ChIJ3ZxeaSFPtokR5PeFv7DGEwk"
+  },
+  {
+    "name": "Green Spring Gardens",
+    "address": "4603 Green Spring Road, Alexandria",
+    "distance": 8.42260665760525,
+    "category": "Science Museums",
+    "place_id": "ChIJ05IyWgSzt4kRlsdUKEzRTRM"
+  },
+  {
+    "name": "NRA National Firearms Museum",
+    "address": "11250 Waples Mill Road, Fairfax",
+    "distance": 2.493044795424602,
+    "category": "Science Museums",
+    "place_id": "ChIJLbrYzyZPtokRBlUEdqH6ZNY"
+  },
+  {
+    "name": "Sully Historic Site",
+    "address": "3650 Historic Sully Way, Chantilly",
+    "distance": 8.264445761523945,
+    "category": "Science Museums",
+    "place_id": "ChIJoT3DVotGtokRRHqW7NANfrs"
+  },
+  {
+    "name": "Workhouse Arts Center",
+    "address": "9518 Workhouse Way, Lorton",
+    "distance": 9.749386512590924,
+    "category": "Science Museums",
+    "place_id": "ChIJWR2pH3FUtokRqTWzUuv4dog"
+  },
+  {
+    "name": "Cortina Productions Inc",
+    "address": "1651 Old Meadow Road #400, McLean",
+    "distance": 8.384581102961878,
+    "category": "Science Museums",
+    "place_id": "ChIJg2YXImi1t4kRzmGo9eEvA9o"
+  },
+  {
+    "name": "Fairfax Station Railroad Museum",
+    "address": "11200 Fairfax Station Road, Fairfax Station",
+    "distance": 2.399775710258605,
+    "category": "Science Museums",
+    "place_id": "ChIJXS_IqCxOtokRTluhZVgaZ6A"
+  },
+  {
+    "name": "Colvin Run Mill",
+    "address": "10017 Colvin Run Road, Great Falls",
+    "distance": 9.539902130368917,
+    "category": "Science Museums",
+    "place_id": "ChIJl6_Kvw42tokRNWEwSKlYbTI"
+  },
+  {
+    "name": "Fairfax Historic Courthouse Museum",
+    "address": "4000 Chain Bridge Road, Fairfax",
+    "distance": 0.9870418746333736,
+    "category": "Science Museums",
+    "place_id": "ChIJvxtm7pJOtokRvEiQim5f1c0"
+  },
+  {
+    "name": "Fairfax Museum and Visitor Center",
+    "address": "10209 Main Street, Fairfax",
+    "distance": 1.0812634317720642,
+    "category": "Science Museums",
+    "place_id": "ChIJI1P2SZBOtokRYrW4d68U82c"
+  },
+  {
+    "name": "Children's Science Center Lab",
+    "address": "11948 Fair Oaks Mall, Fairfax",
+    "distance": 3.384222023780021,
+    "category": "Science Museums",
+    "place_id": "ChIJaTSjzUBPtokR6mI-2uUn6s0"
+  },
+  {
+    "name": "McMahon Studio",
+    "address": "2810 Bree Hill Road, Oakton",
+    "distance": 5.531293124713074,
+    "category": "Science Museums",
+    "place_id": "ChIJocosGexItokRTWSuOAqjPHs"
+  },
+  {
+    "name": "Vienna Caboose",
+    "address": "Vienna",
+    "distance": 5.696066998499529,
+    "category": "Science Museums",
+    "place_id": "ChIJ-RqtUshLtokRjhJxwHoG_ZY"
+  },
+  {
+    "name": "Orion International Technologies",
+    "address": "5510 Cherokee Avenue #120, Alexandria",
+    "distance": 8.101719379942573,
+    "category": "Science Museums",
+    "place_id": "ChIJy4SY1uiyt4kR4wcxy63UGC8"
+  },
+  {
+    "name": "Vykin",
+    "address": "1768 Business Center Drive Suite 120, Reston",
+    "distance": 8.187703632930582,
+    "category": "Science Museums",
+    "place_id": "ChIJycM8HtJJtokRx9tBEpm1PYk"
+  },
+  {
+    "name": "Historic Pleasant Grove",
+    "address": "8641 Lewinsville Road, McLean",
+    "distance": 8.280487300732979,
+    "category": "Science Museums",
+    "place_id": "ChIJMQo9s3xKtokRNywU0AcKriA"
+  },
+  {
+    "name": "Freeman Store & Museum",
+    "address": "131 Church Street Northeast, Vienna",
+    "distance": 5.552845651712026,
+    "category": "Science Museums",
+    "place_id": "ChIJkQhumchLtokRyVu1XBjI2ro"
+  },
+  {
+    "name": "Laurel Grove School Association",
+    "address": "6840 Beulah Street, Alexandria",
+    "distance": 9.546505005021173,
+    "category": "Science Museums",
+    "place_id": "ChIJdaQM2nutt4kRrtGd3xhHlC0"
+  },
+  {
+    "name": "Franconia Museum, Inc.",
+    "address": "6121 Franconia Road, Alexandria",
+    "distance": 9.539560327311191,
+    "category": "Science Museums",
+    "place_id": "ChIJp9-P8X2yt4kRruDfBUNMpLI"
+  },
+  {
+    "name": "Steven F. Udvar-Hazy Center",
+    "address": "Steven F. Udvar-Hazy Center, 14390 Air and Space Museum Parkway, Chantilly",
+    "distance": 8.969838004312022,
+    "category": "Planetariums",
+    "place_id": "ChIJcyBkMutGtokRqMoMaOdxXrE"
+  },
+  {
+    "name": "Technology & Supply Management LLC",
+    "address": "3877 Fairfax Ridge Road # 110N, Fairfax",
+    "distance": 2.453531194671963,
+    "category": "Planetariums",
+    "place_id": "ChIJ3ZxeaSFPtokR5PeFv7DGEwk"
+  },
+  {
+    "name": "Green Spring Gardens",
+    "address": "4603 Green Spring Road, Alexandria",
+    "distance": 8.42260665760525,
+    "category": "Planetariums",
+    "place_id": "ChIJ05IyWgSzt4kRlsdUKEzRTRM"
+  },
+  {
+    "name": "NRA National Firearms Museum",
+    "address": "11250 Waples Mill Road, Fairfax",
+    "distance": 2.493044795424602,
+    "category": "Planetariums",
+    "place_id": "ChIJLbrYzyZPtokRBlUEdqH6ZNY"
+  },
+  {
+    "name": "Sully Historic Site",
+    "address": "3650 Historic Sully Way, Chantilly",
+    "distance": 8.264445761523945,
+    "category": "Planetariums",
+    "place_id": "ChIJoT3DVotGtokRRHqW7NANfrs"
+  },
+  {
+    "name": "Workhouse Arts Center",
+    "address": "9518 Workhouse Way, Lorton",
+    "distance": 9.749386512590924,
+    "category": "Planetariums",
+    "place_id": "ChIJWR2pH3FUtokRqTWzUuv4dog"
+  },
+  {
+    "name": "Cortina Productions Inc",
+    "address": "1651 Old Meadow Road #400, McLean",
+    "distance": 8.384581102961878,
+    "category": "Planetariums",
+    "place_id": "ChIJg2YXImi1t4kRzmGo9eEvA9o"
+  },
+  {
+    "name": "Fairfax Station Railroad Museum",
+    "address": "11200 Fairfax Station Road, Fairfax Station",
+    "distance": 2.399775710258605,
+    "category": "Planetariums",
+    "place_id": "ChIJXS_IqCxOtokRTluhZVgaZ6A"
+  },
+  {
+    "name": "Colvin Run Mill",
+    "address": "10017 Colvin Run Road, Great Falls",
+    "distance": 9.539902130368917,
+    "category": "Planetariums",
+    "place_id": "ChIJl6_Kvw42tokRNWEwSKlYbTI"
+  },
+  {
+    "name": "Fairfax Historic Courthouse Museum",
+    "address": "4000 Chain Bridge Road, Fairfax",
+    "distance": 0.9870418746333736,
+    "category": "Planetariums",
+    "place_id": "ChIJvxtm7pJOtokRvEiQim5f1c0"
+  },
+  {
+    "name": "Fairfax Museum and Visitor Center",
+    "address": "10209 Main Street, Fairfax",
+    "distance": 1.0812634317720642,
+    "category": "Planetariums",
+    "place_id": "ChIJI1P2SZBOtokRYrW4d68U82c"
+  },
+  {
+    "name": "Children's Science Center Lab",
+    "address": "11948 Fair Oaks Mall, Fairfax",
+    "distance": 3.384222023780021,
+    "category": "Planetariums",
+    "place_id": "ChIJaTSjzUBPtokR6mI-2uUn6s0"
+  },
+  {
+    "name": "McMahon Studio",
+    "address": "2810 Bree Hill Road, Oakton",
+    "distance": 5.531293124713074,
+    "category": "Planetariums",
+    "place_id": "ChIJocosGexItokRTWSuOAqjPHs"
+  },
+  {
+    "name": "Vienna Caboose",
+    "address": "Vienna",
+    "distance": 5.696066998499529,
+    "category": "Planetariums",
+    "place_id": "ChIJ-RqtUshLtokRjhJxwHoG_ZY"
+  },
+  {
+    "name": "Orion International Technologies",
+    "address": "5510 Cherokee Avenue #120, Alexandria",
+    "distance": 8.101719379942573,
+    "category": "Planetariums",
+    "place_id": "ChIJy4SY1uiyt4kR4wcxy63UGC8"
+  },
+  {
+    "name": "Vykin",
+    "address": "1768 Business Center Drive Suite 120, Reston",
+    "distance": 8.187703632930582,
+    "category": "Planetariums",
+    "place_id": "ChIJycM8HtJJtokRx9tBEpm1PYk"
+  },
+  {
+    "name": "Historic Pleasant Grove",
+    "address": "8641 Lewinsville Road, McLean",
+    "distance": 8.280487300732979,
+    "category": "Planetariums",
+    "place_id": "ChIJMQo9s3xKtokRNywU0AcKriA"
+  },
+  {
+    "name": "Freeman Store & Museum",
+    "address": "131 Church Street Northeast, Vienna",
+    "distance": 5.552845651712026,
+    "category": "Planetariums",
+    "place_id": "ChIJkQhumchLtokRyVu1XBjI2ro"
+  },
+  {
+    "name": "Laurel Grove School Association",
+    "address": "6840 Beulah Street, Alexandria",
+    "distance": 9.546505005021173,
+    "category": "Planetariums",
+    "place_id": "ChIJdaQM2nutt4kRrtGd3xhHlC0"
+  },
+  {
+    "name": "Franconia Museum, Inc.",
+    "address": "6121 Franconia Road, Alexandria",
+    "distance": 9.539560327311191,
+    "category": "Planetariums",
+    "place_id": "ChIJp9-P8X2yt4kRruDfBUNMpLI"
+  },
+  {
+    "name": "Holiday Inn Express Fairfax - Arlington Boulevard, an IHG Hotel",
+    "address": "10327 Fairfax Boulevard, Fairfax",
+    "distance": 2.0048844939940045,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJBxV0m7tOtokR0YtsO1sn4Hs"
+  },
+  {
+    "name": "Fairfax Marriott at Fair Oaks",
+    "address": "11787 U.S. 50, Fairfax",
+    "distance": 3.1191549004559054,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJl_pVOT9PtokRwCTSfmj8BGI"
+  },
+  {
+    "name": "Hilton Garden Inn Fairfax",
+    "address": "3950 Fair Ridge Drive, Fairfax",
+    "distance": 4.243550878151147,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJw5yL7VBPtokRz6gzPH5FiYQ"
+  },
+  {
+    "name": "Falls Church Marriott Fairview Park",
+    "address": "3111 Fairview Park Drive, Falls Church",
+    "distance": 5.563714256379515,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJf8vftaFMtokRp7RJosrFdBM"
+  },
+  {
+    "name": "Best Western Fairfax",
+    "address": "3535 Chain Bridge Road, Fairfax",
+    "distance": 2.129226147882619,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJQxd1qrlOtokRNg7kl6owlFA"
+  },
+  {
+    "name": "SpringHill Suites by Marriott Fairfax Fair Oaks",
+    "address": "11191 Waples Mill Road, Fairfax",
+    "distance": 2.0687681544767247,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJOb7ItR5PtokRsqkw8fvPAl8"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax City",
+    "address": "3565 Chain Bridge Road, Fairfax",
+    "distance": 1.969734933108145,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJeyPGI7lOtokRzam-vhVJRmc"
+  },
+  {
+    "name": "Courtyard by Marriott Fairfax Fair Oaks",
+    "address": "11220 Lee Jackson Memorial Highway, Fairfax",
+    "distance": 2.1218064080002557,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJ-aWvGyBPtokRygyhuSSSreo"
+  },
+  {
+    "name": "Comfort Inn University Center",
+    "address": "11180 Fairfax Boulevard, Fairfax",
+    "distance": 1.964517040055923,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJv5IS3t9OtokRRu5IaV6g4fE"
+  },
+  {
+    "name": "Extended Stay America - Washington, D.C. - Fairfax",
+    "address": "3997 Fair Ridge Drive, Fairfax",
+    "distance": 4.061996104349351,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJM4O1plpPtokRvBp1LA7AIFU"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax Merrifield",
+    "address": "8125 Gatehouse Road, Falls Church",
+    "distance": 5.2936517407644095,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJk4CUamJLtokRO6OdV5n4aec"
+  },
+  {
+    "name": "Costco Wholesale",
+    "address": "4725 West Ox Road, Fairfax",
+    "distance": 3.4616648860429473,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJ7RsYb3tPtokR1CEMF8Jy_q8"
+  },
+  {
+    "name": "Hampton Inn Fairfax City",
+    "address": "10860 Fairfax Boulevard, Fairfax",
+    "distance": 1.6040671945908829,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJQWHqOehOtokRvVrCjlE6Eog"
+  },
+  {
+    "name": "Fair Oaks Mall",
+    "address": "11750 Fair Oaks Mall, Fairfax",
+    "distance": 3.3033130121523286,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJP5AvHUFPtokRgGDG2VFVo94"
+  },
+  {
+    "name": "Homewood Suites by Hilton Falls Church - I-495 @ Rt. 50",
+    "address": "8130 Porter Road, Falls Church",
+    "distance": 5.509880499292927,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJB-EtT2RLtokRwwfEwAIZY7s"
+  },
+  {
+    "name": "Candlewood Suites Washington-Fairfax, an IHG Hotel",
+    "address": "11400 Random Hills Road, Fairfax",
+    "distance": 2.4603825070637617,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJLUPmkSJPtokRyuO6Iu7ahTU"
+  },
+  {
+    "name": "Jaipur Royal Indian Cuisine",
+    "address": "9401 Lee Highway #105, Fairfax",
+    "distance": 3.342519501561701,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJN9w3CAlMtokRrgHANdgBDKo"
+  },
+  {
+    "name": "Sonesta ES Suites Fairfax Fair Lakes",
+    "address": "12815 Fair Lakes Parkway, Fairfax",
+    "distance": 4.411637261456706,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJZTAXqYxFtokRoMoOYUWaM-c"
+  },
+  {
+    "name": "Micro Center",
+    "address": "3089 Nutley Street, Fairfax",
+    "distance": 3.75157418673837,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJzZPmqopLtokRpvvbub2xBcs"
+  },
+  {
+    "name": "The Home Depot",
+    "address": "3201 Blenheim Boulevard, Fairfax",
+    "distance": 2.9008305582918155,
+    "category": "Educational Workshops and Lectures",
+    "place_id": "ChIJV7Vo9Q9MtokRgYl08t7Pt8I"
+  },
+  {
+    "name": "Holiday Inn Express Fairfax - Arlington Boulevard, an IHG Hotel",
+    "address": "10327 Fairfax Boulevard, Fairfax",
+    "distance": 2.0048844939940045,
+    "category": "Parades",
+    "place_id": "ChIJBxV0m7tOtokR0YtsO1sn4Hs"
+  },
+  {
+    "name": "Fairfax Marriott at Fair Oaks",
+    "address": "11787 U.S. 50, Fairfax",
+    "distance": 3.1191549004559054,
+    "category": "Parades",
+    "place_id": "ChIJl_pVOT9PtokRwCTSfmj8BGI"
+  },
+  {
+    "name": "Hilton Garden Inn Fairfax",
+    "address": "3950 Fair Ridge Drive, Fairfax",
+    "distance": 4.243550878151147,
+    "category": "Parades",
+    "place_id": "ChIJw5yL7VBPtokRz6gzPH5FiYQ"
+  },
+  {
+    "name": "Falls Church Marriott Fairview Park",
+    "address": "3111 Fairview Park Drive, Falls Church",
+    "distance": 5.563714256379515,
+    "category": "Parades",
+    "place_id": "ChIJf8vftaFMtokRp7RJosrFdBM"
+  },
+  {
+    "name": "Best Western Fairfax",
+    "address": "3535 Chain Bridge Road, Fairfax",
+    "distance": 2.129226147882619,
+    "category": "Parades",
+    "place_id": "ChIJQxd1qrlOtokRNg7kl6owlFA"
+  },
+  {
+    "name": "SpringHill Suites by Marriott Fairfax Fair Oaks",
+    "address": "11191 Waples Mill Road, Fairfax",
+    "distance": 2.0687681544767247,
+    "category": "Parades",
+    "place_id": "ChIJOb7ItR5PtokRsqkw8fvPAl8"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax City",
+    "address": "3565 Chain Bridge Road, Fairfax",
+    "distance": 1.969734933108145,
+    "category": "Parades",
+    "place_id": "ChIJeyPGI7lOtokRzam-vhVJRmc"
+  },
+  {
+    "name": "Courtyard by Marriott Fairfax Fair Oaks",
+    "address": "11220 Lee Jackson Memorial Highway, Fairfax",
+    "distance": 2.1218064080002557,
+    "category": "Parades",
+    "place_id": "ChIJ-aWvGyBPtokRygyhuSSSreo"
+  },
+  {
+    "name": "Comfort Inn University Center",
+    "address": "11180 Fairfax Boulevard, Fairfax",
+    "distance": 1.964517040055923,
+    "category": "Parades",
+    "place_id": "ChIJv5IS3t9OtokRRu5IaV6g4fE"
+  },
+  {
+    "name": "Extended Stay America - Washington, D.C. - Fairfax",
+    "address": "3997 Fair Ridge Drive, Fairfax",
+    "distance": 4.061996104349351,
+    "category": "Parades",
+    "place_id": "ChIJM4O1plpPtokRvBp1LA7AIFU"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax Merrifield",
+    "address": "8125 Gatehouse Road, Falls Church",
+    "distance": 5.2936517407644095,
+    "category": "Parades",
+    "place_id": "ChIJk4CUamJLtokRO6OdV5n4aec"
+  },
+  {
+    "name": "Costco Wholesale",
+    "address": "4725 West Ox Road, Fairfax",
+    "distance": 3.4616648860429473,
+    "category": "Parades",
+    "place_id": "ChIJ7RsYb3tPtokR1CEMF8Jy_q8"
+  },
+  {
+    "name": "Hampton Inn Fairfax City",
+    "address": "10860 Fairfax Boulevard, Fairfax",
+    "distance": 1.6040671945908829,
+    "category": "Parades",
+    "place_id": "ChIJQWHqOehOtokRvVrCjlE6Eog"
+  },
+  {
+    "name": "Fair Oaks Mall",
+    "address": "11750 Fair Oaks Mall, Fairfax",
+    "distance": 3.3033130121523286,
+    "category": "Parades",
+    "place_id": "ChIJP5AvHUFPtokRgGDG2VFVo94"
+  },
+  {
+    "name": "Homewood Suites by Hilton Falls Church - I-495 @ Rt. 50",
+    "address": "8130 Porter Road, Falls Church",
+    "distance": 5.509880499292927,
+    "category": "Parades",
+    "place_id": "ChIJB-EtT2RLtokRwwfEwAIZY7s"
+  },
+  {
+    "name": "Candlewood Suites Washington-Fairfax, an IHG Hotel",
+    "address": "11400 Random Hills Road, Fairfax",
+    "distance": 2.4603825070637617,
+    "category": "Parades",
+    "place_id": "ChIJLUPmkSJPtokRyuO6Iu7ahTU"
+  },
+  {
+    "name": "Jaipur Royal Indian Cuisine",
+    "address": "9401 Lee Highway #105, Fairfax",
+    "distance": 3.342519501561701,
+    "category": "Parades",
+    "place_id": "ChIJN9w3CAlMtokRrgHANdgBDKo"
+  },
+  {
+    "name": "Sonesta ES Suites Fairfax Fair Lakes",
+    "address": "12815 Fair Lakes Parkway, Fairfax",
+    "distance": 4.411637261456706,
+    "category": "Parades",
+    "place_id": "ChIJZTAXqYxFtokRoMoOYUWaM-c"
+  },
+  {
+    "name": "Micro Center",
+    "address": "3089 Nutley Street, Fairfax",
+    "distance": 3.75157418673837,
+    "category": "Parades",
+    "place_id": "ChIJzZPmqopLtokRpvvbub2xBcs"
+  },
+  {
+    "name": "The Home Depot",
+    "address": "3201 Blenheim Boulevard, Fairfax",
+    "distance": 2.9008305582918155,
+    "category": "Parades",
+    "place_id": "ChIJV7Vo9Q9MtokRgYl08t7Pt8I"
+  },
+  {
+    "name": "Holiday Inn Express Fairfax - Arlington Boulevard, an IHG Hotel",
+    "address": "10327 Fairfax Boulevard, Fairfax",
+    "distance": 2.0048844939940045,
+    "category": "Street Fairs",
+    "place_id": "ChIJBxV0m7tOtokR0YtsO1sn4Hs"
+  },
+  {
+    "name": "Fairfax Marriott at Fair Oaks",
+    "address": "11787 U.S. 50, Fairfax",
+    "distance": 3.1191549004559054,
+    "category": "Street Fairs",
+    "place_id": "ChIJl_pVOT9PtokRwCTSfmj8BGI"
+  },
+  {
+    "name": "Hilton Garden Inn Fairfax",
+    "address": "3950 Fair Ridge Drive, Fairfax",
+    "distance": 4.243550878151147,
+    "category": "Street Fairs",
+    "place_id": "ChIJw5yL7VBPtokRz6gzPH5FiYQ"
+  },
+  {
+    "name": "Falls Church Marriott Fairview Park",
+    "address": "3111 Fairview Park Drive, Falls Church",
+    "distance": 5.563714256379515,
+    "category": "Street Fairs",
+    "place_id": "ChIJf8vftaFMtokRp7RJosrFdBM"
+  },
+  {
+    "name": "Best Western Fairfax",
+    "address": "3535 Chain Bridge Road, Fairfax",
+    "distance": 2.129226147882619,
+    "category": "Street Fairs",
+    "place_id": "ChIJQxd1qrlOtokRNg7kl6owlFA"
+  },
+  {
+    "name": "SpringHill Suites by Marriott Fairfax Fair Oaks",
+    "address": "11191 Waples Mill Road, Fairfax",
+    "distance": 2.0687681544767247,
+    "category": "Street Fairs",
+    "place_id": "ChIJOb7ItR5PtokRsqkw8fvPAl8"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax City",
+    "address": "3565 Chain Bridge Road, Fairfax",
+    "distance": 1.969734933108145,
+    "category": "Street Fairs",
+    "place_id": "ChIJeyPGI7lOtokRzam-vhVJRmc"
+  },
+  {
+    "name": "Courtyard by Marriott Fairfax Fair Oaks",
+    "address": "11220 Lee Jackson Memorial Highway, Fairfax",
+    "distance": 2.1218064080002557,
+    "category": "Street Fairs",
+    "place_id": "ChIJ-aWvGyBPtokRygyhuSSSreo"
+  },
+  {
+    "name": "Comfort Inn University Center",
+    "address": "11180 Fairfax Boulevard, Fairfax",
+    "distance": 1.964517040055923,
+    "category": "Street Fairs",
+    "place_id": "ChIJv5IS3t9OtokRRu5IaV6g4fE"
+  },
+  {
+    "name": "Extended Stay America - Washington, D.C. - Fairfax",
+    "address": "3997 Fair Ridge Drive, Fairfax",
+    "distance": 4.061996104349351,
+    "category": "Street Fairs",
+    "place_id": "ChIJM4O1plpPtokRvBp1LA7AIFU"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax Merrifield",
+    "address": "8125 Gatehouse Road, Falls Church",
+    "distance": 5.2936517407644095,
+    "category": "Street Fairs",
+    "place_id": "ChIJk4CUamJLtokRO6OdV5n4aec"
+  },
+  {
+    "name": "Costco Wholesale",
+    "address": "4725 West Ox Road, Fairfax",
+    "distance": 3.4616648860429473,
+    "category": "Street Fairs",
+    "place_id": "ChIJ7RsYb3tPtokR1CEMF8Jy_q8"
+  },
+  {
+    "name": "Hampton Inn Fairfax City",
+    "address": "10860 Fairfax Boulevard, Fairfax",
+    "distance": 1.6040671945908829,
+    "category": "Street Fairs",
+    "place_id": "ChIJQWHqOehOtokRvVrCjlE6Eog"
+  },
+  {
+    "name": "Fair Oaks Mall",
+    "address": "11750 Fair Oaks Mall, Fairfax",
+    "distance": 3.3033130121523286,
+    "category": "Street Fairs",
+    "place_id": "ChIJP5AvHUFPtokRgGDG2VFVo94"
+  },
+  {
+    "name": "Homewood Suites by Hilton Falls Church - I-495 @ Rt. 50",
+    "address": "8130 Porter Road, Falls Church",
+    "distance": 5.509880499292927,
+    "category": "Street Fairs",
+    "place_id": "ChIJB-EtT2RLtokRwwfEwAIZY7s"
+  },
+  {
+    "name": "Candlewood Suites Washington-Fairfax, an IHG Hotel",
+    "address": "11400 Random Hills Road, Fairfax",
+    "distance": 2.4603825070637617,
+    "category": "Street Fairs",
+    "place_id": "ChIJLUPmkSJPtokRyuO6Iu7ahTU"
+  },
+  {
+    "name": "Jaipur Royal Indian Cuisine",
+    "address": "9401 Lee Highway #105, Fairfax",
+    "distance": 3.342519501561701,
+    "category": "Street Fairs",
+    "place_id": "ChIJN9w3CAlMtokRrgHANdgBDKo"
+  },
+  {
+    "name": "Sonesta ES Suites Fairfax Fair Lakes",
+    "address": "12815 Fair Lakes Parkway, Fairfax",
+    "distance": 4.411637261456706,
+    "category": "Street Fairs",
+    "place_id": "ChIJZTAXqYxFtokRoMoOYUWaM-c"
+  },
+  {
+    "name": "Micro Center",
+    "address": "3089 Nutley Street, Fairfax",
+    "distance": 3.75157418673837,
+    "category": "Street Fairs",
+    "place_id": "ChIJzZPmqopLtokRpvvbub2xBcs"
+  },
+  {
+    "name": "The Home Depot",
+    "address": "3201 Blenheim Boulevard, Fairfax",
+    "distance": 2.9008305582918155,
+    "category": "Street Fairs",
+    "place_id": "ChIJV7Vo9Q9MtokRgYl08t7Pt8I"
+  },
+  {
+    "name": "Holiday Inn Express Fairfax - Arlington Boulevard, an IHG Hotel",
+    "address": "10327 Fairfax Boulevard, Fairfax",
+    "distance": 2.0048844939940045,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJBxV0m7tOtokR0YtsO1sn4Hs"
+  },
+  {
+    "name": "Fairfax Marriott at Fair Oaks",
+    "address": "11787 U.S. 50, Fairfax",
+    "distance": 3.1191549004559054,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJl_pVOT9PtokRwCTSfmj8BGI"
+  },
+  {
+    "name": "Hilton Garden Inn Fairfax",
+    "address": "3950 Fair Ridge Drive, Fairfax",
+    "distance": 4.243550878151147,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJw5yL7VBPtokRz6gzPH5FiYQ"
+  },
+  {
+    "name": "Falls Church Marriott Fairview Park",
+    "address": "3111 Fairview Park Drive, Falls Church",
+    "distance": 5.563714256379515,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJf8vftaFMtokRp7RJosrFdBM"
+  },
+  {
+    "name": "Best Western Fairfax",
+    "address": "3535 Chain Bridge Road, Fairfax",
+    "distance": 2.129226147882619,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJQxd1qrlOtokRNg7kl6owlFA"
+  },
+  {
+    "name": "SpringHill Suites by Marriott Fairfax Fair Oaks",
+    "address": "11191 Waples Mill Road, Fairfax",
+    "distance": 2.0687681544767247,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJOb7ItR5PtokRsqkw8fvPAl8"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax City",
+    "address": "3565 Chain Bridge Road, Fairfax",
+    "distance": 1.969734933108145,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJeyPGI7lOtokRzam-vhVJRmc"
+  },
+  {
+    "name": "Courtyard by Marriott Fairfax Fair Oaks",
+    "address": "11220 Lee Jackson Memorial Highway, Fairfax",
+    "distance": 2.1218064080002557,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJ-aWvGyBPtokRygyhuSSSreo"
+  },
+  {
+    "name": "Comfort Inn University Center",
+    "address": "11180 Fairfax Boulevard, Fairfax",
+    "distance": 1.964517040055923,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJv5IS3t9OtokRRu5IaV6g4fE"
+  },
+  {
+    "name": "Extended Stay America - Washington, D.C. - Fairfax",
+    "address": "3997 Fair Ridge Drive, Fairfax",
+    "distance": 4.061996104349351,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJM4O1plpPtokRvBp1LA7AIFU"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax Merrifield",
+    "address": "8125 Gatehouse Road, Falls Church",
+    "distance": 5.2936517407644095,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJk4CUamJLtokRO6OdV5n4aec"
+  },
+  {
+    "name": "Costco Wholesale",
+    "address": "4725 West Ox Road, Fairfax",
+    "distance": 3.4616648860429473,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJ7RsYb3tPtokR1CEMF8Jy_q8"
+  },
+  {
+    "name": "Hampton Inn Fairfax City",
+    "address": "10860 Fairfax Boulevard, Fairfax",
+    "distance": 1.6040671945908829,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJQWHqOehOtokRvVrCjlE6Eog"
+  },
+  {
+    "name": "Fair Oaks Mall",
+    "address": "11750 Fair Oaks Mall, Fairfax",
+    "distance": 3.3033130121523286,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJP5AvHUFPtokRgGDG2VFVo94"
+  },
+  {
+    "name": "Homewood Suites by Hilton Falls Church - I-495 @ Rt. 50",
+    "address": "8130 Porter Road, Falls Church",
+    "distance": 5.509880499292927,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJB-EtT2RLtokRwwfEwAIZY7s"
+  },
+  {
+    "name": "Candlewood Suites Washington-Fairfax, an IHG Hotel",
+    "address": "11400 Random Hills Road, Fairfax",
+    "distance": 2.4603825070637617,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJLUPmkSJPtokRyuO6Iu7ahTU"
+  },
+  {
+    "name": "Jaipur Royal Indian Cuisine",
+    "address": "9401 Lee Highway #105, Fairfax",
+    "distance": 3.342519501561701,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJN9w3CAlMtokRrgHANdgBDKo"
+  },
+  {
+    "name": "Sonesta ES Suites Fairfax Fair Lakes",
+    "address": "12815 Fair Lakes Parkway, Fairfax",
+    "distance": 4.411637261456706,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJZTAXqYxFtokRoMoOYUWaM-c"
+  },
+  {
+    "name": "Micro Center",
+    "address": "3089 Nutley Street, Fairfax",
+    "distance": 3.75157418673837,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJzZPmqopLtokRpvvbub2xBcs"
+  },
+  {
+    "name": "The Home Depot",
+    "address": "3201 Blenheim Boulevard, Fairfax",
+    "distance": 2.9008305582918155,
+    "category": "Cultural Festivals",
+    "place_id": "ChIJV7Vo9Q9MtokRgYl08t7Pt8I"
+  },
+  {
+    "name": "Holiday Inn Express Fairfax - Arlington Boulevard, an IHG Hotel",
+    "address": "10327 Fairfax Boulevard, Fairfax",
+    "distance": 2.0048844939940045,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJBxV0m7tOtokR0YtsO1sn4Hs"
+  },
+  {
+    "name": "Fairfax Marriott at Fair Oaks",
+    "address": "11787 U.S. 50, Fairfax",
+    "distance": 3.1191549004559054,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJl_pVOT9PtokRwCTSfmj8BGI"
+  },
+  {
+    "name": "Hilton Garden Inn Fairfax",
+    "address": "3950 Fair Ridge Drive, Fairfax",
+    "distance": 4.243550878151147,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJw5yL7VBPtokRz6gzPH5FiYQ"
+  },
+  {
+    "name": "Falls Church Marriott Fairview Park",
+    "address": "3111 Fairview Park Drive, Falls Church",
+    "distance": 5.563714256379515,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJf8vftaFMtokRp7RJosrFdBM"
+  },
+  {
+    "name": "Best Western Fairfax",
+    "address": "3535 Chain Bridge Road, Fairfax",
+    "distance": 2.129226147882619,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJQxd1qrlOtokRNg7kl6owlFA"
+  },
+  {
+    "name": "SpringHill Suites by Marriott Fairfax Fair Oaks",
+    "address": "11191 Waples Mill Road, Fairfax",
+    "distance": 2.0687681544767247,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJOb7ItR5PtokRsqkw8fvPAl8"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax City",
+    "address": "3565 Chain Bridge Road, Fairfax",
+    "distance": 1.969734933108145,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJeyPGI7lOtokRzam-vhVJRmc"
+  },
+  {
+    "name": "Courtyard by Marriott Fairfax Fair Oaks",
+    "address": "11220 Lee Jackson Memorial Highway, Fairfax",
+    "distance": 2.1218064080002557,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJ-aWvGyBPtokRygyhuSSSreo"
+  },
+  {
+    "name": "Comfort Inn University Center",
+    "address": "11180 Fairfax Boulevard, Fairfax",
+    "distance": 1.964517040055923,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJv5IS3t9OtokRRu5IaV6g4fE"
+  },
+  {
+    "name": "Extended Stay America - Washington, D.C. - Fairfax",
+    "address": "3997 Fair Ridge Drive, Fairfax",
+    "distance": 4.061996104349351,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJM4O1plpPtokRvBp1LA7AIFU"
+  },
+  {
+    "name": "Residence Inn by Marriott Fairfax Merrifield",
+    "address": "8125 Gatehouse Road, Falls Church",
+    "distance": 5.2936517407644095,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJk4CUamJLtokRO6OdV5n4aec"
+  },
+  {
+    "name": "Costco Wholesale",
+    "address": "4725 West Ox Road, Fairfax",
+    "distance": 3.4616648860429473,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJ7RsYb3tPtokR1CEMF8Jy_q8"
+  },
+  {
+    "name": "Hampton Inn Fairfax City",
+    "address": "10860 Fairfax Boulevard, Fairfax",
+    "distance": 1.6040671945908829,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJQWHqOehOtokRvVrCjlE6Eog"
+  },
+  {
+    "name": "Fair Oaks Mall",
+    "address": "11750 Fair Oaks Mall, Fairfax",
+    "distance": 3.3033130121523286,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJP5AvHUFPtokRgGDG2VFVo94"
+  },
+  {
+    "name": "Homewood Suites by Hilton Falls Church - I-495 @ Rt. 50",
+    "address": "8130 Porter Road, Falls Church",
+    "distance": 5.509880499292927,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJB-EtT2RLtokRwwfEwAIZY7s"
+  },
+  {
+    "name": "Candlewood Suites Washington-Fairfax, an IHG Hotel",
+    "address": "11400 Random Hills Road, Fairfax",
+    "distance": 2.4603825070637617,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJLUPmkSJPtokRyuO6Iu7ahTU"
+  },
+  {
+    "name": "Jaipur Royal Indian Cuisine",
+    "address": "9401 Lee Highway #105, Fairfax",
+    "distance": 3.342519501561701,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJN9w3CAlMtokRrgHANdgBDKo"
+  },
+  {
+    "name": "Sonesta ES Suites Fairfax Fair Lakes",
+    "address": "12815 Fair Lakes Parkway, Fairfax",
+    "distance": 4.411637261456706,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJZTAXqYxFtokRoMoOYUWaM-c"
+  },
+  {
+    "name": "Micro Center",
+    "address": "3089 Nutley Street, Fairfax",
+    "distance": 3.75157418673837,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJzZPmqopLtokRpvvbub2xBcs"
+  },
+  {
+    "name": "The Home Depot",
+    "address": "3201 Blenheim Boulevard, Fairfax",
+    "distance": 2.9008305582918155,
+    "category": "Farmers' Markets",
+    "place_id": "ChIJV7Vo9Q9MtokRgYl08t7Pt8I"
+  },
+  {
+    "name": "City of Fairfax Regional Library",
+    "address": "10360 North Street, Fairfax",
+    "distance": 1.1476912930006027,
+    "category": "Public Libraries",
+    "place_id": "ChIJ1QmPYZFOtokRiYgIraVyXGY"
+  },
+  {
+    "name": "Fairfax County Law Library",
+    "address": "4110 Chain Bridge Road UNIT 115, Fairfax",
+    "distance": 0.8322092679319997,
+    "category": "Public Libraries",
+    "place_id": "ChIJBWeMr_JOtokR9TpSMwmyFkA"
+  },
+  {
+    "name": "Oakton Library",
+    "address": "10304 Lynnhaven Place, Oakton",
+    "distance": 3.6353149996374743,
+    "category": "Public Libraries",
+    "place_id": "ChIJo1xDP09JtokR0ALeYEiP4tE"
+  },
+  {
+    "name": "Thomas Jefferson Library",
+    "address": "7415 Arlington Boulevard, Falls Church",
+    "distance": 6.397469458166208,
+    "category": "Public Libraries",
+    "place_id": "ChIJ_dk6Z1ZLtokR03Voe_4PYa4"
+  },
+  {
+    "name": "Burke Centre Library",
+    "address": "5935 Freds Oak Road, Burke",
+    "distance": 3.0861459887510896,
+    "category": "Public Libraries",
+    "place_id": "ChIJy0B6KtpRtokRCeZfiXCA4tU"
+  },
+  {
+    "name": "Reston Regional Library",
+    "address": "11925 Bowman Towne Drive, Reston",
+    "distance": 9.294628338696642,
+    "category": "Public Libraries",
+    "place_id": "ChIJ7cx8Mx5ItokRkpwokOwteMI"
+  },
+  {
+    "name": "Northern Virginia Community College Library",
+    "address": "8333 Little River Turnpike, Annandale",
+    "distance": 4.0800187405201855,
+    "category": "Public Libraries",
+    "place_id": "ChIJldW3pPlMtokRJ72mNJsei28"
+  },
+  {
+    "name": "Falls Church Technical Library",
+    "address": "7700 Arlington Boulevard, Falls Church",
+    "distance": 6.021609338142718,
+    "category": "Public Libraries",
+    "place_id": "ChIJg4Mem1lLtokRz98yN94ylik"
+  },
+  {
+    "name": "Central Library",
+    "address": "8601 Mathis Avenue, Manassas",
+    "distance": 8.840961080593646,
+    "category": "Public Libraries",
+    "place_id": "ChIJr1saR3ZbtokRawEnqVYAMXg"
+  },
+  {
+    "name": "Chantilly Regional Library",
+    "address": "4000 Stringfellow Road, Chantilly",
+    "distance": 6.253102057859341,
+    "category": "Public Libraries",
+    "place_id": "ChIJ13ScPtlFtokRX-7NHWn3Seo"
+  },
+  {
+    "name": "Mary Riley Styles Public Library",
+    "address": "120 North Virginia Avenue, Falls Church",
+    "distance": 8.305969595682825,
+    "category": "Public Libraries",
+    "place_id": "ChIJubPe1cO0t4kROzqT91bmziE"
+  },
+  {
+    "name": "Kings Park Library",
+    "address": "9000 Burke Lake Road, Burke",
+    "distance": 3.4425327366781495,
+    "category": "Public Libraries",
+    "place_id": "ChIJiWeR9b1NtokRinBbHiAEfN8"
+  },
+  {
+    "name": "Richard Byrd Library",
+    "address": "7250 Commerce Street, Springfield",
+    "distance": 7.414312489263773,
+    "category": "Public Libraries",
+    "place_id": "ChIJn8Wie1Wtt4kRrLPfhIVuLwU"
+  },
+  {
+    "name": "Centreville Regional Library",
+    "address": "14200 Saint Germain Drive, Centreville",
+    "distance": 6.9541728638947395,
+    "category": "Public Libraries",
+    "place_id": "ChIJlWSg_e1EtokRNCyKgE6IdJA"
+  },
+  {
+    "name": "Pohick Regional Library",
+    "address": "6450 Sydenstricker Road, Burke",
+    "distance": 4.591411601640729,
+    "category": "Public Libraries",
+    "place_id": "ChIJm6MPthNStokRmvcX-EsrRTY"
+  },
+  {
+    "name": "Fenwick Library",
+    "address": "4400 University Drive, Fairfax",
+    "distance": 0.27371456466911054,
+    "category": "Public Libraries",
+    "place_id": "ChIJ8wHn5V1OtokRSphfBmtcvHs"
+  },
+  {
+    "name": "Washington University of Virginia",
+    "address": "4300 Evergreen Lane, Annandale",
+    "distance": 6.785108612416514,
+    "category": "Public Libraries",
+    "place_id": "ChIJF7FwyTGzt4kRF9pRrprNK5k"
+  },
+  {
+    "name": "Patrick Henry Library",
+    "address": "101 Maple Avenue East, Vienna",
+    "distance": 5.451835213177684,
+    "category": "Public Libraries",
+    "place_id": "ChIJJdROEMhLtokRlwjyICuZapw"
+  },
+  {
+    "name": "Westover Library",
+    "address": "1644 North McKinley Road #3, Arlington",
+    "distance": 9.910274634768362,
+    "category": "Public Libraries",
+    "place_id": "ChIJtW0mGFq0t4kRL1iyIlxYsqg"
+  },
+  {
+    "name": "Civil War Interpretive Center at Historic Blenheim",
+    "address": "3610 Blenheim Boulevard, Fairfax",
+    "distance": 1.9471856164392154,
+    "category": "Public Libraries",
+    "place_id": "ChIJY5xowKNOtokRuKvOXGA36B8"
+  }
+]
