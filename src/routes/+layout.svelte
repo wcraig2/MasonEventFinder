@@ -47,7 +47,7 @@
 		<div class="col-2">
 			<!--Sidebar-->
 			<div class="sidebar">
-				<a href="/events" class="main-menu-item menu-item menu-item-div">Nearby Events</a>
+				<a href="/explore" class="main-menu-item menu-item menu-item-div">Explore</a>
 				<div class="menu-div">
 					<a href="about:blank" class="menu-item">Example Menu Item</a>
 				</div>
@@ -55,12 +55,6 @@
 				<a href="/places" class="main-menu-item menu-item menu-item-div">Nearby Places</a>
 				<div class="menu-bar" />
 				<a href="/favorites" class="main-menu-item menu-item menu-item-div">Favorites</a>
-				<div class="menu-bar" />
-				<a href="/popular" class="main-menu-item menu-item menu-item-div">Popular Events</a>
-				<div class="menu-bar" />
-				<a href="/suggestions" class="main-menu-item menu-item menu-item-div">Suggestions</a>
-				<div class="menu-bar" />
-				<a href="/profile" class="main-menu-item menu-item menu-item-div">My Profile</a>
 				<div class="menu-bar" />
 				<div class="search">
 					<form method="get" action="src\routes\search\+page.svelte">
