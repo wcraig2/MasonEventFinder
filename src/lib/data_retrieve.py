@@ -36,7 +36,7 @@ def get_nearby_places(api_key, location, radius, types):
 def main():
     api_key = API_KEY
     gmu_location = (38.8318, -77.3122)
-    radius = 16000
+    radius = 80000
         # Define categories and their corresponding Google Places API types
     categories = {
         'Museums': 'museum',
@@ -108,7 +108,12 @@ def main():
                 'distance': distance,
                 'category': category,
                 'place_id': place['place_id']
+                
             }
+            
+            details = get_place_details(api_key, place['place_id'])
+            place_data['wheelchair_accessible'] = details.get('accessibility', {}).get('wheelchair_accessible', False)
+            place_data['url'] = details.get('url', '')
             category_places.append(place_data)
 
         all_places.extend(category_places)
