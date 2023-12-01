@@ -52,7 +52,7 @@
 					<a href="about:blank" class="menu-item">Example Menu Item</a>
 				</div>
 				<div class="menu-bar" />
-				<a href="/places" class="main-menu-item menu-item menu-item-div">Nearby Places</a>
+				<a href="/places" class="main-menu-item menu-item menu-item-div">Places</a>
 				<div class="menu-bar" />
 				<a href="/favorites" class="main-menu-item menu-item menu-item-div">Favorites</a>
 				<div class="menu-bar" />
