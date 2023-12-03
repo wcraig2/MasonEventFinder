@@ -1,17 +1,19 @@
 <script lang="ts">
     import placeData from "$lib/place_data.json";
+
     export let data;
     
     const chunkSize = 25;
     const numberOfChunks = placeData.length / chunkSize;
-    const chunks = [];
-    for (let i = 0; i < numberOfChunks; i++) {
-        chunks.push(i);
-    }
+    const chunks = [...Array(numberOfChunks).keys()];
 
-    let currentChunk = data.slug[0];
-    $: startingChunk = currentChunk;
-    $: places = placeData.slice(startingChunk * chunkSize, (startingChunk+1) * chunkSize);
+    let currentChunk = data.pageNumber;
+    let startingChunk = currentChunk;
+    let places = placeData.slice(startingChunk * chunkSize, (startingChunk+1) * chunkSize);
+    
+    console.log(currentChunk);
+    console.log(startingChunk);
+    console.log(places)
 
 </script>
 
@@ -43,11 +45,11 @@
                 {#each chunks as c}
                     {#if c == currentChunk}
                         <li class="active-page">
-                            <span>{c+1}&nbsp;</span>
+                            <span>{c+1}&nbsp</span>
                         </li>
                     {:else}
-                        <li>
-                            <a href="/explore/{data.slug[c]}">{c+1}&nbsp;</a>
+                        <li data-sveltekit-reload>
+                            <a href="/explore/{c}">{c+1}&nbsp</a>
                         </li>
                     {/if}
                 {/each}

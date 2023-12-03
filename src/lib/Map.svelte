@@ -662,7 +662,7 @@
 			},
 			mapsApiKey: 'AIzaSyDWfdtAApLBudYIU6uOLO69BNmc3S7kZjQ'
 		};
-
+		
 		function initMap() {
 			new NeighborhoodDiscovery(CONFIGURATION);
 		}
@@ -870,7 +870,7 @@
 		</svg>
 	</div>
 	<script
-		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCounSiUKRstoAcWrqNY7--NQqth2ksPVQ&callback=initMap&libraries=places,geometry&solution_channel=GMP_QB_neighborhooddiscovery_v2_cABCDEF"
+		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAU68NcpPjxKvPLJQ0Fjy5pXR0gzBWmk4c&callback=initMap&libraries=places,geometry&solution_channel=GMP_QB_neighborhooddiscovery_v2_cABCDEF"
 		async
 		defer
 	></script>

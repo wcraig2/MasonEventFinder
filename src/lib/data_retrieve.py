@@ -1,6 +1,7 @@
 import requests
 import json
 from geopy.distance import geodesic
+import os
 
 API_KEY = "AIzaSyDLWDYHCrAMeyf4awfFIbdq1mIxbF7AenI"
 
@@ -119,7 +120,7 @@ def main():
         all_places.extend(category_places)
 
     # Output data to JSON file
-    with open('place_data.json', 'w') as json_file:
+    with open(f'{os.path.curdir}/place_data.json', 'w') as json_file:
         json.dump(all_places, json_file, indent=2)
 
 if __name__ == "__main__":

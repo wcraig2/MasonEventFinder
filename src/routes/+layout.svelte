@@ -48,9 +48,9 @@
 			<!--Sidebar-->
 			<div class="sidebar">
 				<a href="/explore" class="main-menu-item menu-item menu-item-div">Explore</a>
-				<div class="menu-div">
+				<!-- <div class="menu-div">
 					<a href="about:blank" class="menu-item">Example Menu Item</a>
-				</div>
+				</div> -->
 				<div class="menu-bar" />
 				<a href="/places" class="main-menu-item menu-item menu-item-div">Places</a>
 				<div class="menu-bar" />
