@@ -5,7 +5,6 @@
 	import './style.css';
 	// import './black-blue.css';
 	import './map.css';
-	import Map from '$lib/Map.svelte';
 
 	import sun from "$lib/images/sun.png";
 	import moon from "$lib/images/moon.png";
@@ -47,12 +46,12 @@
 		<div class="col-2">
 			<!--Sidebar-->
 			<div class="sidebar">
-				<a href="/explore" class="main-menu-item menu-item menu-item-div">Explore</a>
+				<a href="/places" class="main-menu-item menu-item menu-item-div">Places</a>
 				<!-- <div class="menu-div">
 					<a href="about:blank" class="menu-item">Example Menu Item</a>
 				</div> -->
 				<div class="menu-bar" />
-				<a href="/places" class="main-menu-item menu-item menu-item-div">Places</a>
+				<a href="/explore" class="main-menu-item menu-item menu-item-div">Explore</a>
 				<div class="menu-bar" />
 				<a href="/favorites" class="main-menu-item menu-item menu-item-div">Favorites</a>
 				<div class="menu-bar" />

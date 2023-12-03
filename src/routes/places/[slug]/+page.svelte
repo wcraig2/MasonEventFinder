@@ -13,12 +13,28 @@
     
     console.log(currentChunk);
     console.log(startingChunk);
-    console.log(places)
+    console.log(places);
 
 </script>
 
 
 <body>
+    <div class="display-inline-flex pagination-container">
+        <ul class="pagination">
+            {#each chunks as c}
+                {#if c == currentChunk}
+                    <li class="active-page">
+                        <span>{c+1}&nbsp</span>
+                    </li>
+                {:else}
+                    <li data-sveltekit-reload>
+                        <a href="/places/{c}">{c+1}&nbsp</a>
+                    </li>
+                {/if}
+            {/each}
+        </ul>
+    </div>
+    
     <div class="results-block">
         {#each places as p, i}
             {#if i <= numberOfChunks}
@@ -49,7 +65,7 @@
                         </li>
                     {:else}
                         <li data-sveltekit-reload>
-                            <a href="/explore/{c}">{c+1}&nbsp</a>
+                            <a href="/places/{c}">{c+1}&nbsp</a>
                         </li>
                     {/if}
                 {/each}

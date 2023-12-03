@@ -1,17 +1,18 @@
 <script lang="ts">
     import placeData from "$lib/place_data.json";
+    import star from "$lib/star-small.png";
+
     export let data;
     
-    const chunkSize = 25;
-    const numberOfChunks = placeData.length / chunkSize;
     const chunks = [];
+    
     for (let i = 0; i < numberOfChunks; i++) {
-        chunks.push(i);
+        
     }
 
-    let currentChunk = data.slug[0];
-    $: startingChunk = currentChunk;
-    $: places = placeData.slice(startingChunk * chunkSize, (startingChunk+1) * chunkSize);
+    function addToFavorites() {
+        
+    }
 
 </script>
 
@@ -21,17 +22,20 @@
         {#each places as p, i}
             {#if i <= numberOfChunks}
             <div class="place-block">
-                <div class="place-content">
+                <div class="place-content" id="place{i}">
+                    <span class="fav-desc">Add To Favorites</span>
+                    <img alt="fav-button" id="favorites-button" src={star} on:keydown={() => {}} on:click={addToFavorites}>
                     <p class="place-name">{p.name}</p>
                     <p class="place-address">{p.address}</p>
                     <p class="place-distance">
                         Distance from campus: {parseFloat(p.distance.toFixed(2))}
-                    </p>s
+                    </p>
                     <p class="place-wca">
-                        Wheelchair accessible?: {p.wheelchair_accessible ? "Yes" : "No"}
+                        Wheelchair accessible?: { p.wheelchair_accessible ? "Yes" : "No" }
                     </p>
                     <p class="place-url">{p.url}</p>
                     <p class="place-category">{p.category}</p>
+
                 </div>
             </div>
             <hr>
