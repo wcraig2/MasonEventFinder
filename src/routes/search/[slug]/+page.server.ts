@@ -19,6 +19,9 @@ export function load({params}) {
                     places.push(place);
                     shouldBreak = true;
                     break;
+                } else if (subPlaceName.indexOf(subSearchTerm) !== -1) {
+                    places.push(place);
+                    break;
                 }
             }
 
