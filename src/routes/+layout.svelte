@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import { browser } from '$app/environment';
 	import { page } from '$app/stores';
 	import { webVitals } from '$lib/vitals';
@@ -8,6 +8,8 @@
 
 	import sun from "$lib/images/sun.png";
 	import moon from "$lib/images/moon.png";
+	import { redirect } from '@sveltejs/kit';
+	import { goto } from '$app/navigation';
 
 
 	/** @type {import('./$types').LayoutServerData} */
@@ -36,6 +38,20 @@
 			setTheme('light');
 		}
 	}
+
+	let searchTerms: string;
+
+	// Another test can be performed here to see if typing in something into the search bar
+	// and pressing the enter key works as expected.
+	async function handleSearchSubmit(e: KeyboardEvent) {
+		if (e.key === "Enter") {
+			searchTerms = searchTerms.trim();
+			if (searchTerms.length > 0) {
+				await goto(`/search/${searchTerms}`);
+				searchTerms = "";
+			}
+		}
+	}
 </script>
 
 
@@ -56,12 +72,18 @@
 				<a href="/favorites" class="main-menu-item menu-item menu-item-div">Favorites</a>
 				<div class="menu-bar" />
 				<div class="search">
-					<form method="get" action="src\routes\search\+page.svelte">
-						<input type="text" placeholder="Search and hit enter..." name="s" class="search-form" required/>
-					</form>
+					<input
+						bind:value={searchTerms} 
+						type="text" 
+						placeholder="Search and hit enter..." 
+						name="search-form" 
+						class="search-form" 
+						on:keypress={handleSearchSubmit}
+						required
+					/>
 				</div>
 				<div class="toggler aligncenter">
-					<img src={imagePath} class="clickable" id="icon" on:click={handleClick} />
+					<img alt="a sun" src={imagePath} class="clickable" id="icon" on:keydown={() => {}} on:click={handleClick} />
 				</div>
 			</div>
 		</div>

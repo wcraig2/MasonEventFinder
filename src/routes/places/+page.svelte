@@ -1,6 +1,7 @@
 <script lang="ts">
     import placeData from "$lib/place_data.json";
-    import star from "$lib/star-small.png";
+    import star from "$lib/images/star.png";
+    import {addToFavorites} from "$lib/helper_functions.ts";
 
     export let data;
     
@@ -11,14 +12,9 @@
         chunks.push(i);
     }
 
-    let currentChunk = data.slug[0];
-    $: startingChunk = currentChunk;
-    $: places = placeData.slice(startingChunk * chunkSize, (startingChunk+1) * chunkSize);
-
-    function addToFavorites() {
-        
-    }
-
+    const currentChunk = data.slug[0];
+    const startingChunk = currentChunk;
+    const places = placeData.slice(startingChunk * chunkSize, (startingChunk+1) * chunkSize);
 </script>
 
 
@@ -39,44 +35,57 @@
         </ul>
     </div>
 
-    <div class="results-block">
-        {#each places as p, i}
+    
+    {#each places as p, i}
+        <div class="results-block">
             {#if i <= numberOfChunks}
             <div class="place-block">
                 <div class="place-content" id="place{i}">
                     <span class="fav-desc">Add To Favorites</span>
-                    <img alt="fav-button" id="favorites-button" src={star} on:keydown={() => {}} on:click={addToFavorites}>
-                    <p class="place-name">{p.name}</p>
-                    <p class="place-address">{p.address}</p>
-                    <p class="place-distance">
-                        Distance from campus: {parseFloat(p.distance.toFixed(2))}
-                    </p>s
-                    <p class="place-wca">
-                        Wheelchair accessible?: {p.wheelchair_accessible ? "Yes" : "No"}
-                    </p>
-                    <p class="place-url">{p.url}</p>
-                    <p class="place-category">{p.category}</p>
+                    <button class="fav-button" id="favorites-button{i}" on:keydown={() => {}} on:click={() => addToFavorites(i)}>
+                        <img alt="a star" id="favorites-image" src={star}>
+                    </button>
+                    <span hidden id="added-favorites-hidden{i}">Added to favorites!</span>
 
+                    <p class="place-name" id="place-name{i}">{p.name}</p>
+                    <p class="place-address" id="place-address{i}">{p.address}</p>
+                    
+                    <span>Distance from campus:</span>
+                    <p class="place-distance" id="place-distance{i}">
+                        {parseFloat(p.distance.toFixed(2))}
+                    </p>
+
+                    <span>Wheelchair Accessible?</span>
+                    <p class="place-wca" id="place-wca{i}">
+                        { p.wheelchair_accessible ? "Yes" : "No" }
+                    </p>
+                    
+                    <span>Maps URL:</span>
+                    <p class="place-url" id="place-url{i}">{p.url}</p>
+        
+                    <span>Category: </span>
+                    <p class="place-category" id="place-category{i}">{p.category}</p>
                 </div>
             </div>
             <hr>
             {/if}
-        {/each}
-
-        <div class="display-inline-flex pagination-container">
-            <ul class="pagination">
-                {#each chunks as c}
-                    {#if c == currentChunk}
-                        <li class="active-page">
-                            <span>{c+1}&nbsp;</span>
-                        </li>
-                    {:else}
-                        <li>
-                            <a href="/places/{data.slug[c]}">{c+1}&nbsp;</a>
-                        </li>
-                    {/if}
-                {/each}
-            </ul>
         </div>
+    {/each}
+
+    <div class="display-inline-flex pagination-container">
+        <ul class="pagination">
+            {#each chunks as c}
+                {#if c == currentChunk}
+                    <li class="active-page">
+                        <span>{c+1}&nbsp;</span>
+                    </li>
+                {:else}
+                    <li>
+                        <a href="/places/{data.slug[c]}">{c+1}&nbsp;</a>
+                    </li>
+                {/if}
+            {/each}
+        </ul>
     </div>
+    
 </body>
