@@ -1,12 +1,25 @@
-<script>
+<script lang="ts">
     import star from "$lib/images/star.png";
     import {addToFavorites} from "$lib/helper_functions.ts";
 
     export let data;
 
-    $: places = data.places;
+    let places = data.places;
+    let distanceFilterValue: number;
 
     const limit = 100;
+
+    function filterPlacesByDistance(e: KeyboardEvent) {
+        if (e.key === "Enter") {
+            const temp = [];
+            for (const place of places) {
+                if (parseFloat(String(place.distance)) < distanceFilterValue) {
+                    temp.push(place);
+                }
+            }
+            places = temp;
+        }
+    }
 </script>
 
 
@@ -20,16 +33,21 @@
     </div>
 </div>
 
+<!-- <div class="filter-presets-block">
+    <form data-sveltekit-reload>
+        <input  
+            bind:value={distanceFilterValue} 
+            class="filter-preset-distance-button" 
+            on:keydown={filterPlacesByDistance}
+            placeholder="Dist. (mi)">
+    </form>
+</div> -->
 
 {#if places.length == 0}
     <div class="results-block">
         No results. Try searching again.
     </div>
 {:else}
-    <!-- <div class="filter-presets-block">
-        <p class="filter-preset-text">Distance Filter</p>
-        <input type="number" placeholder="Dist. (mi)">
-    </div> -->
 
     {#each places as p, i}
         {#if i < limit}
@@ -46,7 +64,7 @@
 						<hr>
 						<p class="place-address" id="place-address{i}"><b>{p.address}</b></p>
 						<p class="place-distance" id="place-distance{i}">
-							Distance from Campus: {parseFloat(p.distance.toFixed(2))} miles
+							Distance from Campus: {parseFloat(Number(p.distance).toFixed(2))} miles
 						</p>
 						<p class="place-wca" id="place-wca{i}">
 							{ p.wheelchair_accessible ? "Wheelchair Accessible?: Yes" : "Wheelchair Accessible?: No" }

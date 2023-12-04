@@ -7,7 +7,7 @@ import {browser} from "$app/environment";
 export interface FavoritePlace {
     name: string,
     address: string,
-    distance: string,
+    distance: string | number,
     category: string,
     wheelchair_accessible: boolean,
     url: string,

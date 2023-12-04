@@ -1,12 +1,13 @@
 import { error, redirect } from '@sveltejs/kit';
 import placeData from "$lib/place_data.json";
 import leven from "fast-levenshtein";
+import type { FavoritePlace } from '$lib/helper_functions.js';
 
 const DISTANCE_THRESHOLD = 3;
 
 export function load({params}) {
     const searchTerm = params.slug;
-    const places = []
+    const places: FavoritePlace[] = []
     for (let place of placeData) {
         const splitPlaceName = place.name.split(" ");
         const splitSearchTerm = searchTerm.split(" ");
