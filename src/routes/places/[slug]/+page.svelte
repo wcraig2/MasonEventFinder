@@ -1,6 +1,6 @@
 <script lang="ts">
     import placeData from "$lib/place_data.json";
-    import star from "$lib/star-small.png";
+    import star from "$lib/images/star.png";
     import {addToFavorites} from "$lib/helper_functions.ts"
 
     export let data;
