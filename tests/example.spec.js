@@ -1,12 +1,29 @@
 // @ts-check
 import { test, expect } from '@playwright/test';
 
+/*
+################################################################################
+||                                                                            ||
+||                                 UNIT TESTS                                 ||
+||                                                                            ||
+################################################################################
+*/
+
 test('html', async ({ page }) => {
   await page.goto('https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/');
 
   // Expect a title "to contain" a substring.
   await expect(page).toHaveTitle(/Entertainment Finder/);
 });
+
+
+/*
+################################################################################
+||                                                                            ||
+||                             INTEGRATION TESTS                              ||
+||                                                                            ||
+################################################################################
+*/
 
 test('favorite-test', async ({ page }) => {
   await page.goto('https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/');
@@ -22,6 +39,7 @@ test('favorite-test', async ({ page }) => {
   //after clear should expect no favorites
   await page.getByText('You don\'t have any favorites at the moment.').click();
 });
+
 test('places-links', async ({ page }) => {
   await page.goto('https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/');
   await page.getByRole('link', { name: 'Places' }).click();
@@ -37,6 +55,7 @@ test('places-links', async ({ page }) => {
     await page.getByRole('link', { name: pageNumber.toString()}).first().click();
   } 
 });
+
 test('main-links', async ({ page }) => {
   await page.goto('https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/');
   await page.getByRole('link', { name: 'Places' }).click();

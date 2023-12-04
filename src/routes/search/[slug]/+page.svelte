@@ -4,22 +4,9 @@
 
     export let data;
 
-    let places = data.places;
-    let distanceFilterValue: number;
+    $: places = data.places;
 
     const limit = 100;
-
-    function filterPlacesByDistance(e: KeyboardEvent) {
-        if (e.key === "Enter") {
-            const temp = [];
-            for (const place of places) {
-                if (parseFloat(String(place.distance)) < distanceFilterValue) {
-                    temp.push(place);
-                }
-            }
-            places = temp;
-        }
-    }
 </script>
 
 
@@ -48,7 +35,6 @@
         No results. Try searching again.
     </div>
 {:else}
-
     {#each places as p, i}
         {#if i < limit}
             <div class="results-block">

@@ -6,7 +6,7 @@
 
     onMount(() => {
         favoritePlaces = getFavorites();
-    })
+    });
 </script>
 
 <div class="results-block">
