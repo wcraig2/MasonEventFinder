@@ -64,8 +64,7 @@ export function getFavorites(): FavoritePlace[] {
     const items = [];
     
     for (let key in window.localStorage) {
-        console.table(`Key: ${window.localStorage.getItem(key)}`);
-        if (window.localStorage.getItem(key) == null) {
+        if (!window.localStorage.getItem(key)) {
             continue;
         }
         const parsed = JSON.parse(window.localStorage.getItem(key));
