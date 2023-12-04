@@ -26,15 +26,10 @@
         No results. Try searching again.
     </div>
 {:else}
-    <!-- <div class="filter-presets-block">
-        <p class="filter-preset-text">Filter Presets:</p>
-        <input type="radio" id="html" name="fav_language" value="HTML">
-        <label for="html">HTML</label><br>
-        <input type="radio" id="css" name="fav_language" value="CSS">
-        <label for="css">CSS</label><br>
-        <input type="radio" id="javascript" name="fav_language" value="JavaScript">
-        <label for="javascript">JavaScript</label>
-    </div> -->
+    <div class="filter-presets-block">
+        <p class="filter-preset-text">Distance Filter</p>
+        <input type="number" placeholder="Dist. (mi)">
+    </div>
 
     {#each places as p, i}
         {#if i < limit}
