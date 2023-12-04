@@ -59,7 +59,7 @@
 <title>GMU Entertainment Finder</title>
 <div class="container-fluid">
 	<div class="row">
-		<div class="col-2">
+		<div class="col-3 col-md-2">
 			<!--Sidebar-->
 			<div class="sidebar">
 				<a href="/places" class="main-menu-item menu-item menu-item-div">Places</a>
@@ -87,9 +87,9 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-1" />
+		<div class="col-0 col-md-1" />
 		<!--MAIN CONTENT-->
-		<div id="content" class="col-6">
+		<div id="content" class="col-9 col-md-6">
 			<!--Top Bar-->
 			<div>
 				<div class="row">
@@ -103,7 +103,7 @@
 					
 					<div class="col-9">
 						<br>
-						<h1>Entertainment Finder</h1>
+						<h1><a href="/">Entertainment Finder</a></h1>
 					</div>
 				</div>
 				<br>
@@ -111,7 +111,7 @@
 					<slot />
 				</main>
 			</div>
-			<div class="col-1" />
+			<div class="col-0 col-md-1" />
 		</div>
 	</div>
 </div>

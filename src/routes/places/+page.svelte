@@ -2,6 +2,7 @@
     import placeData from "$lib/place_data.json";
     import star from "$lib/images/star.png";
     import {addToFavorites} from "$lib/helper_functions.ts";
+	import { page } from '$app/stores';
 
     export let data;
     
@@ -15,10 +16,16 @@
     const currentChunk = data.slug[0];
     const startingChunk = currentChunk;
     const places = placeData.slice(startingChunk * chunkSize, (startingChunk+1) * chunkSize);
+	
+    const category = $page.url.searchParams.get('category');
+    const hasCategory = $page.url.searchParams.has('category');
+    const distance = $page.url.searchParams.get('distance');
+    const hasDistance = $page.url.searchParams.get('distance');
 </script>
 
 
 <body>
+	{#if !hasCategory && !hasDistance} 
     <div class="display-inline-flex pagination-container">
         <ul class="pagination">
             {#each chunks as c}
@@ -34,40 +41,37 @@
             {/each}
         </ul>
     </div>
+	{/if}
 
     
     {#each places as p, i}
         <div class="results-block">
-            {#if i <= numberOfChunks}
+			{#if !hasCategory || category == p.category}
+			{#if !hasDistance || parseFloat(distance) >= p.distance}
+            {#if !hasCategory && !hasDistance && i <= numberOfChunks}
             <div class="place-block">
                 <div class="place-content" id="place{i}">
-                    <span class="fav-desc">Add To Favorites</span>
-                    <button class="fav-button" id="favorites-button{i}" on:keydown={() => {}} on:click={() => addToFavorites(i)}>
-                        <img alt="a star" id="favorites-image" src={star}>
+                    <button class="fav-button alignright" id="favorites-button{i}" on:keydown={() => {}} on:click={() => addToFavorites(i)}>
+                        <img alt="Add to Favorites" id="favorites-image" src={star}>
                     </button>
-                    <span hidden id="added-favorites-hidden{i}">Added to favorites!</span>
-
-                    <p class="place-name" id="place-name{i}">{p.name}</p>
-                    <p class="place-address" id="place-address{i}">{p.address}</p>
+                    <span hidden id="added-favorites-hidden{i}" class="alignright">Added to favorites!</span>
                     
-                    <span>Distance from campus:</span>
+                    <h3 class="place-name" id="place-name{i}"><a href="{p.url}">{p.name}</a></h3>
+                    <span id="place-url{i}" style="display:none">{p.url}</span>
+
+					<p class="place-category" id="place-category{i}"><a href="/places?category={p.category}">{p.category}</a></p>
+					<hr>
+                    <p class="place-address" id="place-address{i}"><b>{p.address}</b></p>
                     <p class="place-distance" id="place-distance{i}">
-                        {parseFloat(p.distance.toFixed(2))}
+                        Distance from Campus: {parseFloat(p.distance.toFixed(2))} miles
                     </p>
-
-                    <span>Wheelchair Accessible?</span>
                     <p class="place-wca" id="place-wca{i}">
-                        { p.wheelchair_accessible ? "Yes" : "No" }
+                        Wheelchair Accessible?: { p.wheelchair_accessible ? "Yes" : "No" }
                     </p>
-                    
-                    <span>Maps URL:</span>
-                    <p class="place-url" id="place-url{i}">{p.url}</p>
-        
-                    <span>Category: </span>
-                    <p class="place-category" id="place-category{i}">{p.category}</p>
                 </div>
             </div>
-            <hr>
+            {/if}
+            {/if}
             {/if}
         </div>
     {/each}
