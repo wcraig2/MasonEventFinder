@@ -29,16 +29,17 @@
         {#each favoritePlaces as p, i}
             <div class="place-block">
                 <div class="place-content" id="place{i}">
-                    <button class="fav-button alignright" id="favorites-button{i}" on:keydown={() => {}} on:click={() => addToFavorites(i)}>
-                        <img alt="Add to Favorites" id="favorites-image" src={star}>
-                    </button>
-                    <span hidden id="added-favorites-hidden{i}" class="alignright">Added to favorites!</span>
+                    <form data-sveltekit-reload class="clear-selected-favorite-form">
+                        <button data-sveltekit-reload class="clear-selected-favorite" id="clear-selected-favorite" on:click={() => {clearSelectedFavorite(p.url)}}>
+                            Remove
+                        </button>
+                    </form>
                     <h3 class="place-name" id="place-name{i}"><a href="{p.url}">{p.name}</a></h3>
 					<p class="place-category" id="place-category{i}"><a href="/places?category={p.category}">{p.category}</a></p>
 					<hr>
                     <p class="place-address" id="place-address{i}"><b>{p.address}</b></p>
                     <p class="place-distance" id="place-distance{i}">
-                        Distance from Campus: {parseFloat(p.distance.toFixed(2))} miles
+                        Distance from Campus: {p.distance} miles
                     </p>
                     <p class="place-wca" id="place-wca{i}">
                         { p.wheelchair_accessible ? "Wheelchair Accessible?: Yes" : "Wheelchair Accessible?: No" }

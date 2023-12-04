@@ -26,6 +26,16 @@
         No results. Try searching again.
     </div>
 {:else}
+    <!-- <div class="filter-presets-block">
+        <p class="filter-preset-text">Filter Presets:</p>
+        <input type="radio" id="html" name="fav_language" value="HTML">
+        <label for="html">HTML</label><br>
+        <input type="radio" id="css" name="fav_language" value="CSS">
+        <label for="css">CSS</label><br>
+        <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+        <label for="javascript">JavaScript</label>
+    </div> -->
+
     {#each places as p, i}
         {#if i < limit}
             <div class="results-block">
@@ -36,6 +46,7 @@
 						</button>
 						<span hidden id="added-favorites-hidden{i}" class="alignright">Added to favorites!</span>
 						<h3 class="place-name" id="place-name{i}"><a href="{p.url}">{p.name}</a></h3>
+                        <span id="place-url{i}" style="display:none">{p.url}</span>
 						<p class="place-category" id="place-category{i}"><a href="/places?category={p.category}">{p.category}</a></p>
 						<hr>
 						<p class="place-address" id="place-address{i}"><b>{p.address}</b></p>
