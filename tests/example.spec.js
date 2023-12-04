@@ -1,6 +1,5 @@
 // @ts-check
 import { test, expect } from '@playwright/test';
-
 test('html', async ({ page }) => {
   await page.goto('https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/');
 
@@ -85,13 +84,13 @@ test('light-mode-css', async ({ page }) => {
 test('dark-mode-icon', async ({ page }) => {
   await page.goto('https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/');
   await page.locator('#icon').click();
-  await expect(page.locator('#icon')).toHaveAttribute('src', "/src/lib/images/moon.png");
+  await expect(page.locator('#icon')).toHaveAttribute('alt', "moon");
 });
 
 test('light-mode-icon', async ({ page }) => {
   await page.goto('https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/search/cafe');
-  await expect(page.locator('#icon')).toHaveAttribute('src', "/src/lib/images/sun.png");
+  await expect(page.locator('#icon')).toHaveAttribute('alt', "sun");
   await page.locator('#icon').click();
   await page.locator('#icon').click();
-  await expect(page.locator('#icon')).toHaveAttribute('src', "/src/lib/images/sun.png");
+  await expect(page.locator('#icon')).toHaveAttribute('alt', "sun");
 });
