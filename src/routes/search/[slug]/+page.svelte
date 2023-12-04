@@ -26,10 +26,10 @@
         No results. Try searching again.
     </div>
 {:else}
-    <div class="filter-presets-block">
+    <!-- <div class="filter-presets-block">
         <p class="filter-preset-text">Distance Filter</p>
         <input type="number" placeholder="Dist. (mi)">
-    </div>
+    </div> -->
 
     {#each places as p, i}
         {#if i < limit}
