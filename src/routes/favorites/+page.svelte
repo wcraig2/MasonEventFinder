@@ -29,33 +29,22 @@
         {#each favoritePlaces as p, i}
             <div class="place-block">
                 <div class="place-content" id="place{i}">
-                    <p class="place-name" id="place-name{i}">{p.name}</p>
-                    <form data-sveltekit-reload class="clear-favorites-form">
-                        <button data-sveltekit-reload class="clear-favorites" id="clear-favorites" on:click={() => { clearSelectedFavorite(p.url) }}>
-                            Remove From Favorites
-                        </button>
-                    </form>
-                    <p class="place-address" id="place-address{i}">{p.address}</p>
-                    
-                    <span>Distance from campus:</span>
+                    <button class="fav-button alignright" id="favorites-button{i}" on:keydown={() => {}} on:click={() => addToFavorites(i)}>
+                        <img alt="Add to Favorites" id="favorites-image" src={star}>
+                    </button>
+                    <span hidden id="added-favorites-hidden{i}" class="alignright">Added to favorites!</span>
+                    <h3 class="place-name" id="place-name{i}"><a href="{p.url}">{p.name}</a></h3>
+					<p class="place-category" id="place-category{i}"><a href="/places?category={p.category}">{p.category}</a></p>
+					<hr>
+                    <p class="place-address" id="place-address{i}"><b>{p.address}</b></p>
                     <p class="place-distance" id="place-distance{i}">
-                        {p.distance}
+                        Distance from Campus: {parseFloat(p.distance.toFixed(2))} miles
                     </p>
-
-                    <span>Wheelchair Accessible?</span>
                     <p class="place-wca" id="place-wca{i}">
-                        { p.wheelchair_accessible ? "Yes" : "No" }
+                        { p.wheelchair_accessible ? "Wheelchair Accessible?: Yes" : "Wheelchair Accessible?: No" }
                     </p>
-                    
-                    <span>Maps URL:</span>
-                    <p class="place-url" id="place-url{i}">{p.url}</p>
-        
-                    <span>Category: </span>
-                    <p class="place-category" id="place-category{i}">{p.category}</p>
-
                 </div>
             </div>
-            <hr>
         {/each}
     {/if}
     
