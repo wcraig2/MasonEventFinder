@@ -1,1 +1,6 @@
 Additonal things:
+All of the barebones functionality for the website have been implemented.
+I have marked the areas that are in need of testing, but since most of this project
+falls under the second category as noted in the P4 Deliverable, so testing shouldn't be too intense.
+
+If you find any more areas that can be tested, feel free to add such tests.
