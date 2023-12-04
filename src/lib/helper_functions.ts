@@ -67,8 +67,11 @@ export function getFavorites(): FavoritePlace[] {
         if (!window.localStorage.getItem(key)) {
             continue;
         }
+
         const parsed = JSON.parse(window.localStorage.getItem(key));
-        items.push(parsed);
+        if (Object.keys(parsed).indexOf("address") !== -1) {
+            items.push(parsed);
+        }
     }
 
     console.log(items);
