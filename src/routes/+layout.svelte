@@ -29,12 +29,15 @@
 	};
 
 	let imagePath = sun;
+	let pic = "sun";
 	function handleClick() {
 		if (imagePath === sun) {
+			pic = "moon";
 			imagePath = moon;
 			setTheme('dark');
 		} else {
 			imagePath = sun;
+			pic = "sun";
 			setTheme('light');
 		}
 	}
@@ -83,7 +86,7 @@
 					/>
 				</div>
 				<div class="toggler aligncenter">
-					<img alt="a sun" src={imagePath} class="clickable" id="icon" on:keydown={() => {}} on:click={handleClick} />
+					<img alt={pic} src={imagePath} class="clickable" id="icon" on:keydown={() => {}} on:click={handleClick} />
 				</div>
 			</div>
 		</div>
