@@ -57,8 +57,6 @@
 	}
 </script>
 
-
-
 <title>GMU Entertainment Finder</title>
 <div class="container-fluid">
 	<div class="row">
