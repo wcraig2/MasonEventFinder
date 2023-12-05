@@ -1,14 +1,34 @@
 import requests
 import json
 from geopy.distance import geodesic
-import os
 
+# Replace with your own Google Maps API Key
 API_KEY = "AIzaSyDLWDYHCrAMeyf4awfFIbdq1mIxbF7AenI"
 
 def calculate_distance(origin, destination):
-    return geodesic(origin, destination).miles  # Convert meters to miles
+    """
+    Calculate the distance between two geographic coordinates using the geodesic formula.
+
+    Parameters:
+    - origin (tuple): The (latitude, longitude) of the origin point.
+    - destination (tuple): The (latitude, longitude) of the destination point.
+
+    Returns:
+    - float: The distance in miles between the two points.
+    """
+    return geodesic(origin, destination).miles
 
 def get_place_details(api_key, place_id):
+    """
+    Get details of a place using the Google Places API.
+
+    Parameters:
+    - api_key (str): Your Google Maps API Key.
+    - place_id (str): The unique identifier for the place.
+
+    Returns:
+    - dict: Details of the place obtained from the API.
+    """
     base_url = "https://maps.googleapis.com/maps/api/place/details/json"
     params = {
         'key': api_key,
@@ -21,6 +41,18 @@ def get_place_details(api_key, place_id):
     return result
 
 def get_nearby_places(api_key, location, radius, types):
+    """
+    Get a list of nearby places based on the specified criteria.
+
+    Parameters:
+    - api_key (str): Your Google Maps API Key.
+    - location (str): The geographic coordinates (latitude, longitude) around which to search for places.
+    - radius (int): The radius in meters around the location to consider for place search.
+    - types (str): The type or category of places to search for.
+
+    Returns:
+    - list: A list of places that match the specified criteria.
+    """
     base_url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json"
     params = {
         'key': api_key,
@@ -35,10 +67,12 @@ def get_nearby_places(api_key, location, radius, types):
     return results
 
 def main():
+    # Configuration
     api_key = API_KEY
     gmu_location = (38.8318, -77.3122)
     radius = 80000
-        # Define categories and their corresponding Google Places API types
+
+    # Define categories and their corresponding Google Places API types
     categories = {
         'Museums': 'museum',
         'Art Galleries': 'art_gallery',
@@ -92,35 +126,40 @@ def main():
         'Public Libraries': 'library',
     }
 
-
     all_places = []
 
+    # Iterate through each category and retrieve nearby places
     for category, place_type in categories.items():
         places = get_nearby_places(api_key, f'{gmu_location[0]},{gmu_location[1]}', radius, place_type)
         category_places = []
 
+        # Process each place in the category
         for place in places:
             place_location = (place['geometry']['location']['lat'], place['geometry']['location']['lng'])
             distance = calculate_distance(gmu_location, place_location)
 
+            # Create a dictionary with place information
             place_data = {
                 'name': place['name'],
                 'address': place.get('vicinity', ''),
                 'distance': distance,
                 'category': category,
                 'place_id': place['place_id']
-                
             }
-            
+
+            # Retrieve additional details for the place
             details = get_place_details(api_key, place['place_id'])
             place_data['wheelchair_accessible'] = details.get('accessibility', {}).get('wheelchair_accessible', False)
             place_data['url'] = details.get('url', '')
+
+            # Add the place data to the list
             category_places.append(place_data)
 
+        # Add all places in the category to the overall list
         all_places.extend(category_places)
 
-    # Output data to JSON file
-    with open(f'{os.path.curdir}/place_data.json', 'w') as json_file:
+    # Output data to a JSON file
+    with open('place_data.json', 'w') as json_file:
         json.dump(all_places, json_file, indent=2)
 
 if __name__ == "__main__":
