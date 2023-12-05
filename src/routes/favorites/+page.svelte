@@ -30,7 +30,7 @@
             <div class="place-block">
                 <div class="place-content" id="place{i}">
                     <form data-sveltekit-reload class="clear-selected-favorite-form">
-                        <button data-sveltekit-reload class="clear-selected-favorite" id="clear-selected-favorite" on:click={() => {clearSelectedFavorite(p.url)}}>
+                        <button data-sveltekit-reload class="clear-selected-favorite alignright" id="clear-selected-favorite" on:click={() => {clearSelectedFavorite(p.url)}}>
                             Remove
                         </button>
                     </form>
