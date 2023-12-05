@@ -25,7 +25,7 @@
 
 	const setTheme = (theme) => {
 		document.documentElement.dataset.theme = theme;
-		document.cookie = 'siteTheme = ${theme}';
+		document.cookie = `siteTheme = ${theme}`;
 	};
 
 	let imagePath = sun;
