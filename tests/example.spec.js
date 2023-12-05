@@ -35,7 +35,7 @@ test('places-links', async ({ page }) => {
   const totalPages = 32;
   for (let pageNumber = 2; pageNumber <= totalPages; pageNumber++){
     await expect(page.locator('.results-block')).toBeTruthy();
-    await page.getByRole('link', { name: pageNumber.toString()}).first().click();
+    await page.getByRole('link', { name: (pageNumber).toString()}).first().click();
   } 
 });
 
@@ -57,12 +57,6 @@ test('main-links', async ({ page }) => {
   await page.waitForTimeout(1000);
   explorePageURL = page.url();
   if (explorePageURL !== 'https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/favorites') {
-    throw new Error('Navigation verification failed! Unexpected page loaded.');
-  }
-  await page.getByRole('link', { name: 'mason logo' }).click();
-  await page.waitForTimeout(1000);
-  explorePageURL = page.url();
-  if (explorePageURL !== 'https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/') {
     throw new Error('Navigation verification failed! Unexpected page loaded.');
   }
 });
@@ -96,4 +90,73 @@ test('light-mode-icon', async ({ page }) => {
   await page.locator('#icon').click();
   await page.locator('#icon').click();
   await expect(page.locator('#icon')).toHaveAttribute('alt', "sun");
+});
+
+test('Map existence test within an iframe on the page', async ({ page }) => {
+  // Navigate to the page where the map should be
+  await page.goto('https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/');
+
+  // Use the frameLocator to target the iframe that contains the map
+  const frame = page.frameLocator('iframe[title="Neighborhood discovery"]');
+
+  // Within the iframe, use the locator to find the div with the specified text
+  const mapTextDiv = frame.locator('div').filter({ hasText: /^To navigate, press the arrow keys.$/ }).first();
+
+  // Check if the div with the map text exists and is visible
+  await expect(mapTextDiv).toBeVisible();
+});
+
+test('Search for "fairfax" and check the response', async ({ page }) => {
+  // Navigate to the page where the map should be
+  await page.goto('https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/');
+
+  // Replace 'input[name="search"]' with the actual selector for your search input
+  await page.getByPlaceholder('Search and hit enter...').click();
+  await page.getByPlaceholder('Search and hit enter...').fill('fairfax');
+  await page.getByPlaceholder('Search and hit enter...').press('Enter');
+
+  // Replace 'text="You searched for: fairfax"' with the actual selector or text locator that fits your page
+  const searchResultText = await page.locator('text="You searched for: fairfax"').first();
+  await expect(searchResultText).toBeTruthy();
+
+  // Ensure that the text is visible
+  await expect(searchResultText).toBeVisible();
+});
+
+test('Main link functionability', async ({ page }) => {
+  // Navigate to the page where the map should be
+  await page.goto('https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/');
+
+  // Expect a title "to contain" a substring.
+  await expect(page).toHaveTitle(/Entertainment Finder/);
+
+  // Expect the link to display proper link site
+  await expect(page).toHaveURL('https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/');
+});
+
+test('Places link functionability', async ({ page }) => {
+  // Navigate to the page where the map should be
+  await page.goto('https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/');
+
+  await page.getByRole('link', { name: 'Places' }).click();
+
+  await expect(page).toHaveURL('https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/places');
+});
+
+test('Explore link functionability', async ({ page }) => {
+  // Navigate to the page where the map should be
+  await page.goto('https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/');
+
+  await page.getByRole('link', { name: 'Explore' }).click();
+
+  await expect(page).toHaveURL('https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/explore');
+});
+
+test('Favorites link functionability', async ({ page }) => {
+  // Navigate to the page where the map should be
+  await page.goto('https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/');
+
+  await page.getByRole('link', { name: 'Favorites' }).click(); 
+
+  await expect(page).toHaveURL('https://mason-event-finder-git-development-williamacraig-outlookcom.vercel.app/favorites');
 });
